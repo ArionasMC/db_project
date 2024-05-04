@@ -112,7 +112,7 @@ CREATE TABLE IF NOT EXISTS `mydb`.`recipe` (
     ON UPDATE NO ACTION,
   CONSTRAINT `fk_recipe_ingredient1`
     FOREIGN KEY (`ingredient_name` , `ingredient_food_team_short_name`)
-    REFERENCES `mydb`.`ingredient` (`name` , `name`)
+    REFERENCES `mydb`.`ingredient` (`name` , `food_team_short_name`)
     ON DELETE NO ACTION
     ON UPDATE NO ACTION,
   CONSTRAINT `fk_recipe_image1`
@@ -383,7 +383,7 @@ CREATE TABLE IF NOT EXISTS `mydb`.`chef` (
   `last_name` VARCHAR(16) NOT NULL,
   `phone` VARCHAR(16) NOT NULL,
   `date_of_birth` DATE NOT NULL,
-  `age` INT GENERATED ALWAYS AS (TIMESTAMPDIFF(YEAR,birth,CURDATE()) ),
+  `age` INT DEFAULT 0,
   `years_exp` INT NULL,
   `rank` ENUM('Γ Μάγειρας', 'Β Μάγειρας', 'Α Μάγειρας', 'Βοηθός', 'Σεφ') NULL,
   `image_id` INT NOT NULL,
@@ -396,6 +396,15 @@ CREATE TABLE IF NOT EXISTS `mydb`.`chef` (
     ON UPDATE NO ACTION)
 ENGINE = InnoDB;
 
+DELIMITER //
+CREATE TRIGGER `calculate_chef_age` AFTER INSERT ON `mydb`.`chef` FOR EACH ROW
+BEGIN
+	UPDATE `mydb`.`chef`
+    SET age = DATE_FORMAT(FROM_DAYS(DATEDIFF(NOW(), date_of_birth)), "%Y")+0
+    WHERE id = NEW.id;
+END;
+//
+DELIMITER ; 
 
 -- -----------------------------------------------------
 -- Table `mydb`.`chef_has_cuisine`
