@@ -177,13 +177,13 @@ CREATE TABLE IF NOT EXISTS `mydb`.`recipe_has_label` (
   CONSTRAINT `fk_recipe_has_label_recipe1`
     FOREIGN KEY (`recipe_name` , `recipe_cuisine_name`)
     REFERENCES `mydb`.`recipe` (`name` , `cuisine_name`)
-    ON DELETE NO ACTION
-    ON UPDATE NO ACTION,
+    ON DELETE RESTRICT
+    ON UPDATE CASCADE,
   CONSTRAINT `fk_recipe_has_label_label1`
     FOREIGN KEY (`label_name`)
     REFERENCES `mydb`.`label` (`name`)
-    ON DELETE NO ACTION
-    ON UPDATE NO ACTION)
+    ON DELETE RESTRICT
+    ON UPDATE CASCADE)
 ENGINE = InnoDB;
 
 
@@ -209,13 +209,13 @@ CREATE TABLE IF NOT EXISTS `mydb`.`recipe_has_tip` (
   CONSTRAINT `fk_recipe_has_tip_recipe1`
     FOREIGN KEY (`recipe_name` , `recipe_cuisine_name`)
     REFERENCES `mydb`.`recipe` (`name` , `cuisine_name`)
-    ON DELETE NO ACTION
-    ON UPDATE NO ACTION,
+    ON DELETE RESTRICT
+    ON UPDATE CASCADE,
   CONSTRAINT `fk_recipe_has_tip_tip1`
     FOREIGN KEY (`tip_tip`)
     REFERENCES `mydb`.`tip` (`tip`)
-    ON DELETE NO ACTION
-    ON UPDATE NO ACTION)
+    ON DELETE RESTRICT
+    ON UPDATE CASCADE)
 ENGINE = InnoDB;
 
 
@@ -231,8 +231,8 @@ CREATE TABLE IF NOT EXISTS `mydb`.`equipment` (
   CONSTRAINT `fk_equipment_image1`
     FOREIGN KEY (`image_id`)
     REFERENCES `mydb`.`image` (`id`)
-    ON DELETE NO ACTION
-    ON UPDATE NO ACTION)
+    ON DELETE RESTRICT
+    ON UPDATE CASCADE)
 ENGINE = InnoDB;
 
 
@@ -249,13 +249,13 @@ CREATE TABLE IF NOT EXISTS `mydb`.`recipe_has_equipment` (
   CONSTRAINT `fk_recipe_has_equipment_recipe1`
     FOREIGN KEY (`recipe_name` , `recipe_cuisine_name`)
     REFERENCES `mydb`.`recipe` (`name` , `cuisine_name`)
-    ON DELETE NO ACTION
-    ON UPDATE NO ACTION,
+    ON DELETE RESTRICT
+    ON UPDATE CASCADE,
   CONSTRAINT `fk_recipe_has_equipment_equipment1`
     FOREIGN KEY (`equipment_name`)
     REFERENCES `mydb`.`equipment` (`name`)
-    ON DELETE NO ACTION
-    ON UPDATE NO ACTION)
+    ON DELETE RESTRICT
+    ON UPDATE CASCADE)
 ENGINE = InnoDB;
 
 
@@ -269,8 +269,8 @@ CREATE TABLE IF NOT EXISTS `mydb`.`quantity_ingr` (
   CONSTRAINT `fk_quantity_ingr_ingredient1`
     FOREIGN KEY (`name`)
     REFERENCES `mydb`.`ingredient` (`name`)
-    ON DELETE NO ACTION
-    ON UPDATE NO ACTION)
+    ON DELETE RESTRICT
+    ON UPDATE CASCADE)
 ENGINE = InnoDB;
 
 
@@ -287,13 +287,13 @@ CREATE TABLE IF NOT EXISTS `mydb`.`recipe_has_ingredient` (
   CONSTRAINT `fk_recipe_has_ingredient_recipe1`
     FOREIGN KEY (`recipe_name` , `recipe_cuisine_name`)
     REFERENCES `mydb`.`recipe` (`name` , `cuisine_name`)
-    ON DELETE NO ACTION
-    ON UPDATE NO ACTION,
+    ON DELETE RESTRICT
+    ON UPDATE CASCADE,
   CONSTRAINT `fk_recipe_has_ingredient_ingredient1`
     FOREIGN KEY (`ingredient_name`)
     REFERENCES `mydb`.`ingredient` (`name`)
-    ON DELETE NO ACTION
-    ON UPDATE NO ACTION)
+    ON DELETE RESTRICT
+    ON UPDATE CASCADE)
 ENGINE = InnoDB;
 
 
@@ -309,8 +309,8 @@ CREATE TABLE IF NOT EXISTS `mydb`.`theme` (
   CONSTRAINT `fk_theme_image1`
     FOREIGN KEY (`image_id`)
     REFERENCES `mydb`.`image` (`id`)
-    ON DELETE NO ACTION
-    ON UPDATE NO ACTION)
+    ON DELETE RESTRICT
+    ON UPDATE CASCADE)
 ENGINE = InnoDB;
 
 
@@ -327,13 +327,13 @@ CREATE TABLE IF NOT EXISTS `mydb`.`recipe_has_theme` (
   CONSTRAINT `fk_recipe_has_theme_recipe1`
     FOREIGN KEY (`recipe_name` , `recipe_cuisine_name`)
     REFERENCES `mydb`.`recipe` (`name` , `cuisine_name`)
-    ON DELETE NO ACTION
-    ON UPDATE NO ACTION,
+    ON DELETE RESTRICT
+    ON UPDATE CASCADE,
   CONSTRAINT `fk_recipe_has_theme_theme1`
     FOREIGN KEY (`theme_name`)
     REFERENCES `mydb`.`theme` (`name`)
-    ON DELETE NO ACTION
-    ON UPDATE NO ACTION)
+    ON DELETE RESTRICT
+    ON UPDATE CASCADE)
 ENGINE = InnoDB;
 
 
@@ -350,8 +350,8 @@ CREATE TABLE IF NOT EXISTS `mydb`.`step` (
   CONSTRAINT `fk_step_recipe1`
     FOREIGN KEY (`recipe_name` , `recipe_cuisine_name`)
     REFERENCES `mydb`.`recipe` (`name` , `cuisine_name`)
-    ON DELETE NO ACTION
-    ON UPDATE NO ACTION)
+    ON DELETE RESTRICT
+    ON UPDATE CASCADE)
 ENGINE = InnoDB;
 
 
@@ -369,8 +369,8 @@ CREATE TABLE IF NOT EXISTS `mydb`.`food_info` (
   CONSTRAINT `fk_food_info_recipe1`
     FOREIGN KEY (`recipe_name` , `recipe_cuisine_name`)
     REFERENCES `mydb`.`recipe` (`name` , `cuisine_name`)
-    ON DELETE NO ACTION
-    ON UPDATE NO ACTION)
+    ON DELETE RESTRICT
+    ON UPDATE CASCADE)
 ENGINE = InnoDB;
 
 
@@ -392,8 +392,8 @@ CREATE TABLE IF NOT EXISTS `mydb`.`chef` (
   CONSTRAINT `fk_chef_image1`
     FOREIGN KEY (`image_id`)
     REFERENCES `mydb`.`image` (`id`)
-    ON DELETE NO ACTION
-    ON UPDATE NO ACTION)
+    ON DELETE RESTRICT
+    ON UPDATE CASCADE)
 ENGINE = InnoDB;
 
 DELIMITER //
@@ -418,13 +418,13 @@ CREATE TABLE IF NOT EXISTS `mydb`.`chef_has_cuisine` (
   CONSTRAINT `fk_chef_has_cuisine_chef1`
     FOREIGN KEY (`chef_id`)
     REFERENCES `mydb`.`chef` (`id`)
-    ON DELETE NO ACTION
-    ON UPDATE NO ACTION,
+    ON DELETE RESTRICT
+    ON UPDATE CASCADE,
   CONSTRAINT `fk_chef_has_cuisine_cuisine1`
     FOREIGN KEY (`cuisine_name`)
     REFERENCES `mydb`.`cuisine` (`name`)
-    ON DELETE NO ACTION
-    ON UPDATE NO ACTION)
+    ON DELETE RESTRICT
+    ON UPDATE CASCADE)
 ENGINE = InnoDB;
 
 
@@ -440,8 +440,8 @@ CREATE TABLE IF NOT EXISTS `mydb`.`episode` (
   CONSTRAINT `fk_episode_image1`
     FOREIGN KEY (`image_id`)
     REFERENCES `mydb`.`image` (`id`)
-    ON DELETE NO ACTION
-    ON UPDATE NO ACTION)
+    ON DELETE RESTRICT
+    ON UPDATE CASCADE)
 ENGINE = InnoDB;
 
 
@@ -458,13 +458,13 @@ CREATE TABLE IF NOT EXISTS `mydb`.`episode_has_cuisine` (
   CONSTRAINT `fk_episode_has_cuisine_episode1`
     FOREIGN KEY (`episode_id` , `episode_year`)
     REFERENCES `mydb`.`episode` (`id` , `year`)
-    ON DELETE NO ACTION
-    ON UPDATE NO ACTION,
+    ON DELETE RESTRICT
+    ON UPDATE CASCADE,
   CONSTRAINT `fk_episode_has_cuisine_cuisine1`
     FOREIGN KEY (`cuisine_name`)
     REFERENCES `mydb`.`cuisine` (`name`)
-    ON DELETE NO ACTION
-    ON UPDATE NO ACTION)
+    ON DELETE RESTRICT
+    ON UPDATE CASCADE)
 ENGINE = InnoDB;
 
 
@@ -481,13 +481,13 @@ CREATE TABLE IF NOT EXISTS `mydb`.`episode_has_chef` (
   CONSTRAINT `fk_episode_has_chef_episode1`
     FOREIGN KEY (`episode_id` , `episode_year`)
     REFERENCES `mydb`.`episode` (`id` , `year`)
-    ON DELETE NO ACTION
-    ON UPDATE NO ACTION,
+    ON DELETE RESTRICT
+    ON UPDATE CASCADE,
   CONSTRAINT `fk_episode_has_chef_chef1`
     FOREIGN KEY (`chef_id`)
     REFERENCES `mydb`.`chef` (`id`)
-    ON DELETE NO ACTION
-    ON UPDATE NO ACTION)
+    ON DELETE RESTRICT
+    ON UPDATE CASCADE)
 ENGINE = InnoDB;
 
 
@@ -504,13 +504,13 @@ CREATE TABLE IF NOT EXISTS `mydb`.`episode_judges` (
   CONSTRAINT `fk_episode_has_chef1_episode1`
     FOREIGN KEY (`episode_id` , `episode_year`)
     REFERENCES `mydb`.`episode` (`id` , `year`)
-    ON DELETE NO ACTION
-    ON UPDATE NO ACTION,
+    ON DELETE RESTRICT
+    ON UPDATE CASCADE,
   CONSTRAINT `fk_episode_has_chef1_chef1`
     FOREIGN KEY (`chef_id`)
     REFERENCES `mydb`.`chef` (`id`)
-    ON DELETE NO ACTION
-    ON UPDATE NO ACTION)
+    ON DELETE RESTRICT
+    ON UPDATE CASCADE)
 ENGINE = InnoDB;
 
 
@@ -528,13 +528,13 @@ CREATE TABLE IF NOT EXISTS `mydb`.`episode_has_recipe` (
   CONSTRAINT `fk_episode_has_recipe_episode1`
     FOREIGN KEY (`episode_id` , `episode_year`)
     REFERENCES `mydb`.`episode` (`id` , `year`)
-    ON DELETE NO ACTION
-    ON UPDATE NO ACTION,
+    ON DELETE RESTRICT
+    ON UPDATE CASCADE,
   CONSTRAINT `fk_episode_has_recipe_recipe1`
     FOREIGN KEY (`recipe_name` , `recipe_cuisine_name`)
     REFERENCES `mydb`.`recipe` (`name` , `cuisine_name`)
-    ON DELETE NO ACTION
-    ON UPDATE NO ACTION)
+    ON DELETE RESTRICT
+    ON UPDATE CASCADE)
 ENGINE = InnoDB;
 
 
@@ -553,13 +553,13 @@ CREATE TABLE IF NOT EXISTS `mydb`.`grading` (
   CONSTRAINT `fk_episode_judges_has_episode_has_chef_episode_judges1`
     FOREIGN KEY (`episode_id` , `episode_year` , `judge_chef_id`)
     REFERENCES `mydb`.`episode_judges` (`episode_id` , `episode_year` , `chef_id`)
-    ON DELETE NO ACTION
-    ON UPDATE NO ACTION,
+    ON DELETE RESTRICT
+    ON UPDATE CASCADE,
   CONSTRAINT `fk_episode_judges_has_episode_has_chef_episode_has_chef1`
     FOREIGN KEY (`participant_chef_id`)
     REFERENCES `mydb`.`episode_has_chef` (`chef_id`)
-    ON DELETE NO ACTION
-    ON UPDATE NO ACTION)
+    ON DELETE RESTRICT
+    ON UPDATE CASCADE)
 ENGINE = InnoDB;
 
 
