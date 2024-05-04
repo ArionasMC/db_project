@@ -2,6 +2,7 @@ package me.amc.app;
 
 import java.sql.Connection;
 import java.sql.ResultSet;
+import java.sql.ResultSetMetaData;
 import java.sql.Statement;
 
 public class AppQuestion {
@@ -23,6 +24,25 @@ public class AppQuestion {
         } catch(Exception ex) {
             System.out.println("Could not execute query: "+ex.getMessage());
             return null;
+        }
+    }
+
+    public void printSimpleResult() {
+        try {
+            ResultSet rs = this.getResult();
+            ResultSetMetaData rsmd = rs.getMetaData();
+            int columnsNumber = rsmd.getColumnCount();
+            while(rs.next()) {
+                for(int i = 1; i <= columnsNumber; i++) {
+                    System.out.print(rs.getString(i));
+                    if(i < columnsNumber)
+                        System.out.print(", ");
+                }
+                System.out.println();
+            }
+            rs.close();
+        } catch(Exception ex) {
+            System.out.println("Something went wrong: "+ex.getMessage());
         }
     }
 
