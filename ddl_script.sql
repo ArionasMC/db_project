@@ -39,8 +39,8 @@ CREATE TABLE IF NOT EXISTS `mydb`.`cuisine` (
   CONSTRAINT `fk_cuisine_image1`
     FOREIGN KEY (`image_id`)
     REFERENCES `mydb`.`image` (`id`)
-    ON DELETE NO ACTION
-    ON UPDATE NO ACTION)
+    ON DELETE RESTRICT
+    ON UPDATE CASCADE)
 ENGINE = InnoDB;
 
 
@@ -57,8 +57,8 @@ CREATE TABLE IF NOT EXISTS `mydb`.`food_team` (
   CONSTRAINT `fk_food_team_image1`
     FOREIGN KEY (`image_id`)
     REFERENCES `mydb`.`image` (`id`)
-    ON DELETE NO ACTION
-    ON UPDATE NO ACTION)
+    ON DELETE RESTRICT
+    ON UPDATE CASCADE)
 ENGINE = InnoDB;
 
 
@@ -76,13 +76,13 @@ CREATE TABLE IF NOT EXISTS `mydb`.`ingredient` (
   CONSTRAINT `fk_ingredient_food_team1`
     FOREIGN KEY (`food_team_short_name`)
     REFERENCES `mydb`.`food_team` (`short_name`)
-    ON DELETE NO ACTION
-    ON UPDATE NO ACTION,
+    ON DELETE RESTRICT
+    ON UPDATE CASCADE,
   CONSTRAINT `fk_ingredient_image1`
     FOREIGN KEY (`image_id`)
     REFERENCES `mydb`.`image` (`id`)
-    ON DELETE NO ACTION
-    ON UPDATE NO ACTION)
+    ON DELETE RESTRICT
+    ON UPDATE CASCADE)
 ENGINE = InnoDB;
 
 
@@ -108,18 +108,18 @@ CREATE TABLE IF NOT EXISTS `mydb`.`recipe` (
   CONSTRAINT `fk_recipe_cuisine`
     FOREIGN KEY (`cuisine_name`)
     REFERENCES `mydb`.`cuisine` (`name`)
-    ON DELETE NO ACTION
-    ON UPDATE NO ACTION,
+    ON DELETE RESTRICT
+    ON UPDATE CASCADE,
   CONSTRAINT `fk_recipe_ingredient1`
     FOREIGN KEY (`ingredient_name` , `ingredient_food_team_short_name`)
     REFERENCES `mydb`.`ingredient` (`name` , `food_team_short_name`)
-    ON DELETE NO ACTION
-    ON UPDATE NO ACTION,
+    ON DELETE RESTRICT
+    ON UPDATE CASCADE,
   CONSTRAINT `fk_recipe_image1`
     FOREIGN KEY (`image_id`)
     REFERENCES `mydb`.`image` (`id`)
-    ON DELETE NO ACTION
-    ON UPDATE NO ACTION)
+    ON DELETE RESTRICT
+    ON UPDATE CASCADE)
 ENGINE = InnoDB;
 
 
@@ -145,13 +145,13 @@ CREATE TABLE IF NOT EXISTS `mydb`.`recipe_has_meal` (
   CONSTRAINT `fk_recipe_has_meal_recipe1`
     FOREIGN KEY (`recipe_name` , `recipe_cuisine_name`)
     REFERENCES `mydb`.`recipe` (`name` , `cuisine_name`)
-    ON DELETE NO ACTION
-    ON UPDATE NO ACTION,
+    ON DELETE RESTRICT
+    ON UPDATE CASCADE,
   CONSTRAINT `fk_recipe_has_meal_meal1`
     FOREIGN KEY (`meal_type`)
     REFERENCES `mydb`.`meal` (`type`)
-    ON DELETE NO ACTION
-    ON UPDATE NO ACTION)
+    ON DELETE RESTRICT
+    ON UPDATE CASCADE)
 ENGINE = InnoDB;
 
 
