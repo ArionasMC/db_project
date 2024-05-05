@@ -22,7 +22,7 @@ USE `mydb` ;
 -- -----------------------------------------------------
 CREATE TABLE IF NOT EXISTS `mydb`.`image` (
   `id` INT NOT NULL,
-  `description` TEXT NULL,
+  `description` TEXT NOT NULL,
   `image_url` TEXT NULL,
   PRIMARY KEY (`id`))
 ENGINE = InnoDB;
@@ -91,7 +91,7 @@ ENGINE = InnoDB;
 -- -----------------------------------------------------
 CREATE TABLE IF NOT EXISTS `mydb`.`recipe` (
   `type` ENUM('Μαγειρική', 'Ζαχαροπλαστική') NOT NULL,
-  `difficulty` TINYINT NOT NULL,
+  `difficulty` TINYINT NOT NULL CHECK (difficulty > 0 AND difficulty < 6),
   `name` VARCHAR(128) NOT NULL,
   `description` TEXT NULL,
   `prep_time_m` INT NOT NULL,
@@ -218,13 +218,29 @@ CREATE TABLE IF NOT EXISTS `mydb`.`recipe_has_tip` (
     ON UPDATE CASCADE)
 ENGINE = InnoDB;
 
+DELIMITER //
+
+CREATE TRIGGER up_to_3_tips
+BEFORE INSERT ON recipe_has_tip
+FOR EACH ROW
+BEGIN
+    DECLARE tip_count INT;
+    SELECT COUNT(*) INTO tip_count FROM recipe_has_tip WHERE recipe_name = NEW.recipe_name AND recipe_cuisine_name = NEW.recipe_cuisine_name;
+    IF tip_count >= 3 THEN
+        SIGNAL SQLSTATE '45000'
+        SET MESSAGE_TEXT = 'A recipe can have up to 3 useful tips';
+    END IF;
+END//
+
+DELIMITER ;
+
 
 -- -----------------------------------------------------
 -- Table `mydb`.`equipment`
 -- -----------------------------------------------------
 CREATE TABLE IF NOT EXISTS `mydb`.`equipment` (
   `name` VARCHAR(64) NOT NULL,
-  `manual` TEXT NULL,
+  `manual` TEXT NOT NULL,
   `image_id` INT NOT NULL,
   PRIMARY KEY (`name`),
   INDEX `fk_equipment_image1_idx` (`image_id` ASC) VISIBLE,
@@ -302,7 +318,7 @@ ENGINE = InnoDB;
 -- -----------------------------------------------------
 CREATE TABLE IF NOT EXISTS `mydb`.`theme` (
   `name` VARCHAR(64) NOT NULL,
-  `description` TEXT NULL,
+  `description` TEXT NOT NULL,
   `image_id` INT NOT NULL,
   PRIMARY KEY (`name`),
   INDEX `fk_theme_image1_idx` (`image_id` ASC) VISIBLE,
@@ -342,7 +358,7 @@ ENGINE = InnoDB;
 -- -----------------------------------------------------
 CREATE TABLE IF NOT EXISTS `mydb`.`step` (
   `number` INT NOT NULL,
-  `description` TEXT NULL,
+  `description` TEXT NOT NULL,
   `recipe_name` VARCHAR(128) NOT NULL,
   `recipe_cuisine_name` VARCHAR(128) NOT NULL,
   PRIMARY KEY (`recipe_name`, `recipe_cuisine_name`, `number`),
@@ -384,8 +400,8 @@ CREATE TABLE IF NOT EXISTS `mydb`.`chef` (
   `phone` VARCHAR(16) NOT NULL,
   `date_of_birth` DATE NOT NULL,
   `age` INT DEFAULT 0,
-  `years_exp` INT NULL,
-  `rank` ENUM('Γ Μάγειρας', 'Β Μάγειρας', 'Α Μάγειρας', 'Βοηθός', 'Σεφ') NULL,
+  `years_exp` INT DEFAULT 0,
+  `rank` ENUM('Γ Μάγειρας', 'Β Μάγειρας', 'Α Μάγειρας', 'Βοηθός', 'Σεφ') NOT NULL,
   `image_id` INT NOT NULL,
   PRIMARY KEY (`id`),
   INDEX `fk_chef_image1_idx` (`image_id` ASC) VISIBLE,
@@ -546,7 +562,7 @@ CREATE TABLE IF NOT EXISTS `mydb`.`grading` (
   `episode_year` INT NOT NULL,
   `judge_chef_id` INT NOT NULL,
   `participant_chef_id` INT NOT NULL,
-  `grade` INT NULL,
+  `grade` INT NOT NULL CHECK (grade > 0 AND grade < 6),
   PRIMARY KEY (`episode_id`, `episode_year`, `judge_chef_id`, `participant_chef_id`),
   INDEX `fk_episode_judges_has_episode_has_chef_episode_has_chef1_idx` (`participant_chef_id` ASC) VISIBLE,
   INDEX `fk_episode_judges_has_episode_has_chef_episode_judges1_idx` (`episode_id` ASC, `episode_year` ASC, `judge_chef_id` ASC) VISIBLE,
@@ -568,7 +584,7 @@ ENGINE = InnoDB;
 -- -----------------------------------------------------
 CREATE TABLE IF NOT EXISTS `mydb`.`user` (
   `username` VARCHAR(64) NOT NULL,
-  `password` VARCHAR(64) NULL,
+  `password` VARCHAR(64) NOT NULL,
   PRIMARY KEY (`username`))
 ENGINE = InnoDB;
 
