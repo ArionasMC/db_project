@@ -423,6 +423,29 @@ END;
 DELIMITER ; 
 
 -- -----------------------------------------------------
+-- Table `mydb`.`recipe_has_chef'
+-- -----------------------------------------------------
+
+CREATE TABLE IF NOT EXISTS `mydb`.`recipe_has_chef` (
+  `recipe_name` VARCHAR(128) NOT NULL,
+  `recipe_cuisine_name` VARCHAR(128) NOT NULL,
+  `chef_id` INT NOT NULL,
+  PRIMARY KEY (`recipe_name`, `recipe_cuisine_name`, `chef_id`),
+  INDEX `fk_recipe_has_chef_chef1_idx` (`chef_id` ASC) VISIBLE,
+  INDEX `fk_recipe_has_chef_recipe1_idx` (`recipe_name` ASC, `recipe_cuisine_name` ASC) VISIBLE,
+  CONSTRAINT `fk_recipe_has_chef_recipe1`
+    FOREIGN KEY (`recipe_name` , `recipe_cuisine_name`)
+    REFERENCES `mydb`.`recipe` (`name` , `cuisine_name`)
+    ON DELETE RESTRICT
+    ON UPDATE CASCADE,
+  CONSTRAINT `fk_recipe_has_chef_chef1`
+    FOREIGN KEY (`chef_id`)
+    REFERENCES `mydb`.`chef` (`id`)
+    ON DELETE RESTRICT
+    ON UPDATE CASCADE)
+ENGINE = InnoDB;
+
+-- -----------------------------------------------------
 -- Table `mydb`.`chef_has_cuisine`
 -- -----------------------------------------------------
 CREATE TABLE IF NOT EXISTS `mydb`.`chef_has_cuisine` (
