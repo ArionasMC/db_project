@@ -21,9 +21,9 @@ USE `mydb` ;
 -- Table `mydb`.`image`
 -- -----------------------------------------------------
 CREATE TABLE IF NOT EXISTS `mydb`.`image` (
-  `id` INT NOT NULL,
-  `description` TEXT NOT NULL,
-  `image_url` TEXT NULL,
+  `id` INT NOT NULL AUTO_INCREMENT,
+  `description` TEXT,
+  `image_url` TEXT,
   PRIMARY KEY (`id`))
 ENGINE = InnoDB;
 
@@ -240,7 +240,7 @@ DELIMITER ;
 -- -----------------------------------------------------
 CREATE TABLE IF NOT EXISTS `mydb`.`equipment` (
   `name` VARCHAR(64) NOT NULL,
-  `manual` TEXT NOT NULL,
+  `manual` TEXT,
   `image_id` INT NOT NULL,
   PRIMARY KEY (`name`),
   INDEX `fk_equipment_image1_idx` (`image_id` ASC) VISIBLE,
