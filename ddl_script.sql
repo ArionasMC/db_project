@@ -90,7 +90,7 @@ ENGINE = InnoDB;
 -- Table `mydb`.`recipe`
 -- -----------------------------------------------------
 CREATE TABLE IF NOT EXISTS `mydb`.`recipe` (
-  `type` ENUM('Μαγειρική', 'Ζαχαροπλαστική') NOT NULL,
+  `type` ENUM('Cooking', 'Pastry') NOT NULL,
   `difficulty` TINYINT NOT NULL CHECK (difficulty > 0 AND difficulty < 6),
   `name` VARCHAR(128) NOT NULL,
   `description` TEXT NULL,
@@ -385,7 +385,7 @@ CREATE TABLE IF NOT EXISTS `mydb`.`chef` (
   `date_of_birth` DATE NOT NULL,
   `age` INT DEFAULT 0,
   `years_exp` INT DEFAULT 0,
-  `rank` ENUM('Γ Μάγειρας', 'Β Μάγειρας', 'Α Μάγειρας', 'Βοηθός', 'Σεφ') NOT NULL,
+  `rank` ENUM('C Cook', 'B Cook', 'A Cook', 'Helper Cook', 'Chef') NOT NULL,
   `image_id` INT NOT NULL,
   PRIMARY KEY (`id`),
   INDEX `fk_chef_image1_idx` (`image_id` ASC) VISIBLE,
