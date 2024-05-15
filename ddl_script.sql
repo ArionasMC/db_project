@@ -70,7 +70,7 @@ CREATE TABLE IF NOT EXISTS `mydb`.`ingredient` (
   `cal_per_100` INT NULL,
   `food_team_short_name` VARCHAR(64) NOT NULL,
   `image_id` INT NOT NULL,
-  PRIMARY KEY (`name`, `food_team_short_name`),
+  PRIMARY KEY (`name`),
   INDEX `fk_ingredient_food_team1_idx` (`food_team_short_name` ASC) VISIBLE,
   INDEX `fk_ingredient_image1_idx` (`image_id` ASC) VISIBLE,
   CONSTRAINT `fk_ingredient_food_team1`
@@ -98,12 +98,11 @@ CREATE TABLE IF NOT EXISTS `mydb`.`recipe` (
   `cook_time_m` INT NOT NULL COMMENT 'in minutes\n',
   `cuisine_name` VARCHAR(128) NOT NULL,
   `ingredient_name` VARCHAR(64) NOT NULL,
-  `ingredient_food_team_short_name` VARCHAR(64) NOT NULL,
   `portions` INT NOT NULL,
   `image_id` INT NOT NULL,
   PRIMARY KEY (`name`, `cuisine_name`),
   INDEX `fk_recipe_cuisine_idx` (`cuisine_name` ASC) VISIBLE,
-  INDEX `fk_recipe_ingredient1_idx` (`ingredient_name` ASC, `ingredient_food_team_short_name` ASC) VISIBLE,
+  INDEX `fk_recipe_ingredient1_idx` (`ingredient_name` ASC) VISIBLE,
   INDEX `fk_recipe_image1_idx` (`image_id` ASC) VISIBLE,
   CONSTRAINT `fk_recipe_cuisine`
     FOREIGN KEY (`cuisine_name`)
@@ -111,8 +110,8 @@ CREATE TABLE IF NOT EXISTS `mydb`.`recipe` (
     ON DELETE RESTRICT
     ON UPDATE CASCADE,
   CONSTRAINT `fk_recipe_ingredient1`
-    FOREIGN KEY (`ingredient_name` , `ingredient_food_team_short_name`)
-    REFERENCES `mydb`.`ingredient` (`name` , `food_team_short_name`)
+    FOREIGN KEY (`ingredient_name`)
+    REFERENCES `mydb`.`ingredient` (`name`)
     ON DELETE RESTRICT
     ON UPDATE CASCADE,
   CONSTRAINT `fk_recipe_image1`
@@ -274,22 +273,6 @@ CREATE TABLE IF NOT EXISTS `mydb`.`recipe_has_equipment` (
     ON UPDATE CASCADE)
 ENGINE = InnoDB;
 
-
--- -----------------------------------------------------
--- Table `mydb`.`quantity_ingr`
--- -----------------------------------------------------
-CREATE TABLE IF NOT EXISTS `mydb`.`quantity_ingr` (
-  `name` VARCHAR(64) NOT NULL,
-  `quantity` INT NOT NULL,
-  PRIMARY KEY (`name`, `quantity`),
-  CONSTRAINT `fk_quantity_ingr_ingredient1`
-    FOREIGN KEY (`name`)
-    REFERENCES `mydb`.`ingredient` (`name`)
-    ON DELETE RESTRICT
-    ON UPDATE CASCADE)
-ENGINE = InnoDB;
-
-
 -- -----------------------------------------------------
 -- Table `mydb`.`recipe_has_ingredient`
 -- -----------------------------------------------------
@@ -297,6 +280,7 @@ CREATE TABLE IF NOT EXISTS `mydb`.`recipe_has_ingredient` (
   `recipe_name` VARCHAR(128) NOT NULL,
   `recipe_cuisine_name` VARCHAR(128) NOT NULL,
   `ingredient_name` VARCHAR(64) NOT NULL,
+  `quantity` INT NULL DEFAULT 20,
   PRIMARY KEY (`recipe_name`, `recipe_cuisine_name`, `ingredient_name`),
   INDEX `fk_recipe_has_ingredient_ingredient1_idx` (`ingredient_name` ASC) VISIBLE,
   INDEX `fk_recipe_has_ingredient_recipe1_idx` (`recipe_name` ASC, `recipe_cuisine_name` ASC) VISIBLE,
