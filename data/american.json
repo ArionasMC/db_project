@@ -1,0 +1,331 @@
+[
+    {
+        "type": "meal",
+        "cuisine_name": "American",
+        "tags": ["dinner", "classic"],
+        "name": "Cheeseburger",
+        "prep_time": 10,
+        "cook_time": 10,
+        "description": "A classic American cheeseburger with a juicy beef patty, topped with cheddar cheese, lettuce, tomato, onions, and pickles, served on a toasted bun.",
+        "steps": [
+            "Form ground beef into patties and season with salt and pepper.",
+            "Grill patties on medium-high heat until desired doneness.",
+            "Place a slice of cheese on each patty in the last minute of cooking to melt.",
+            "Toast hamburger buns on the grill.",
+            "Assemble the burgers by placing lettuce, tomato, patty with cheese, onions, and pickles on the bun.",
+            "Serve with ketchup, mustard, or mayonnaise."
+        ],
+        "difficulty": 2,
+        "ingredients": [
+            "1 lb ground beef",
+            "4 slices cheddar cheese",
+            "4 hamburger buns",
+            "Lettuce leaves",
+            "1 tomato, sliced",
+            "1 onion, sliced",
+            "Pickles",
+            "Salt and pepper"
+        ],
+        "tips": [
+            "Do not press down on the patties while grilling to keep the juices inside.",
+            "For extra flavor, add a slice of bacon on top of the cheese.",
+            "Use high-quality meat with a bit of fat for juicier patties."
+        ],
+        "equipment": ["grill", "knife", "cutting board"]
+    },
+    {
+        "type": "dessert",
+        "cuisine_name": "American",
+        "tags": ["dessert", "traditional"],
+        "name": "Apple Pie",
+        "prep_time": 30,
+        "cook_time": 45,
+        "description": "A traditional American dessert, this apple pie features a flaky pastry crust filled with sweet and spicy cinnamon apple filling.",
+        "steps": [
+            "Prepare the pie crust and line a pie dish with one layer of crust.",
+            "Mix sliced apples with sugar, cinnamon, and flour.",
+            "Fill the pie crust with the apple mixture.",
+            "Cover with the second layer of crust, seal edges, and cut small slits in the top.",
+            "Bake at 375°F until the crust is golden and the filling is bubbly.",
+            "Serve warm with vanilla ice cream."
+        ],
+        "difficulty": 3,
+        "ingredients": [
+            "2 cups all-purpose flour",
+            "1/2 cup butter, chilled and diced",
+            "4 apples, peeled and sliced",
+            "3/4 cup sugar",
+            "1 tsp cinnamon",
+            "2 tbsp all-purpose flour",
+            "Cold water",
+            "Salt"
+        ],
+        "tips": [
+            "Keep all ingredients, especially the butter and water, cold when making the crust.",
+            "Let the pie cool for at least 20 minutes after baking to set the filling.",
+            "Sprinkle a little sugar on top of the crust before baking for a sweet crunch."
+        ],
+        "equipment": ["oven", "mixing bowl", "pie dish", "rolling pin"]
+    },
+    {
+        "type": "meal",
+        "cuisine_name": "American",
+        "tags": ["lunch", "fast food"],
+        "name": "Fried Chicken",
+        "prep_time": 20,
+        "cook_time": 20,
+        "description": "Crispy fried chicken, seasoned with a blend of spices and fried to a perfect golden brown.",
+        "steps": [
+            "Combine flour, salt, pepper, paprika, and garlic powder in a bowl.",
+            "Dip chicken pieces in beaten eggs, then dredge in flour mixture.",
+            "Heat oil in a deep fryer or large skillet to 350°F.",
+            "Fry chicken until crispy and cooked through, about 10 minutes per side.",
+            "Drain on paper towels and serve."
+        ],
+        "difficulty": 2,
+        "ingredients": [
+            "8 chicken pieces (legs, breasts, etc.)",
+            "2 cups flour",
+            "1 egg, beaten",
+            "1 tsp paprika",
+            "1 tsp garlic powder",
+            "Salt and pepper",
+            "Oil for frying"
+        ],
+        "tips": [
+            "Keep the oil temperature consistent for the best results.",
+            "Add a bit of hot sauce to the egg wash for a spicy kick.",
+            "Let the chicken rest for a few minutes after frying for extra crispiness."
+        ],
+        "equipment": ["deep fryer", "bowl", "tongs", "paper towels"]
+    },
+    {
+        "type": "meal",
+        "cuisine_name": "American",
+        "tags": ["dinner", "comfort food"],
+        "name": "Macaroni and Cheese",
+        "prep_time": 10,
+        "cook_time": 20,
+        "description": "A creamy, cheesy macaroni and cheese dish, baked until bubbly and golden.",
+        "steps": [
+            "Cook macaroni according to package instructions; drain.",
+            "In a saucepan, melt butter and stir in flour to make a roux.",
+            "Gradually add milk to the roux, stirring constantly until thickened.",
+            "Remove from heat and mix in grated cheese until melted.",
+            "Combine cheese sauce with macaroni, transfer to a baking dish, and bake at 375°F for 20 minutes.",
+            "Optionally, top with breadcrumbs and bake until golden."
+        ],
+        "difficulty": 2,
+        "ingredients": [
+            "2 cups macaroni",
+            "2 tbsp butter",
+            "2 tbsp all-purpose flour",
+            "2 cups milk",
+            "2 cups cheddar cheese, grated",
+            "Salt and pepper",
+            "Optional: 1/2 cup breadcrumbs"
+        ],
+        "tips": [
+            "For extra creamy macaroni, add a dollop of cream cheese to the sauce.",
+            "Use a mix of different cheeses for more depth of flavor.",
+            "Add cooked bacon or ham for a heartier dish."
+        ],
+        "equipment": ["pot", "oven", "saucepan", "baking dish"]
+    },
+    {
+        "type": "meal",
+        "cuisine_name": "American",
+        "tags": ["dinner", "BBQ"],
+        "name": "Barbecue Ribs",
+        "prep_time": 15,
+        "cook_time": 180,
+        "description": "Slow-cooked pork ribs slathered in barbecue sauce, grilled until tender and caramelized.",
+        "steps": [
+            "Rub ribs with a mixture of paprika, garlic powder, salt, and sugar.",
+            "Wrap ribs in foil and bake at 275°F for 3 hours until tender.",
+            "Remove ribs from foil, brush with barbecue sauce, and grill for 10 minutes on each side.",
+            "Serve with extra barbecue sauce."
+        ],
+        "difficulty": 3,
+        "ingredients": [
+            "2 racks pork ribs",
+            "2 tbsp paprika",
+            "1 tbsp garlic powder",
+            "2 tbsp brown sugar",
+            "Salt",
+            "Barbecue sauce"
+        ],
+        "tips": [
+            "Let the ribs marinate with the dry rub overnight for deeper flavor.",
+            "Keep a water pan in the grill to maintain moisture during the final grilling.",
+            "Apply multiple layers of barbecue sauce for a richer flavor."
+        ],
+        "equipment": ["oven", "grill", "aluminum foil", "basting brush"]
+    },
+    {
+        "type": "meal",
+        "cuisine_name": "American",
+        "tags": ["breakfast", "quick"],
+        "name": "Pancakes",
+        "prep_time": 10,
+        "cook_time": 15,
+        "description": "Fluffy American pancakes, served hot with butter and maple syrup.",
+        "steps": [
+            "Mix flour, sugar, baking powder, and salt in a bowl.",
+            "In another bowl, whisk together milk, egg, and melted butter.",
+            "Combine the wet and dry ingredients until just mixed; some lumps are okay.",
+            "Heat a griddle or skillet over medium heat and pour batter to form pancakes.",
+            "Cook until bubbles form on the surface, then flip and cook until golden.",
+            "Serve with butter and maple syrup."
+        ],
+        "difficulty": 1,
+        "ingredients": [
+            "1 cup all-purpose flour",
+            "2 tbsp sugar",
+            "2 tsp baking powder",
+            "1/2 tsp salt",
+            "1 cup milk",
+            "1 egg",
+            "2 tbsp melted butter",
+            "Maple syrup for serving"
+        ],
+        "tips": [
+            "Do not overmix the batter to keep pancakes fluffy.",
+            "Add blueberries or chocolate chips to the batter for variety.",
+            "Test griddle temperature with a small amount of batter; it should sizzle."
+        ],
+        "equipment": ["bowl", "whisk", "griddle or skillet", "spatula"]
+    },
+    {
+        "type": "dessert",
+        "cuisine_name": "American",
+        "tags": ["dessert", "chocolate"],
+        "name": "Chocolate Chip Cookies",
+        "prep_time": 15,
+        "cook_time": 10,
+        "description": "Classic soft and chewy chocolate chip cookies, loaded with chocolate chips and baked to perfection.",
+        "steps": [
+            "Cream together butter and sugars until fluffy.",
+            "Beat in eggs and vanilla extract.",
+            "Mix in flour, baking soda, and salt.",
+            "Stir in chocolate chips.",
+            "Drop spoonfuls of dough onto a baking sheet and bake at 350°F for 10 minutes or until golden.",
+            "Cool on a wire rack before serving."
+        ],
+        "difficulty": 2,
+        "ingredients": [
+            "2 1/4 cups all-purpose flour",
+            "1/2 tsp baking soda",
+            "1 cup unsalted butter, room temperature",
+            "1/2 cup granulated sugar",
+            "1 cup packed brown sugar",
+            "2 tsp vanilla extract",
+            "2 eggs",
+            "2 cups chocolate chips"
+        ],
+        "tips": [
+            "Chill the dough for 30 minutes before baking to prevent spreading.",
+            "Use a combination of chocolate chip types (milk, dark, white) for extra flavor.",
+            "Store cookies in an airtight container to keep them soft."
+        ],
+        "equipment": ["mixing bowl", "baking sheet", "oven", "wire rack"]
+    },
+    {
+        "type": "meal",
+        "cuisine_name": "American",
+        "tags": ["lunch", "sandwich"],
+        "name": "BLT Sandwich",
+        "prep_time": 5,
+        "cook_time": 10,
+        "description": "A simple but delicious sandwich with bacon, lettuce, and tomato, served on toasted bread with mayonnaise.",
+        "steps": [
+            "Cook bacon until crispy.",
+            "Toast slices of bread.",
+            "Spread mayonnaise on one side of each slice of bread.",
+            "Layer crispy bacon, sliced tomatoes, and lettuce leaves on one slice, then top with another slice of bread.",
+            "Cut in half and serve."
+        ],
+        "difficulty": 1,
+        "ingredients": [
+            "8 slices bacon",
+            "4 slices of bread",
+            "Lettuce leaves",
+            "1 tomato, sliced",
+            "Mayonnaise"
+        ],
+        "tips": [
+            "Add a slice of avocado or a fried egg to elevate this classic sandwich.",
+            "Use thick-cut bacon for more texture and flavor.",
+            "Toast the bread lightly to keep it from getting soggy from the tomato."
+        ],
+        "equipment": ["pan", "toaster", "knife", "cutting board"]
+    },
+    {
+        "type": "meal",
+        "cuisine_name": "American",
+        "tags": ["dinner", "seafood"],
+        "name": "Clam Chowder",
+        "prep_time": 20,
+        "cook_time": 45,
+        "description": "A creamy New England clam chowder, rich with clams, potatoes, onions, and celery, thickened with cream and served with oyster crackers.",
+        "steps": [
+            "Cook chopped bacon until crisp; set aside.",
+            "In the same pot, sauté onions and celery until soft.",
+            "Add potatoes, clams with juice, water, and seasonings; simmer until potatoes are tender.",
+            "Stir in cream and heat through without boiling.",
+            "Serve garnished with crispy bacon and oyster crackers."
+        ],
+        "difficulty": 3,
+        "ingredients": [
+            "4 slices bacon, chopped",
+            "1 onion, chopped",
+            "2 stalks celery, chopped",
+            "2 potatoes, peeled and diced",
+            "2 cans clams with juice",
+            "1 cup water",
+            "1 cup cream",
+            "Salt and pepper",
+            "Oyster crackers for serving"
+        ],
+        "tips": [
+            "Do not let the chowder boil after adding the cream to prevent curdling.",
+            "For a thicker chowder, mash some of the potatoes slightly before adding the cream.",
+            "Enhance the flavor by adding a bay leaf during simmering."
+        ],
+        "equipment": ["pot", "knife", "cutting board"]
+    },
+    {
+        "type": "dessert",
+        "cuisine_name": "American",
+        "tags": ["dessert", "classic"],
+        "name": "Brownies",
+        "prep_time": 10,
+        "cook_time": 25,
+        "description": "Rich, fudgy chocolate brownies with a moist center and crispy edges, filled with chunks of chocolate.",
+        "steps": [
+            "Melt butter and chocolate together.",
+            "Stir in sugar, eggs, and vanilla extract.",
+            "Mix in flour, cocoa powder, and salt.",
+            "Fold in additional chocolate chunks.",
+            "Pour batter into a greased baking pan and bake at 350°F for 25 minutes.",
+            "Cool in pan before cutting into squares and serving."
+        ],
+        "difficulty": 2,
+        "ingredients": [
+            "1/2 cup butter",
+            "1 cup chocolate chunks, plus extra for folding in",
+            "1 cup sugar",
+            "2 eggs",
+            "1 tsp vanilla extract",
+            "3/4 cup all-purpose flour",
+            "1/4 cup cocoa powder",
+            "1/2 tsp salt"
+        ],
+        "tips": [
+            "Do not overmix the batter to keep the brownies fudgy.",
+            "Add nuts like walnuts or pecans for a crunchy texture.",
+            "Serve warm with a scoop of ice cream for a decadent dessert."
+        ],
+        "equipment": ["oven", "mixing bowl", "baking pan"]
+    }
+]

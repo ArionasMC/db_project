@@ -1,0 +1,308 @@
+[
+    {
+        "type": "meal",
+        "cuisine_name": "Bulgarian",
+        "tags": ["dinner", "traditional"],
+        "name": "Shopska Salata",
+        "prep_time": 15,
+        "cook_time": 0,
+        "description": "A traditional Bulgarian salad made from tomatoes, cucumbers, onions, and topped with a generous amount of sirene cheese.",
+        "steps": [
+            "Chop tomatoes, cucumbers, and onions into bite-sized pieces.",
+            "Combine in a bowl and season with salt and olive oil.",
+            "Top with grated sirene cheese and a sprinkle of parsley before serving."
+        ],
+        "difficulty": 1,
+        "ingredients": [
+            "3 tomatoes",
+            "1 cucumber",
+            "1 onion",
+            "200g sirene cheese",
+            "Olive oil",
+            "Salt",
+            "Parsley for garnish"
+        ],
+        "tips": [
+            "Chill the vegetables before preparing for a refreshing starter.",
+            "Serve alongside a loaf of crusty bread.",
+            "Add roasted red peppers for additional flavor and color."
+        ],
+        "equipment": ["knife", "cutting board", "bowl"]
+    },
+    {
+        "type": "meal",
+        "cuisine_name": "Bulgarian",
+        "tags": ["dinner", "hearty"],
+        "name": "Kavarma",
+        "prep_time": 20,
+        "cook_time": 60,
+        "description": "A hearty Bulgarian stew made with meat (typically pork or chicken), onions, mushrooms, and peppers, seasoned with paprika and herbs.",
+        "steps": [
+            "Brown the meat in a pot with some oil.",
+            "Add chopped onions, peppers, and mushrooms to the pot and sauté until soft.",
+            "Stir in paprika, a splash of white wine, and tomato paste. Cover and simmer for an hour.",
+            "Season with salt, pepper, and fresh herbs before serving."
+        ],
+        "difficulty": 3,
+        "ingredients": [
+            "500g pork or chicken, cut into pieces",
+            "2 onions, chopped",
+            "1 red bell pepper, chopped",
+            "200g mushrooms, sliced",
+            "1 tbsp paprika",
+            "100ml white wine",
+            "2 tbsp tomato paste",
+            "Salt and pepper",
+            "Fresh herbs (parsley or thyme)"
+        ],
+        "tips": [
+            "Serve with a side of Bulgarian bread or over cooked rice.",
+            "Adjust the amount of paprika to taste for a spicier version.",
+            "Can be made ahead and reheated, as it tastes even better the next day."
+        ],
+        "equipment": ["pot", "knife", "cutting board"]
+    },
+    {
+        "type": "meal",
+        "cuisine_name": "Bulgarian",
+        "tags": ["lunch", "traditional"],
+        "name": "Banitsa",
+        "prep_time": 20,
+        "cook_time": 40,
+        "description": "A traditional Bulgarian pastry made from layers of phyllo dough filled with eggs and cheese.",
+        "steps": [
+            "Mix beaten eggs with crumbled sirene cheese and yogurt.",
+            "Layer sheets of phyllo dough in a greased baking dish, brushing each with melted butter.",
+            "Spread the egg and cheese mixture between layers of phyllo.",
+            "Bake at 375°F until golden brown and puffed.",
+            "Cut into squares and serve hot."
+        ],
+        "difficulty": 3,
+        "ingredients": [
+            "1 package phyllo dough",
+            "6 eggs",
+            "300g sirene cheese",
+            "1 cup yogurt",
+            "100g melted butter"
+        ],
+        "tips": [
+            "Keep phyllo dough covered with a damp towel to prevent drying out.",
+            "Serve with plain yogurt or a hot drink for a traditional breakfast.",
+            "Add spinach or leeks to the filling for a variation."
+        ],
+        "equipment": ["oven", "baking dish", "brush"]
+    },
+    {
+        "type": "meal",
+        "cuisine_name": "Bulgarian",
+        "tags": ["breakfast", "quick"],
+        "name": "Mekitsa",
+        "prep_time": 30,
+        "cook_time": 15,
+        "description": "A traditional Bulgarian breakfast, mekitsa is a deep-fried dough pastry, served with powdered sugar, honey, or jam.",
+        "steps": [
+            "Mix flour, yeast, and yogurt to form a soft dough. Let it rise until doubled.",
+            "Heat oil in a deep fryer.",
+            "Roll out small pieces of dough and fry until golden brown on both sides.",
+            "Drain on paper towels and sprinkle with powdered sugar, or serve with honey or jam."
+        ],
+        "difficulty": 2,
+        "ingredients": [
+            "500g flour",
+            "1 packet yeast",
+            "1 cup yogurt",
+            "Water as needed",
+            "Oil for frying",
+            "Powdered sugar for serving"
+        ],
+        "tips": [
+            "Do not overcrowd the fryer to maintain a consistent temperature.",
+            "Serve immediately while hot for the best texture.",
+            "Experiment with savory versions by adding cheese or garlic to the dough."
+        ],
+        "equipment": ["deep fryer", "bowl", "rolling pin"]
+    },
+    {
+        "type": "meal",
+        "cuisine_name": "Bulgarian",
+        "tags": ["dinner", "comfort"],
+        "name": "Musaka",
+        "prep_time": 30,
+        "cook_time": 90,
+        "description": "Bulgarian style moussaka is a baked dish of potatoes, minced meat, and a topping of yogurt and eggs, similar to the Greek version but without eggplant.",
+        "steps": [
+            "Layer thinly sliced potatoes and seasoned minced meat in a baking dish.",
+            "Mix eggs with yogurt and pour over the layers.",
+            "Bake at 350°F until the top is golden and the potatoes are tender.",
+            "Allow to set before serving."
+        ],
+        "difficulty": 3,
+        "ingredients": [
+            "4 large potatoes, thinly sliced",
+            "500g minced meat (beef or pork)",
+            "2 eggs",
+            "200g yogurt",
+            "Salt, pepper, and paprika"
+        ],
+        "tips": [
+            "Let the musaka sit for 10-15 minutes after baking to firm up for easier serving.",
+            "Add a layer of sautéed onions and carrots for extra flavor and moisture.",
+            "Serve with a side salad of cucumbers and tomatoes."
+        ],
+        "equipment": ["oven", "baking dish"]
+    },
+    {
+        "type": "meal",
+        "cuisine_name": "Bulgarian",
+        "tags": ["lunch", "soup"],
+        "name": "Tarator",
+        "prep_time": 10,
+        "cook_time": 0,
+        "description": "A cold yogurt soup popular in the summer, made with cucumbers, garlic, dill, and walnuts.",
+        "steps": [
+            "Combine yogurt with water to a soup-like consistency.",
+            "Add finely chopped cucumbers, crushed garlic, chopped dill, and crushed walnuts.",
+            "Season with salt and olive oil.",
+            "Chill in the fridge for at least an hour before serving."
+        ],
+        "difficulty": 1,
+        "ingredients": [
+            "500g yogurt",
+            "1 cucumber, finely chopped",
+            "2 cloves garlic, crushed",
+            "Handful of dill, chopped",
+            "50g walnuts, crushed",
+            "Water as needed",
+            "Salt",
+            "Olive oil"
+        ],
+        "tips": [
+            "Serve very cold for a refreshing summer dish.",
+            "Add ice cubes just before serving to keep it chilled.",
+            "Experiment with adding other herbs like mint for a different flavor profile."
+        ],
+        "equipment": ["bowl", "knife", "garlic press"]
+    },
+    {
+        "type": "dessert",
+        "cuisine_name": "Bulgarian",
+        "tags": ["dessert", "traditional"],
+        "name": "Kadaif",
+        "prep_time": 20,
+        "cook_time": 40,
+        "description": "A dessert of shredded phyllo dough, baked with nuts and saturated with syrup.",
+        "steps": [
+            "Layer kadaif dough in a tray, interspersing with mixed nuts.",
+            "Bake until golden brown.",
+            "Pour a hot syrup made of sugar, water, and lemon juice over the baked kadaif.",
+            "Let it cool and absorb the syrup before serving."
+        ],
+        "difficulty": 3,
+        "ingredients": [
+            "500g kadaif dough",
+            "200g mixed nuts, chopped",
+            "100g butter, melted",
+            "2 cups sugar",
+            "1 cup water",
+            "juice of 1 lemon"
+        ],
+        "tips": [
+            "Ensure the syrup is hot when poured over to soak the kadaif thoroughly.",
+            "Allow the kadaif to sit for several hours to fully absorb the syrup and enhance the flavors.",
+            "Serve with a dollop of whipped cream or a scoop of ice cream."
+        ],
+        "equipment": ["oven", "tray", "saucepan"]
+    },
+    {
+        "type": "meal",
+        "cuisine_name": "Bulgarian",
+        "tags": ["breakfast", "hearty"],
+        "name": "Bulgarian Cheese Toast",
+        "prep_time": 5,
+        "cook_time": 5,
+        "description": "A quick and satisfying breakfast item made with bread, Bulgarian cheese, and often topped with a fried egg.",
+        "steps": [
+            "Toast bread slices lightly.",
+            "Spread a thick layer of grated Bulgarian cheese on each slice.",
+            "Broil in the oven until the cheese is bubbly and golden.",
+            "Optionally top with a fried egg and serve immediately."
+        ],
+        "difficulty": 1,
+        "ingredients": [
+            "4 slices of bread",
+            "200g Bulgarian cheese (or feta cheese as substitute)",
+            "2 eggs (optional)",
+            "Butter (for frying eggs)"
+        ],
+        "tips": [
+            "Serve with a side of tomato slices or olives.",
+            "For extra flavor, add a sprinkle of paprika or black pepper on the cheese before broiling.",
+            "Ensure the bread is toasted first to prevent it from becoming soggy."
+        ],
+        "equipment": ["oven", "toaster", "frying pan"]
+    },
+    {
+        "type": "dessert",
+        "cuisine_name": "Bulgarian",
+        "tags": ["dessert", "festive"],
+        "name": "Garash Cake",
+        "prep_time": 30,
+        "cook_time": 30,
+        "description": "A rich chocolate cake made with layers of walnut sponge cake and dark chocolate ganache, named after the Hungarian pastry chef Garash.",
+        "steps": [
+            "Prepare walnut sponge layers by beating egg whites with sugar and folding in ground walnuts and flour.",
+            "Bake each layer separately until set.",
+            "Prepare chocolate ganache with heavy cream and dark chocolate.",
+            "Assemble the cake by layering sponge and ganache, finishing with a ganache topping.",
+            "Chill in the fridge to set before serving."
+        ],
+        "difficulty": 4,
+        "ingredients": [
+            "6 egg whites",
+            "150g sugar",
+            "150g ground walnuts",
+            "50g flour",
+            "200g dark chocolate",
+            "200ml heavy cream"
+        ],
+        "tips": [
+            "Make sure each sponge layer is cooled before applying ganache.",
+            "If the ganache is too runny, chill it before spreading on the cake layers.",
+            "Decorate with walnut pieces or chocolate shavings for an elegant finish."
+        ],
+        "equipment": ["oven", "mixing bowls", "whisk", "cake pan"]
+    },
+    {
+        "type": "meal",
+        "cuisine_name": "Bulgarian",
+        "tags": ["dinner", "traditional"],
+        "name": "Sarmi",
+        "prep_time": 30,
+        "cook_time": 60,
+        "description": "Traditional Bulgarian stuffed cabbage rolls filled with a mix of minced meats, rice, and herbs, cooked in a tomato-based sauce.",
+        "steps": [
+            "Prepare cabbage leaves by boiling until tender.",
+            "Mix minced meat with rice, onions, and spices.",
+            "Place a spoonful of the filling on each leaf and roll tightly.",
+            "Arrange the rolls in a pot, cover with tomato sauce and water.",
+            "Simmer on low heat until the meat and rice are fully cooked.",
+            "Serve hot, garnished with fresh herbs."
+        ],
+        "difficulty": 3,
+        "ingredients": [
+            "1 head of cabbage",
+            "500g minced meat (beef and pork mix)",
+            "1 cup rice",
+            "1 onion, finely chopped",
+            "2 cups tomato sauce",
+            "Herbs (parsley, dill), chopped",
+            "Salt and pepper"
+        ],
+        "tips": [
+            "Ensure the cabbage leaves are not ripped to prevent filling from leaking out.",
+            "Add a bit of smoked meat to the pot for a deeper flavor.",
+            "Serve with a dollop of yogurt or sour cream."
+        ],
+        "equipment": ["pot", "knife", "cutting board"]
+    }
+]

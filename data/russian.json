@@ -1,0 +1,332 @@
+[
+    {
+        "type": "meal",
+        "cuisine_name": "Russian",
+        "tags": ["dinner", "traditional"],
+        "name": "Beef Stroganoff",
+        "prep_time": 15,
+        "cook_time": 30,
+        "description": "A classic rich and creamy Russian dish featuring sautéed pieces of beef served in a sauce with smetana (sour cream).",
+        "steps": [
+            "Slice beef into thin strips.",
+            "Season beef with salt and pepper.",
+            "Heat oil in a pan over medium heat and sauté onions until translucent.",
+            "Add beef to the pan and brown.",
+            "Reduce heat and add mustard and beef broth. Simmer for 10 minutes.",
+            "Stir in sour cream and cook for another 5 minutes without boiling.",
+            "Serve hot over noodles or rice."
+        ],
+        "difficulty": 3,
+        "ingredients": [
+            "500g beef sirloin",
+            "1 onion, sliced",
+            "2 tbsp mustard",
+            "200 ml beef broth",
+            "200 ml smetana or sour cream",
+            "Salt and pepper",
+            "2 tbsp vegetable oil"
+        ],
+        "tips": [
+            "Use high-quality beef for the best texture.",
+            "Do not let the sour cream boil to prevent curdling.",
+            "Serve with a side of pickles for an authentic Russian experience."
+        ],
+        "equipment": ["pan", "knife", "cutting board"]
+    },
+    {
+        "type": "dessert",
+        "cuisine_name": "Russian",
+        "tags": ["dessert", "holiday"],
+        "name": "Medovik",
+        "prep_time": 30,
+        "cook_time": 60,
+        "description": "A popular Russian honey cake featuring several thin layers of cake filled with sweetened sour cream.",
+        "steps": [
+            "Mix honey, sugar, and eggs in a bowl.",
+            "Add baking soda and melt mixture over steam until it increases in volume.",
+            "Mix flour into the warm honey mixture to form dough.",
+            "Divide the dough into 8 parts, roll out each and bake for 5 minutes at 350°F.",
+            "Whisk sour cream with sugar and vanilla.",
+            "Spread cream between each cooled cake layer.",
+            "Coat the outside with leftover cream and crumble a baked dough layer on top.",
+            "Chill in fridge overnight before serving."
+        ],
+        "difficulty": 4,
+        "ingredients": [
+            "3 tbsp honey",
+            "3/4 cup sugar",
+            "3 eggs",
+            "1 tsp baking soda",
+            "3 cups flour",
+            "500 ml sour cream",
+            "1/2 cup sugar",
+            "1 tsp vanilla extract"
+        ],
+        "tips": [
+            "Ensure each layer is evenly rolled to cook uniformly.",
+            "The cake tastes better after it soaks overnight, plan accordingly.",
+            "Use a serrated knife for easier slicing of the soft layers."
+        ],
+        "equipment": ["oven", "mixing bowl", "baking sheet", "whisk", "rolling pin"]
+    },
+    {
+        "type": "meal",
+        "cuisine_name": "Russian",
+        "tags": ["lunch", "hearty"],
+        "name": "Borscht",
+        "prep_time": 20,
+        "cook_time": 120,
+        "description": "A hearty beet soup traditionally served hot or cold with a dollop of sour cream.",
+        "steps": [
+            "Peel and chop all vegetables.",
+            "Sauté onions and carrots in a pot.",
+            "Add beets and continue to sauté for a few minutes.",
+            "Add water, cabbage, and potatoes and bring to a boil.",
+            "Simmer until all vegetables are tender.",
+            "Add vinegar, sugar, and salt to taste.",
+            "Serve with sour cream and fresh dill."
+        ],
+        "difficulty": 2,
+        "ingredients": [
+            "3 medium beets, peeled and shredded",
+            "1 large onion, chopped",
+            "2 carrots, peeled and shredded",
+            "1/2 head of cabbage, shredded",
+            "2 large potatoes, peeled and diced",
+            "1 tbsp vinegar",
+            "1 tsp sugar",
+            "Salt",
+            "Sour cream",
+            "Dill"
+        ],
+        "tips": [
+            "Adjust the amount of vinegar and sugar to balance the sweetness and acidity.",
+            "Can be served with a slice of rye bread.",
+            "Add a beef bone to the pot for extra flavor."
+        ],
+        "equipment": ["pot", "knife", "cutting board"]
+    },
+    {
+        "type": "meal",
+        "cuisine_name": "Russian",
+        "tags": ["dinner", "winter"],
+        "name": "Pelmeni",
+        "prep_time": 60,
+        "cook_time": 10,
+        "description": "Traditional Russian dumplings filled with minced meat and wrapped in a thin dough, served with butter or sour cream.",
+        "steps": [
+            "Mix flour, eggs, water, and salt to form a dough.",
+            "Roll dough thin and cut into circles.",
+            "Place a small amount of meat filling in the center of each circle.",
+            "Fold dough over and seal edges to form a dumpling.",
+            "Boil dumplings in salted water until they float to the surface.",
+            "Serve hot with melted butter or sour cream."
+        ],
+        "difficulty": 4,
+        "ingredients": [
+            "2 cups flour",
+            "1 egg",
+            "1/2 cup water",
+            "Salt",
+            "300g minced pork",
+            "300g minced beef",
+            "1 onion, finely chopped",
+            "Pepper"
+        ],
+        "tips": [
+            "Make sure to seal the dumplings well to prevent them from opening while boiling.",
+            "Pelmeni can be frozen for future use before boiling.",
+            "Serve with vinegar or mustard for added flavor."
+        ],
+        "equipment": ["pot", "rolling pin", "bowl", "knife"]
+    },
+    {
+        "type": "meal",
+        "cuisine_name": "Russian",
+        "tags": ["breakfast", "quick"],
+        "name": "Syrniki",
+        "prep_time": 10,
+        "cook_time": 15,
+        "description": "Sweet cheese pancakes made from tvorog (cottage cheese), typically served with sour cream or jam.",
+        "steps": [
+            "Mix tvorog, eggs, flour, sugar, and vanilla.",
+            "Form small patties from the mixture.",
+            "Fry patties in a hot, oiled pan until golden brown on both sides.",
+            "Serve hot with sour cream or jam."
+        ],
+        "difficulty": 2,
+        "ingredients": [
+            "250g tvorog (cottage cheese)",
+            "2 eggs",
+            "3 tbsp flour",
+            "2 tbsp sugar",
+            "1 tsp vanilla extract"
+        ],
+        "tips": [
+            "Ensure the tvorog is well-drained to make the patties easier to form.",
+            "Adjust the amount of flour to achieve the desired thickness.",
+            "Try different jams as toppings for variety."
+        ],
+        "equipment": ["pan", "mixing bowl", "spatula"]
+    },
+    {
+        "type": "meal",
+        "cuisine_name": "Russian",
+        "tags": ["dinner", "filling"],
+        "name": "Kasha",
+        "prep_time": 5,
+        "cook_time": 25,
+        "description": "A staple of Russian cuisine, kasha refers to any grain cooked in water or milk, often served as a side dish.",
+        "steps": [
+            "Rinse buckwheat groats under cold water.",
+            "Bring water to a boil and add groats.",
+            "Reduce heat to low, cover, and simmer until groats are tender and water is absorbed.",
+            "Serve hot with milk or as a side dish to meat."
+        ],
+        "difficulty": 1,
+        "ingredients": [
+            "1 cup buckwheat groats",
+            "2 cups water",
+            "Salt",
+            "Milk (optional)"
+        ],
+        "tips": [
+            "For a richer flavor, toast the groats in a dry pan before boiling.",
+            "Can be served with sautéed onions for added taste.",
+            "Excellent base for adding vegetables or meat for a heartier meal."
+        ],
+        "equipment": ["pot", "strainer"]
+    },
+    {
+        "type": "dessert",
+        "cuisine_name": "Russian",
+        "tags": ["dessert", "festive"],
+        "name": "Pryaniki",
+        "prep_time": 20,
+        "cook_time": 25,
+        "description": "Traditional Russian honey bread cookies spiced with ginger and cloves, often glazed with sugar icing.",
+        "steps": [
+            "Mix honey, sugar, and spices in a bowl.",
+            "Add eggs and melted butter, then blend in flour to form a stiff dough.",
+            "Roll out dough and cut into shapes.",
+            "Bake at 350°F for 15-20 minutes.",
+            "Mix powdered sugar with lemon juice to make icing.",
+            "Glaze cookies after they have cooled."
+        ],
+        "difficulty": 3,
+        "ingredients": [
+            "1 cup honey",
+            "1/2 cup sugar",
+            "2 eggs",
+            "1/2 cup butter, melted",
+            "3 cups flour",
+            "1 tsp ginger",
+            "1 tsp cloves",
+            "Powdered sugar",
+            "Lemon juice"
+        ],
+        "tips": [
+            "Allow the dough to rest before rolling for easier handling.",
+            "Adjust spice amounts to taste.",
+            "The icing sets better if cookies are completely cool."
+        ],
+        "equipment": ["oven", "mixing bowl", "rolling pin", "cookie cutter"]
+    },
+    {
+        "type": "dessert",
+        "cuisine_name": "Russian",
+        "tags": ["dessert", "simple"],
+        "name": "Zefir",
+        "prep_time": 45,
+        "cook_time": 0,
+        "description": "A type of soft confectionery made by whipping fruit and berry purée with sugar and egg whites, similar to marshmallows.",
+        "steps": [
+            "Puree apples and mix with sugar.",
+            "Heat mixture until sugar dissolves.",
+            "Whip egg whites to stiff peaks.",
+            "Gradually combine hot fruit mixture with egg whites.",
+            "Pipe onto parchment paper into desired shapes.",
+            "Let dry at room temperature for 12 hours."
+        ],
+        "difficulty": 4,
+        "ingredients": [
+            "4 apples, peeled and cored",
+            "1 cup sugar",
+            "2 egg whites"
+        ],
+        "tips": [
+            "Use a silicone mat for easier removal after drying.",
+            "Experiment with different fruit purées for variety.",
+            "Ensure the mixture is very stiff before piping to maintain shape."
+        ],
+        "equipment": ["blender", "mixing bowl", "piping bag"]
+    },
+    {
+        "type": "meal",
+        "cuisine_name": "Russian",
+        "tags": ["brunch", "hearty"],
+        "name": "Olivier Salad",
+        "prep_time": 30,
+        "cook_time": 20,
+        "description": "Also known as Russian Salad, this dish is a combination of diced potatoes, vegetables, eggs, and meat dressed with mayonnaise.",
+        "steps": [
+            "Boil potatoes, carrots, and eggs until cooked.",
+            "Dice all cooked ingredients and pickles.",
+            "Combine in a bowl with peas and diced chicken.",
+            "Mix thoroughly with mayonnaise.",
+            "Chill before serving."
+        ],
+        "difficulty": 2,
+        "ingredients": [
+            "2 potatoes",
+            "2 carrots",
+            "4 eggs",
+            "1 cup pickles, diced",
+            "1 cup green peas",
+            "2 cups boiled chicken, diced",
+            "1 cup mayonnaise",
+            "Salt and pepper"
+        ],
+        "tips": [
+            "Dice all ingredients to the same size for a uniform texture.",
+            "Can be made a day ahead to enhance the flavors.",
+            "Add a little mustard to the mayonnaise for extra zest."
+        ],
+        "equipment": ["pot", "knife", "bowl"]
+    },
+    {
+        "type": "meal",
+        "cuisine_name": "Russian",
+        "tags": ["lunch", "traditional"],
+        "name": "Shchi",
+        "prep_time": 15,
+        "cook_time": 60,
+        "description": "A traditional Russian soup made with cabbage, meat, and various vegetables, known for its hearty and comforting qualities.",
+        "steps": [
+            "Sauté onions and carrots in a pot.",
+            "Add meat (beef or pork) and sauté until browned.",
+            "Add water and bring to a boil.",
+            "Add chopped cabbage and potatoes, simmer until all ingredients are tender.",
+            "Season with salt, pepper, and herbs before serving.",
+            "Serve with a dollop of sour cream."
+        ],
+        "difficulty": 2,
+        "ingredients": [
+            "1 onion, chopped",
+            "2 carrots, grated",
+            "500g beef or pork, cubed",
+            "1/2 head of cabbage, chopped",
+            "3 potatoes, peeled and cubed",
+            "Salt and pepper",
+            "Bay leaves",
+            "Dill",
+            "Sour cream"
+        ],
+        "tips": [
+            "Using a mix of pork and beef can enhance the flavor.",
+            "Serve with rye bread for an authentic Russian meal.",
+            "Add a splash of vinegar or lemon juice for added zest."
+        ],
+        "equipment": ["pot", "knife", "cutting board"]
+    }
+]

@@ -1,0 +1,323 @@
+[
+    {
+        "type": "meal",
+        "cuisine_name": "Ukrainian",
+        "tags": ["dinner", "traditional"],
+        "name": "Borscht",
+        "prep_time": 20,
+        "cook_time": 90,
+        "description": "A traditional Ukrainian beet soup that is rich and hearty, typically served with sour cream and garlic bread.",
+        "steps": [
+            "Heat oil in a large pot and sauté onions, carrots, and beets.",
+            "Add beef stock and bring to a boil.",
+            "Add sliced potatoes and cook until tender.",
+            "Add shredded cabbage and cook for another 10 minutes.",
+            "Season with vinegar, sugar, salt, and pepper.",
+            "Serve hot with a dollop of sour cream and dill."
+        ],
+        "difficulty": 3,
+        "ingredients": [
+            "2 tbsp vegetable oil",
+            "1 large onion, chopped",
+            "2 carrots, grated",
+            "3 beets, peeled and grated",
+            "6 cups beef stock",
+            "2 large potatoes, peeled and sliced",
+            "1/2 head of cabbage, shredded",
+            "1 tbsp vinegar",
+            "1 tsp sugar",
+            "Salt and pepper",
+            "Sour cream",
+            "Dill"
+        ],
+        "tips": [
+            "Add a smoked ham hock for additional flavor.",
+            "Serve with pampushki (Ukrainian garlic rolls) for a complete meal.",
+            "Leftovers can be refrigerated and taste even better the next day."
+        ],
+        "equipment": ["pot", "knife", "grater", "cutting board"]
+    },
+    {
+        "type": "dessert",
+        "cuisine_name": "Ukrainian",
+        "tags": ["dessert", "holiday"],
+        "name": "Syrniki",
+        "prep_time": 15,
+        "cook_time": 15,
+        "description": "Sweet fried cheese pancakes, typically made from farmer's cheese, eggs, and flour, served with sour cream or fruit preserves.",
+        "steps": [
+            "Mix farmer's cheese, eggs, flour, sugar, and vanilla extract to form a thick batter.",
+            "Heat oil in a skillet over medium heat.",
+            "Form small patties from the batter and fry until golden brown on both sides.",
+            "Serve warm with sour cream or your favorite preserves."
+        ],
+        "difficulty": 2,
+        "ingredients": [
+            "2 cups farmer's cheese",
+            "2 eggs",
+            "3 tbsp flour",
+            "2 tbsp sugar",
+            "1 tsp vanilla extract",
+            "Vegetable oil for frying"
+        ],
+        "tips": [
+            "Ensure the cheese is well-drained to prevent the batter from being too wet.",
+            "Add raisins or small fruit pieces to the batter for extra flavor.",
+            "Dust with powdered sugar before serving for added sweetness."
+        ],
+        "equipment": ["skillet", "mixing bowl", "spoon", "spatula"]
+    },
+    {
+        "type": "meal",
+        "cuisine_name": "Ukrainian",
+        "tags": ["lunch", "comfort"],
+        "name": "Varenyky",
+        "prep_time": 60,
+        "cook_time": 20,
+        "description": "Ukrainian dumplings filled with various fillings such as potato, sauerkraut, or cherries, often topped with onions or sour cream.",
+        "steps": [
+            "Prepare the dough by mixing flour, water, and a pinch of salt.",
+            "Roll out the dough and cut into circles.",
+            "Place a spoonful of filling on each dough circle.",
+            "Fold the dough over and seal the edges tightly.",
+            "Boil in salted water until they rise to the surface, then remove with a slotted spoon.",
+            "Serve hot with melted butter, sautéed onions, or sour cream."
+        ],
+        "difficulty": 4,
+        "ingredients": [
+            "3 cups flour",
+            "1 cup warm water",
+            "Salt",
+            "Potato filling (mashed potatoes with fried onions)",
+            "Sauerkraut filling",
+            "Cherry filling",
+            "Butter",
+            "Onions"
+        ],
+        "tips": [
+            "Make sure the edges are sealed well to prevent filling from leaking out during boiling.",
+            "You can freeze uncooked varenyky for later use.",
+            "Experiment with different fillings based on your preferences."
+        ],
+        "equipment": ["pot", "rolling pin", "bowl", "knife", "cutting board"]
+    },
+    {
+        "type": "meal",
+        "cuisine_name": "Ukrainian",
+        "tags": ["brunch", "savory"],
+        "name": "Deruny",
+        "prep_time": 15,
+        "cook_time": 20,
+        "description": "Potato pancakes, crispy on the outside and tender on the inside, often served with sour cream or apple sauce.",
+        "steps": [
+            "Grate potatoes and onions and squeeze out excess moisture.",
+            "Mix with eggs, flour, salt, and pepper.",
+            "Heat oil in a skillet over medium-high heat.",
+            "Spoon potato mixture into the skillet and flatten to form pancakes.",
+            "Fry until crispy and golden on both sides.",
+            "Serve hot with sour cream or apple sauce."
+        ],
+        "difficulty": 2,
+        "ingredients": [
+            "4 large potatoes, peeled",
+            "1 onion",
+            "2 eggs",
+            "3 tbsp flour",
+            "Salt and pepper",
+            "Vegetable oil for frying"
+        ],
+        "tips": [
+            "Removing as much moisture as possible from the potatoes will help get them crispy.",
+            "Keep pancakes warm in an oven on low heat if serving in batches.",
+            "Top with smoked salmon and dill for a fancier version."
+        ],
+        "equipment": ["grater", "skillet", "mixing bowl", "spoon", "paper towels"]
+    },
+    {
+        "type": "meal",
+        "cuisine_name": "Ukrainian",
+        "tags": ["dinner", "robust"],
+        "name": "Holubtsi",
+        "prep_time": 30,
+        "cook_time": 120,
+        "description": "Stuffed cabbage rolls filled with meat and rice, baked in a tomato sauce, a comforting dish enjoyed throughout Ukraine.",
+        "steps": [
+            "Blanch cabbage leaves until soft enough to roll.",
+            "Mix ground meat, rice, onion, and spices.",
+            "Place a portion of the meat mixture on each cabbage leaf and roll tightly.",
+            "Arrange rolls in a baking dish and cover with tomato sauce.",
+            "Bake in a preheated oven at 350°F for 2 hours.",
+            "Serve hot."
+        ],
+        "difficulty": 4,
+        "ingredients": [
+            "1 head of cabbage",
+            "500g ground meat (beef, pork, or a mix)",
+            "1 cup cooked rice",
+            "1 onion, finely chopped",
+            "Salt and pepper",
+            "2 cups tomato sauce"
+        ],
+        "tips": [
+            "Add bacon bits to the meat mixture for extra flavor.",
+            "If the cabbage leaves tear, use two leaves overlapped to ensure the filling is well contained.",
+            "Leftover holubtsi freeze well and can be reheated for a quick meal."
+        ],
+        "equipment": ["oven", "pot", "baking dish", "knife", "cutting board"]
+    },
+    {
+        "type": "meal",
+        "cuisine_name": "Ukrainian",
+        "tags": ["breakfast", "hearty"],
+        "name": "Banosh",
+        "prep_time": 10,
+        "cook_time": 20,
+        "description": "A traditional Hutsul dish of cornmeal porridge, cooked with sour cream and often topped with crispy pork cracklings and cheese.",
+        "steps": [
+            "Heat water and sour cream in a pot until boiling.",
+            "Gradually whisk in cornmeal until the mixture thickens.",
+            "Cook over low heat, stirring constantly, until porridge is creamy.",
+            "Top with pork cracklings and shredded cheese before serving."
+        ],
+        "difficulty": 2,
+        "ingredients": [
+            "1 cup cornmeal",
+            "2 cups water",
+            "1 cup sour cream",
+            "Salt",
+            "Pork cracklings",
+            "Shredded cheese"
+        ],
+        "tips": [
+            "Stir continuously to prevent lumps in the porridge.",
+            "Adjust the thickness by adding more or less water according to your preference.",
+            "Serve with pickled vegetables for a traditional meal."
+        ],
+        "equipment": ["pot", "whisk", "spoon"]
+    },
+    {
+        "type": "dessert",
+        "cuisine_name": "Ukrainian",
+        "tags": ["dessert", "sweet"],
+        "name": "Pampushky",
+        "prep_time": 120,
+        "cook_time": 15,
+        "description": "Sweet yeast doughnuts, light and airy, typically topped with sugar glaze or filled with jams.",
+        "steps": [
+            "Prepare yeast dough and let it rise until doubled.",
+            "Form dough into small balls and let rise again.",
+            "Fry in deep oil until golden brown.",
+            "Roll in sugar or fill with jam after cooling slightly."
+        ],
+        "difficulty": 3,
+        "ingredients": [
+            "2 cups flour",
+            "1/4 cup sugar",
+            "1 tsp yeast",
+            "1 cup warm milk",
+            "2 tbsp melted butter",
+            "Oil for frying",
+            "Extra sugar for coating or jam for filling"
+        ],
+        "tips": [
+            "Ensure the oil is not too hot to prevent the outside from burning before the inside is cooked.",
+            "Try different fillings like apple jam or sweetened cottage cheese.",
+            "Serve immediately for best taste."
+        ],
+        "equipment": ["deep fryer or heavy pot", "mixing bowl", "spoon", "thermometer"]
+    },
+    {
+        "type": "meal",
+        "cuisine_name": "Ukrainian",
+        "tags": ["dinner", "traditional"],
+        "name": "Kapusniak",
+        "prep_time": 20,
+        "cook_time": 90,
+        "description": "Sour cabbage soup made with pork or sausage, potatoes, and a variety of spices, offering a tangy and satisfying flavor.",
+        "steps": [
+            "Brown sausage or pork in a pot.",
+            "Add chopped onions, carrots, and potatoes, and sauté until soft.",
+            "Add shredded sour cabbage and water, bring to a boil.",
+            "Simmer for at least 1.5 hours until all flavors meld.",
+            "Season with salt, pepper, and bay leaves.",
+            "Serve hot with a spoonful of sour cream."
+        ],
+        "difficulty": 3,
+        "ingredients": [
+            "1 lb sausage or pork, chopped",
+            "1 onion, chopped",
+            "2 carrots, chopped",
+            "3 potatoes, cubed",
+            "4 cups sour cabbage",
+            "6 cups water",
+            "Salt and pepper",
+            "Bay leaves",
+            "Sour cream"
+        ],
+        "tips": [
+            "For a vegetarian version, omit the meat and add more mushrooms.",
+            "Serve with a slice of dense rye bread for a hearty meal.",
+            "Adjust the amount of sour cabbage to control the tartness of the soup."
+        ],
+        "equipment": ["pot", "knife", "cutting board"]
+    },
+    {
+        "type": "dessert",
+        "cuisine_name": "Ukrainian",
+        "tags": ["dessert", "traditional"],
+        "name": "Kutia",
+        "prep_time": 30,
+        "cook_time": 120,
+        "description": "A ceremonial grain dish made with wheat berries, poppy seeds, nuts, and honey, traditionally served during Christmas.",
+        "steps": [
+            "Soak wheat berries overnight, then boil until tender.",
+            "Mix boiled wheat with honey, poppy seeds, and chopped nuts.",
+            "Serve cold as part of a traditional Christmas Eve supper."
+        ],
+        "difficulty": 2,
+        "ingredients": [
+            "1 cup wheat berries",
+            "1/2 cup poppy seeds",
+            "1/2 cup honey",
+            "1/2 cup chopped walnuts or almonds",
+            "Water for boiling"
+        ],
+        "tips": [
+            "Ensure wheat berries are thoroughly cooked to a soft texture.",
+            "Can be refrigerated and tastes better the next day as flavors meld.",
+            "Add dried fruits like raisins or apricots for additional sweetness and texture."
+        ],
+        "equipment": ["pot", "bowl", "spoon"]
+    },
+    {
+        "type": "meal",
+        "cuisine_name": "Ukrainian",
+        "tags": ["lunch", "hearty"],
+        "name": "Nalysnyky",
+        "prep_time": 30,
+        "cook_time": 20,
+        "description": "Thin Ukrainian crepes filled with a variety of ingredients such as cheese, mushrooms, or meat, rolled and sometimes baked in a cream sauce.",
+        "steps": [
+            "Prepare thin crepe batter and cook crepes in a non-stick skillet.",
+            "Mix cottage cheese with eggs and herbs for filling.",
+            "Fill each crepe with the cheese mixture, roll tightly.",
+            "Optionally, place rolled crepes in a baking dish, cover with cream sauce, and bake.",
+            "Serve hot."
+        ],
+        "difficulty": 3,
+        "ingredients": [
+            "1 cup flour",
+            "2 eggs",
+            "1.5 cups milk",
+            "Butter or oil for frying",
+            "Filling: 2 cups cottage cheese, 1 egg, fresh herbs",
+            "Optional: cream sauce for baking"
+        ],
+        "tips": [
+            "Ensure crepes are thin and evenly cooked to make rolling easier.",
+            "Experiment with different fillings like sautéed mushrooms or ground meat.",
+            "If baking, ensure the crepes are moist but not soggy."
+        ],
+        "equipment": ["skillet", "mixing bowl", "whisk", "oven (optional)", "baking dish (optional)"]
+    }
+]

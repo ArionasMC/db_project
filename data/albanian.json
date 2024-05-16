@@ -1,0 +1,322 @@
+[
+    {
+        "type": "meal",
+        "cuisine_name": "Albanian",
+        "tags": ["dinner", "traditional"],
+        "name": "Tavë Kosi",
+        "prep_time": 20,
+        "cook_time": 60,
+        "description": "A traditional Albanian dish of baked lamb and rice, topped with a yogurt and egg mixture.",
+        "steps": [
+            "Brown lamb pieces in a skillet with a little oil.",
+            "Place lamb in a baking dish and cover with rice and water.",
+            "Bake in the oven at 375°F for 30 minutes.",
+            "Whisk together yogurt, eggs, and flour; pour over the lamb and rice.",
+            "Return to oven and bake until the topping is golden and set.",
+            "Serve hot."
+        ],
+        "difficulty": 3,
+        "ingredients": [
+            "500g lamb, cut into pieces",
+            "1 cup rice",
+            "2 cups water",
+            "2 cups yogurt",
+            "3 eggs",
+            "2 tbsp flour",
+            "Salt and pepper",
+            "Olive oil"
+        ],
+        "tips": [
+            "Ensure the lamb is tender before adding the yogurt mixture.",
+            "Serve with a side of fresh salad to balance the richness of the dish.",
+            "Can substitute lamb with chicken for a different flavor."
+        ],
+        "equipment": ["skillet", "baking dish", "whisk", "oven"]
+    },
+    {
+        "type": "dessert",
+        "cuisine_name": "Albanian",
+        "tags": ["dessert", "traditional"],
+        "name": "Bakllasarem",
+        "prep_time": 30,
+        "cook_time": 45,
+        "description": "A sweet pastry filled with a mixture of walnuts, sugar, and cinnamon, similar to baklava.",
+        "steps": [
+            "Prepare phyllo dough and layer half in a greased baking dish.",
+            "Mix chopped walnuts, sugar, and cinnamon; spread over the phyllo.",
+            "Top with the remaining phyllo, brushing each layer with melted butter.",
+            "Cut into diamonds and bake at 350°F until golden and crisp.",
+            "Pour syrup made from sugar, water, and lemon juice over the hot pastry.",
+            "Allow to cool before serving."
+        ],
+        "difficulty": 4,
+        "ingredients": [
+            "1 package phyllo dough",
+            "2 cups chopped walnuts",
+            "1 cup sugar",
+            "1 tsp cinnamon",
+            "1 cup melted butter",
+            "1 cup sugar",
+            "1 cup water",
+            "1 tbsp lemon juice"
+        ],
+        "tips": [
+            "Cut the pastry before baking to make serving easier.",
+            "Ensure the syrup is hot when poured over the cooled pastry to absorb properly.",
+            "Can add clove or cardamom to the syrup for extra flavor."
+        ],
+        "equipment": ["baking dish", "oven", "saucepan"]
+    },
+    {
+        "type": "meal",
+        "cuisine_name": "Albanian",
+        "tags": ["lunch", "traditional"],
+        "name": "Fërgesë",
+        "prep_time": 15,
+        "cook_time": 30,
+        "description": "A hearty dish of peppers, tomatoes, and cottage cheese, often served as a warm side dish or main course.",
+        "steps": [
+            "Sauté chopped onions and bell peppers in olive oil until soft.",
+            "Add chopped tomatoes and simmer until the mixture thickens.",
+            "Stir in crumbled cottage cheese and season with salt and pepper.",
+            "Cook until everything is heated through.",
+            "Serve warm with crusty bread."
+        ],
+        "difficulty": 2,
+        "ingredients": [
+            "2 bell peppers, chopped",
+            "1 onion, chopped",
+            "2 tomatoes, chopped",
+            "200g cottage cheese",
+            "Salt and pepper",
+            "Olive oil"
+        ],
+        "tips": [
+            "Add chili flakes for a spicy kick.",
+            "Can be made ahead and reheated, enhancing the flavors.",
+            "Perfect as a vegetarian main course."
+        ],
+        "equipment": ["skillet", "stove"]
+    },
+    {
+        "type": "meal",
+        "cuisine_name": "Albanian",
+        "tags": ["dinner", "seafood"],
+        "name": "Speca të mbushur",
+        "prep_time": 20,
+        "cook_time": 40,
+        "description": "Bell peppers stuffed with rice, herbs, and seafood, baked until tender.",
+        "steps": [
+            "Prepare rice according to package instructions.",
+            "Mix cooked rice with chopped herbs, garlic, and precooked shrimp.",
+            "Cut tops off bell peppers and remove seeds.",
+            "Stuff peppers with rice mixture, place in a baking dish.",
+            "Bake at 375°F until peppers are soft and filling is hot.",
+            "Serve with lemon wedges."
+        ],
+        "difficulty": 3,
+        "ingredients": [
+            "4 bell peppers",
+            "1 cup rice",
+            "1 cup precooked shrimp, chopped",
+            "2 cloves garlic, minced",
+            "Herbs (parsley, dill)",
+            "Salt and pepper",
+            "Lemon wedges for serving"
+        ],
+        "tips": [
+            "Ensure the rice is not overcooked as it will bake further in the oven.",
+            "Can use a mix of seafood like shrimp and scallops.",
+            "Top with cheese for the last 10 minutes of baking for a melty crust."
+        ],
+        "equipment": ["oven", "baking dish", "pot"]
+    },
+    {
+        "type": "meal",
+        "cuisine_name": "Albanian",
+        "tags": ["breakfast", "quick"],
+        "name": "Byrek me Spinaq",
+        "prep_time": 20,
+        "cook_time": 30,
+        "description": "A savory pie made with phyllo dough, filled with spinach and feta cheese.",
+        "steps": [
+            "Preheat oven to 350°F.",
+            "Sauté spinach until wilted, then mix with crumbled feta cheese and eggs.",
+            "Layer phyllo sheets in a greased baking pan, brushing each with oil.",
+            "Spread spinach mixture over phyllo, then cover with more phyllo sheets.",
+            "Bake until golden brown.",
+            "Cut into squares and serve."
+        ],
+        "difficulty": 3,
+        "ingredients": [
+            "1 package phyllo dough",
+            "500g spinach, washed and chopped",
+            "200g feta cheese",
+            "3 eggs",
+            "Olive oil"
+        ],
+        "tips": [
+            "Keep the phyllo dough covered with a damp towel while working to prevent it from drying out.",
+            "Add onions to the spinach mixture for extra flavor.",
+            "Serve with yogurt for breakfast or a light lunch."
+        ],
+        "equipment": ["oven", "baking pan", "skillet"]
+    },
+    {
+        "type": "meal",
+        "cuisine_name": "Albanian",
+        "tags": ["dinner", "hearty"],
+        "name": "Jani me fasule",
+        "prep_time": 15,
+        "cook_time": 120,
+        "description": "A traditional bean stew slowly cooked with onions, tomatoes, and spices.",
+        "steps": [
+            "Soak beans overnight, then drain and rinse.",
+            "Sauté onions and garlic in a pot until translucent.",
+            "Add beans, water, and chopped tomatoes. Bring to a boil, then reduce to a simmer.",
+            "Cook covered on low heat for 2 hours until beans are tender.",
+            "Season with salt, pepper, and a pinch of chili powder.",
+            "Serve hot with bread."
+        ],
+        "difficulty": 2,
+        "ingredients": [
+            "1 lb dried white beans",
+            "1 large onion, chopped",
+            "2 cloves garlic, minced",
+            "2 tomatoes, chopped",
+            "Salt and pepper",
+            "Chili powder",
+            "Olive oil"
+        ],
+        "tips": [
+            "Check water level during cooking and add more if needed to prevent sticking.",
+            "Can be served with pickled vegetables for added flavor.",
+            "Leftovers taste even better the next day as flavors meld."
+        ],
+        "equipment": ["pot", "stove"]
+    },
+    {
+        "type": "dessert",
+        "cuisine_name": "Albanian",
+        "tags": ["dessert", "traditional"],
+        "name": "Shëndetli",
+        "prep_time": 20,
+        "cook_time": 30,
+        "description": "A walnut cake soaked in syrup, often served during special occasions and holidays.",
+        "steps": [
+            "Preheat oven to 350°F.",
+            "Prepare cake batter with eggs, sugar, and ground walnuts.",
+            "Pour into a greased pan and bake until a toothpick comes out clean.",
+            "Simultaneously, prepare syrup with sugar, water, and lemon juice.",
+            "Pour hot syrup over the hot cake after removing from oven.",
+            "Let absorb and cool before serving."
+        ],
+        "difficulty": 3,
+        "ingredients": [
+            "1 cup ground walnuts",
+            "1 cup sugar",
+            "4 eggs",
+            "1 cup sugar",
+            "1 cup water",
+            "1 tbsp lemon juice"
+        ],
+        "tips": [
+            "Do not underbake the cake; ensure it is fully set to absorb the syrup.",
+            "Pierce the cake with a fork before pouring syrup to enhance absorption.",
+            "Serve with a dollop of whipped cream or vanilla ice cream."
+        ],
+        "equipment": ["oven", "cake pan", "saucepan"]
+    },
+    {
+        "type": "meal",
+        "cuisine_name": "Albanian",
+        "tags": ["lunch", "light"],
+        "name": "Qifqi",
+        "prep_time": 15,
+        "cook_time": 10,
+        "description": "Rice balls seasoned with mint and fried until crispy, a popular dish from Gjirokastër.",
+        "steps": [
+            "Cook rice until tender, then mix with beaten eggs, chopped mint, and salt.",
+            "Heat oil in a deep skillet.",
+            "Form rice mixture into small balls and fry until golden and crispy.",
+            "Drain on paper towels and serve hot."
+        ],
+        "difficulty": 2,
+        "ingredients": [
+            "1 cup rice",
+            "2 eggs",
+            "Fresh mint, chopped",
+            "Salt",
+            "Vegetable oil for frying"
+        ],
+        "tips": [
+            "Use short-grain rice for better stickiness and forming.",
+            "Add finely chopped onions to the rice mixture for extra flavor.",
+            "Serve with plain yogurt or tzatziki for dipping."
+        ],
+        "equipment": ["skillet", "pot", "bowl"]
+    },
+    {
+        "type": "meal",
+        "cuisine_name": "Albanian",
+        "tags": ["dinner", "traditional"],
+        "name": "Përime në zgare",
+        "prep_time": 10,
+        "cook_time": 15,
+        "description": "A variety of grilled vegetables, typically seasoned with olive oil, salt, and herbs.",
+        "steps": [
+            "Slice zucchini, bell peppers, eggplants, and tomatoes into even pieces.",
+            "Marinate with olive oil, garlic, and herbs.",
+            "Grill on high heat until vegetables are tender and have grill marks.",
+            "Serve hot or at room temperature, garnished with fresh basil."
+        ],
+        "difficulty": 1,
+        "ingredients": [
+            "1 zucchini",
+            "2 bell peppers",
+            "1 eggplant",
+            "2 tomatoes",
+            "Olive oil",
+            "Garlic, minced",
+            "Fresh herbs (basil, thyme)",
+            "Salt and pepper"
+        ],
+        "tips": [
+            "Ensure the grill is very hot before adding vegetables to get good sear marks.",
+            "Can be served as a side dish or as a vegetarian main course.",
+            "Drizzle with balsamic vinegar before serving for added flavor."
+        ],
+        "equipment": ["grill", "knife", "bowl"]
+    },
+    {
+        "type": "meal",
+        "cuisine_name": "Albanian",
+        "tags": ["brunch", "seafood"],
+        "name": "Mish me midhje",
+        "prep_time": 15,
+        "cook_time": 30,
+        "description": "A seafood dish featuring sautéed mussels with garlic, wine, and fresh herbs, often served over pasta or with crusty bread.",
+        "steps": [
+            "Clean mussels and discard any that are open and do not close when tapped.",
+            "Heat olive oil in a large skillet, add minced garlic, and sauté until fragrant.",
+            "Add mussels and cover with white wine, simmer until mussels open.",
+            "Sprinkle with chopped parsley and serve hot.",
+            "Serve with pasta or fresh bread."
+        ],
+        "difficulty": 2,
+        "ingredients": [
+            "1 kg mussels, cleaned",
+            "2 cloves garlic, minced",
+            "1 cup white wine",
+            "Parsley, chopped",
+            "Olive oil",
+            "Salt and pepper"
+        ],
+        "tips": [
+            "Always use fresh mussels for the best flavor.",
+            "Discard any mussels that do not open after cooking.",
+            "Add a pinch of chili flakes for a spicy version."
+        ],
+        "equipment": ["skillet", "pot"]
+    }
+]

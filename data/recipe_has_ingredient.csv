@@ -1,0 +1,275 @@
+recipe_name,recipe_cuisine_name,ingredient_name,ingredient_full_name,ingredient_weight,ingredient_kcal,ingredient_carbs
+Tavë Kosi,Albanian,lamb,"500g lamb, cut into pieces",500.0,3240.0,0.0
+Tavë Kosi,Albanian,rice,1 cup rice,195.0,702.0,154.635
+Tavë Kosi,Albanian,water,2 cups water,473.176473,0.0,0.0
+Tavë Kosi,Albanian,yogurt,2 cups yogurt,490.0,298.9,22.834
+Tavë Kosi,Albanian,egg,3 eggs,129.0,184.47,0.9288
+Tavë Kosi,Albanian,flour,2 tbsp flour,15.624999999735829,56.874999999038415,11.921874999798439
+Tavë Kosi,Albanian,salt,Salt and pepper,10.816808837998416,0.0,0.0
+Tavë Kosi,Albanian,olive oil,Olive oil,24.518100032796404,216.74000428992022,0.0
+Bakllasarem,Albanian,phyllo dough,1 package phyllo dough,400.0,1196.0,210.4
+Bakllasarem,Albanian,walnuts,2 cups chopped walnuts,234.0,1530.36,32.058
+Bakllasarem,Albanian,sugar,1 cup sugar,200.0,774.0,200.0
+Bakllasarem,Albanian,cinnamon,1 tsp cinnamon,2.6,6.422000000000001,2.0956
+Bakllasarem,Albanian,butter,1 cup melted butter,227.0,1627.59,0.1362
+Bakllasarem,Albanian,sugar,1 cup sugar,200.0,774.0,200.0
+Bakllasarem,Albanian,water,1 cup water,236.5882365,0.0,0.0
+Bakllasarem,Albanian,lemon juice,1 tbsp lemon juice,15.2499999997422,3.354999999943284,1.052249999982212
+Fërgesë,Albanian,red bell pepper,"2 bell peppers, chopped",238.0,61.88,14.351400000000002
+Fërgesë,Albanian,onions,"1 onion, chopped",125.0,50.0,11.675
+Fërgesë,Albanian,tomato,"2 tomatoes, chopped",246.0,44.28,9.5694
+Fërgesë,Albanian,cottage cheese,200g cottage cheese,200.0,196.0,6.76
+Fërgesë,Albanian,salt,Salt and pepper,4.854,0.0,0.0
+Fërgesë,Albanian,olive oil,Olive oil,11.0024,97.261216,0.0
+Speca të mbushur,Albanian,red bell pepper,4 bell peppers,476.0,123.76,28.702800000000003
+Speca të mbushur,Albanian,rice,1 cup rice,195.0,702.0,154.635
+Speca të mbushur,Albanian,canned shrimp,"1 cup precooked shrimp, chopped",128.0,128.0,0.0
+Speca të mbushur,Albanian,garlic,"2 cloves garlic, minced",6.0,8.94,1.9860000000000002
+Speca të mbushur,Albanian,dried thyme,"Herbs (parsley, dill)",8.120000000000001,22.411200000000004,5.188680000000001
+Speca të mbushur,Albanian,salt,Salt and pepper,4.872,0.0,0.0
+Speca të mbushur,Albanian,lemon,Lemon wedges for serving,7.0,2.03,0.6524000000000001
+Byrek me Spinaq,Albanian,phyllo dough,1 package phyllo dough,400.0,1196.0,210.4
+Byrek me Spinaq,Albanian,spinach,"500g spinach, washed and chopped",500.0,115.0,18.15
+Byrek me Spinaq,Albanian,feta cheese,200g feta cheese,200.0,530.0,7.76
+Byrek me Spinaq,Albanian,egg,3 eggs,129.0,184.47,0.9288
+Byrek me Spinaq,Albanian,olive oil,Olive oil,16.714399999999998,147.755296,0.0
+Jani me fasule,Albanian,white bean,1 lb dried white beans,453.59237,1510.4625921000002,273.51619911
+Jani me fasule,Albanian,onions,"1 large onion, chopped",150.0,60.0,14.01
+Jani me fasule,Albanian,garlic,"2 cloves garlic, minced",6.0,8.94,1.9860000000000002
+Jani me fasule,Albanian,tomato,"2 tomatoes, chopped",246.0,44.28,9.5694
+Jani me fasule,Albanian,salt,Salt and pepper,5.133554220000001,0.0,0.0
+Jani me fasule,Albanian,chili powder,Chili powder,0.0,0.0,0.0
+Jani me fasule,Albanian,olive oil,Olive oil,11.636056232,102.86273709088,0.0
+Shëndetli,Albanian,walnuts,1 cup ground walnuts,80.0,523.2,10.96
+Shëndetli,Albanian,sugar,1 cup sugar,200.0,774.0,200.0
+Shëndetli,Albanian,egg,4 eggs,172.0,245.96,1.2384
+Shëndetli,Albanian,sugar,1 cup sugar,200.0,774.0,200.0
+Shëndetli,Albanian,water,1 cup water,236.5882365,0.0,0.0
+Shëndetli,Albanian,lemon juice,1 tbsp lemon juice,15.2499999997422,3.354999999943284,1.052249999982212
+Qifqi,Albanian,rice,1 cup rice,195.0,702.0,154.635
+Qifqi,Albanian,egg,2 eggs,86.0,122.98,0.6192
+Qifqi,Albanian,mint,"Fresh mint, chopped",0.0,0.0,0.0
+Qifqi,Albanian,salt,Salt,1.686,0.0,0.0
+Qifqi,Albanian,vegetable oil,Vegetable oil for frying,3.8215999999999997,374.84163599999994,0.0
+Përime në zgare,Albanian,zucchini,1 zucchini,196.0,33.32,6.095599999999999
+Përime në zgare,Albanian,red bell pepper,2 bell peppers,238.0,61.88,14.351400000000002
+Përime në zgare,Albanian,eggplant,1 eggplant,548.0,137.0,32.2224
+Përime në zgare,Albanian,tomato,2 tomatoes,246.0,44.28,9.5694
+Përime në zgare,Albanian,olive oil,Olive oil,16.700799999999997,147.63507199999998,0.0
+Përime në zgare,Albanian,garlic,"Garlic, minced",3.684,5.489160000000001,1.2194040000000002
+Përime në zgare,Albanian,parsley,"Fresh herbs (basil, thyme)",12.280000000000001,4.420800000000001,0.7773240000000001
+Përime në zgare,Albanian,salt,Salt and pepper,7.368,0.0,0.0
+Mish me midhje,Albanian,mussels,"1 kg mussels, cleaned",1000.0,860.0,36.9
+Mish me midhje,Albanian,garlic,"2 cloves garlic, minced",6.0,8.94,1.9860000000000002
+Mish me midhje,Albanian,white wine,1 cup white wine,235.2,192.86399999999998,6.1152
+Mish me midhje,Albanian,parsley,"Parsley, chopped",12.412,4.46832,0.7856796
+Mish me midhje,Albanian,olive oil,Olive oil,16.88032,149.2220288,0.0
+Mish me midhje,Albanian,salt,Salt and pepper,7.4472000000000005,0.0,0.0
+Cheeseburger,American,ground beef,1 lb ground beef,453.59237,1152.1246198000001,0.0
+Cheeseburger,American,cheddar cheese,4 slices cheddar cheese,112.0,451.36,3.7744
+Cheeseburger,American,hamburger buns,4 hamburger buns,176.0,491.04,88.176
+Cheeseburger,American,lettuce,Lettuce leaves,5.0,0.65,0.1115
+Cheeseburger,American,tomato,"1 tomato, sliced",123.0,22.14,4.7847
+Cheeseburger,American,onions,"1 onion, sliced",125.0,50.0,11.675
+Cheeseburger,American,pickle,Pickles,0.0,0.0,0.0
+Cheeseburger,American,salt,Salt and pepper,5.96755422,0.0,0.0
+Apple Pie,American,unbleached flour,2 cups all-purpose flour,250.0,910.0,190.75
+Apple Pie,American,butter,"1/2 cup butter, chilled and diced",113.5,813.795,0.0681
+Apple Pie,American,apple,"4 apples, peeled and sliced",728.0,378.56,100.464
+Apple Pie,American,sugar,3/4 cup sugar,150.0,580.5,150.0
+Apple Pie,American,cinnamon,1 tsp cinnamon,2.6,6.422000000000001,2.0956
+Apple Pie,American,unbleached flour,2 tbsp all-purpose flour,15.62499999973582,56.87499999903838,11.921874999798431
+Apple Pie,American,water,Cold water,0.0,0.0,0.0
+Apple Pie,American,salt,Salt,7.5583499999984145,0.0,0.0
+Fried Chicken,American,chicken,"8 chicken pieces (legs, breasts, etc.)",715.2,1537.68,0.0
+Fried Chicken,American,flour,2 cups flour,250.0,910.0,190.75
+Fried Chicken,American,egg,"1 egg, beaten",43.0,61.49,0.3096
+Fried Chicken,American,paprika,1 tsp paprika,2.3,6.485999999999999,1.242
+Fried Chicken,American,garlic powder,1 tsp garlic powder,3.1,10.261000000000001,2.2537000000000003
+Fried Chicken,American,salt,Salt and pepper,6.0816,0.0,0.0
+Fried Chicken,American,oil,Oil for frying,13.78496,1356.1299023999998,0.0
+Macaroni and Cheese,American,pasta,2 cups macaroni,210.0,779.1,156.87
+Macaroni and Cheese,American,butter,2 tbsp butter,28.4,203.628,0.01704
+Macaroni and Cheese,American,unbleached flour,2 tbsp all-purpose flour,15.62499999973582,56.87499999903838,11.921874999798431
+Macaroni and Cheese,American,whole milk,2 cups milk,488.0,297.68,23.424
+Macaroni and Cheese,American,cheddar cheese,"2 cups cheddar cheese, grated",264.0,1063.92,8.8968
+Macaroni and Cheese,American,salt,Salt and pepper,6.3601499999984155,0.0,0.0
+Macaroni and Cheese,American,breadcrumbs,Optional: 1/2 cup breadcrumbs,54.0,213.3,38.88
+Barbecue Ribs,American,ribs,2 racks pork ribs,2594.0,7185.38,0.0
+Barbecue Ribs,American,paprika,2 tbsp paprika,13.6,38.352,7.343999999999999
+Barbecue Ribs,American,garlic powder,1 tbsp garlic powder,9.7,32.107,7.0519
+Barbecue Ribs,American,brown sugar,2 tbsp brown sugar,18.12499999969356,68.87499999883553,17.780624999699384
+Barbecue Ribs,American,salt,Salt,15.81254999999816,0.0,0.0
+Barbecue Ribs,American,barbecue sauce,Barbecue sauce,0.0,0.0,0.0
+Pancakes,American,unbleached flour,1 cup all-purpose flour,125.0,455.0,95.375
+Pancakes,American,sugar,2 tbsp sugar,24.9999999995774,96.74999999836454,24.999999999577405
+Pancakes,American,baking powder,2 tsp baking powder,9.2,4.692,2.2172
+Pancakes,American,salt,1/2 tsp salt,3.0,0.0,0.0
+Pancakes,American,whole milk,1 cup milk,244.0,148.84,11.712
+Pancakes,American,egg,1 egg,43.0,61.49,0.3096
+Pancakes,American,butter,2 tbsp melted butter,28.4,203.628,0.01704
+Pancakes,American,maple syrup,Maple syrup for serving,83.0,215.8,55.61
+Chocolate Chip Cookies,American,unbleached flour,2 1/4 cups all-purpose flour,281.25,1023.75,214.59375
+Chocolate Chip Cookies,American,baking soda,1/2 tsp baking soda,2.3,0.0,0.0
+Chocolate Chip Cookies,American,butter,"1 cup unsalted butter, room temperature",227.0,1627.59,0.1362
+Chocolate Chip Cookies,American,sugar,1/2 cup granulated sugar,100.0,387.0,100.0
+Chocolate Chip Cookies,American,brown sugar,1 cup packed brown sugar,220.0,836.0,215.82
+Chocolate Chip Cookies,American,vanilla extract,2 tsp vanilla extract,8.4,24.192000000000004,1.0584
+Chocolate Chip Cookies,American,egg,2 eggs,86.0,122.98,0.6192
+Chocolate Chip Cookies,American,chocolate chip,2 cups chocolate chips,448.0,2248.96,306.432
+BLT Sandwich,American,bacon,8 slices bacon,232.0,911.76,0.0
+BLT Sandwich,American,bread,4 slices of bread,116.0,317.84,55.1
+BLT Sandwich,American,lettuce,Lettuce leaves,5.0,0.65,0.1115
+BLT Sandwich,American,tomato,"1 tomato, sliced",123.0,22.14,4.7847
+BLT Sandwich,American,mayonnaise,Mayonnaise,0.0,0.0,0.0
+Clam Chowder,American,bacon,"4 slices bacon, chopped",116.0,455.88,0.0
+Clam Chowder,American,onions,"1 onion, chopped",125.0,50.0,11.675
+Clam Chowder,American,celery,"2 stalks celery, chopped",80.0,11.2,2.3760000000000003
+Clam Chowder,American,potato,"2 potatoes, peeled and diced",426.0,328.02,74.55
+Clam Chowder,American,clams,2 cans clams with juice,600.0000000000001,852.0000000000001,35.400000000000006
+Clam Chowder,American,water,1 cup water,236.5882365,0.0,0.0
+Clam Chowder,American,cream,1 cup cream,238.0,809.2,6.7592
+Clam Chowder,American,salt,Salt and pepper,11.019529419,0.0,0.0
+Clam Chowder,American,saltine crackers,Oyster crackers for serving,15.0,62.7,11.1
+Brownies,American,butter,1/2 cup butter,113.5,813.795,0.0681
+Brownies,American,chocolate,"1 cup chocolate chunks, plus extra for folding in",173.0,830.4,110.54699999999998
+Brownies,American,sugar,1 cup sugar,200.0,774.0,200.0
+Brownies,American,egg,2 eggs,86.0,122.98,0.6192
+Brownies,American,vanilla extract,1 tsp vanilla extract,4.2,12.096000000000002,0.5292
+Brownies,American,unbleached flour,3/4 cup all-purpose flour,93.75,341.25,71.53125
+Brownies,American,unsweetened cocoa powder,1/4 cup cocoa powder,21.5,49.02,12.4485
+Brownies,American,salt,1/2 tsp salt,3.0,0.0,0.0
+Shopska Salata,Bulgarian,tomato,3 tomatoes,369.0,66.42,14.3541
+Shopska Salata,Bulgarian,cucumber,1 cucumber,301.0,45.15,10.9263
+Shopska Salata,Bulgarian,onions,1 onion,125.0,50.0,11.675
+Shopska Salata,Bulgarian,cheddar cheese,200g sirene cheese,200.0,806.0,6.74
+Shopska Salata,Bulgarian,olive oil,Olive oil,13.532,119.62288000000001,0.0
+Shopska Salata,Bulgarian,salt,Salt,5.97,0.0,0.0
+Shopska Salata,Bulgarian,parsley,Parsley for garnish,9.950000000000001,3.5820000000000003,0.629835
+Kavarma,Bulgarian,pork,"500g pork or chicken, cut into pieces",500.0,990.0,0.0
+Kavarma,Bulgarian,onions,"2 onions, chopped",250.0,100.0,23.35
+Kavarma,Bulgarian,red bell pepper,"1 red bell pepper, chopped",119.0,30.94,7.175700000000001
+Kavarma,Bulgarian,white mushroom,"200g mushrooms, sliced",200.0,44.0,6.52
+Kavarma,Bulgarian,paprika,1 tbsp paprika,6.8,19.176,3.6719999999999997
+Kavarma,Bulgarian,white wine,100ml white wine,99.41322674341842,81.5188459296031,2.584743895328879
+Kavarma,Bulgarian,tomato paste,2 tbsp tomato paste,32.7499999994462,26.854999999545885,6.193024999895277
+Kavarma,Bulgarian,salt,Salt and pepper,7.247779360457187,0.0,0.0
+Kavarma,Bulgarian,parsley,Fresh herbs (parsley or thyme),12.079632267428645,4.348667616274312,0.7646407225282332
+Banitsa,Bulgarian,phyllo dough,1 package phyllo dough,400.0,1196.0,210.4
+Banitsa,Bulgarian,egg,6 eggs,258.0,368.94,1.8576
+Banitsa,Bulgarian,cheddar cheese,300g sirene cheese,300.0,1209.0,10.11
+Banitsa,Bulgarian,yogurt,1 cup yogurt,245.0,149.45,11.417
+Banitsa,Bulgarian,butter,100g melted butter,100.0,717.0,0.06
+Mekitsa,Bulgarian,flour,500g flour,500.0,1820.0,381.5
+Mekitsa,Bulgarian,yeast,1 packet yeast,7.2,23.4,2.9664000000000006
+Mekitsa,Bulgarian,yogurt,1 cup yogurt,245.0,149.45,11.417
+Mekitsa,Bulgarian,water,Water as needed,0.0,0.0,0.0
+Mekitsa,Bulgarian,oil,Oil for frying,10.27072,1001.3952,0.0
+Mekitsa,Bulgarian,powdered sugar,Powdered sugar for serving,3.0,11.67,2.9939999999999998
+Musaka,Bulgarian,potato,"4 large potatoes, thinly sliced",1476.0,1136.52,258.3
+Musaka,Bulgarian,beef,500g minced meat (beef or pork),500.0,650.0,0.6
+Musaka,Bulgarian,egg,2 eggs,86.0,122.98,0.6192
+Musaka,Bulgarian,yogurt,200g yogurt,200.0,122.0,9.32
+Musaka,Bulgarian,salt,"Salt, pepper, and paprika",13.572000000000001,0.0,0.0
+Tarator,Bulgarian,yogurt,500g yogurt,500.0,305.0,23.3
+Tarator,Bulgarian,cucumber,"1 cucumber, finely chopped",301.0,45.15,10.9263
+Tarator,Bulgarian,garlic,"2 cloves garlic, crushed",6.0,8.94,1.9860000000000002
+Tarator,Bulgarian,dill weed,"Handful of dill, chopped",1.1125,0.478375,0.0780975
+Tarator,Bulgarian,walnuts,"50g walnuts, crushed",50.0,327.0,6.85
+Tarator,Bulgarian,water,Water as needed,0.0,0.0,0.0
+Tarator,Bulgarian,salt,Salt,5.148675,0.0,0.0
+Tarator,Bulgarian,olive oil,Olive oil,11.670329999999998,103.16571719999997,0.0
+Kadaif,Bulgarian,dough,500g kadaif dough,500.0,1295.0,240.5
+Kadaif,Bulgarian,nuts,"200g mixed nuts, chopped",200.0,1214.0,44.8
+Kadaif,Bulgarian,butter,"100g butter, melted",100.0,717.0,0.06
+Kadaif,Bulgarian,sugar,2 cups sugar,400.0,1548.0,400.0
+Kadaif,Bulgarian,water,1 cup water,236.5882365,0.0,0.0
+Kadaif,Bulgarian,lemon,juice of 1 lemon,84.0,24.36,7.8288
+Bulgarian Cheese Toast,Bulgarian,bread,4 slices of bread,116.0,317.84,55.1
+Bulgarian Cheese Toast,Bulgarian,cheddar cheese,200g Bulgarian cheese (or feta cheese as substitute),200.0,806.0,6.74
+Bulgarian Cheese Toast,Bulgarian,egg,2 eggs (optional),86.0,122.98,0.6192
+Bulgarian Cheese Toast,Bulgarian,butter,Butter (for frying eggs),5.4672,432.351,0.03618
+Garash Cake,Bulgarian,egg white,6 egg whites,158.39999999999998,82.368,1.1563199999999998
+Garash Cake,Bulgarian,sugar,150g sugar,150.0,580.5,150.0
+Garash Cake,Bulgarian,walnuts,150g ground walnuts,150.0,981.0,20.55
+Garash Cake,Bulgarian,flour,50g flour,50.0,182.0,38.15
+Garash Cake,Bulgarian,dark chocolate,200g dark chocolate,200.0,1196.0,91.8
+Garash Cake,Bulgarian,heavy whipping cream,200ml heavy cream,201.53157530298427,685.2073560301465,5.723496738604752
+Sarmi,Bulgarian,cabbage,1 head of cabbage,952.8000000000001,238.2,55.2624
+Sarmi,Bulgarian,beef,500g minced meat (beef and pork mix),500.0,650.0,0.6
+Sarmi,Bulgarian,rice,1 cup rice,195.0,702.0,154.635
+Sarmi,Bulgarian,onions,"1 onion, finely chopped",125.0,50.0,11.675
+Sarmi,Bulgarian,tomato sauce,2 cups tomato sauce,490.0,117.6,26.018999999999995
+Sarmi,Bulgarian,dried thyme,"Herbs (parsley, dill), chopped",22.628000000000004,62.453280000000014,14.459292000000003
+Sarmi,Bulgarian,salt,Salt and pepper,13.576800000000002,0.0,0.0
+Beef Stroganoff,Russian,sirloin steak,500g beef sirloin,500.0,1070.0,0.0
+Beef Stroganoff,Russian,onions,"1 onion, sliced",125.0,50.0,11.675
+Beef Stroganoff,Russian,mustard,2 tbsp mustard,31.1249999994738,18.67499999968428,1.8145874999693226
+Beef Stroganoff,Russian,beef broth,200 ml beef broth,202.884136211058,26.37493770743754,2.4346096345326957
+Beef Stroganoff,Russian,sour cream,200 ml smetana or sour cream,194.43063053559723,384.9726484604825,9.002138193798151
+Beef Stroganoff,Russian,salt,Salt and pepper,6.488638600476775,0.0,0.0
+Beef Stroganoff,Russian,vegetable oil,2 tbsp vegetable oil,28.0,247.52,0.0
+Medovik,Russian,honey,3 tbsp honey,63.0,191.52,51.912000000000006
+Medovik,Russian,sugar,3/4 cup sugar,150.0,580.5,150.0
+Medovik,Russian,egg,3 eggs,129.0,184.47,0.9288
+Medovik,Russian,baking soda,1 tsp baking soda,4.6,0.0,0.0
+Medovik,Russian,flour,3 cups flour,375.0,1365.0,286.125
+Medovik,Russian,sour cream,500 ml sour cream,486.0765763389931,962.4316211512064,22.50534548449538
+Medovik,Russian,sugar,1/2 cup sugar,100.0,387.0,100.0
+Medovik,Russian,vanilla extract,1 tsp vanilla extract,4.2,12.096000000000002,0.5292
+Borscht,Russian,beets,"3 medium beets, peeled and shredded",246.0,105.78,23.5176
+Borscht,Russian,onions,"1 large onion, chopped",150.0,60.0,14.01
+Borscht,Russian,carrots,"2 carrots, peeled and shredded",122.0,50.02,11.6876
+Borscht,Russian,cabbage,"1/2 head of cabbage, shredded",476.40000000000003,119.1,27.6312
+Borscht,Russian,potato,"2 large potatoes, peeled and diced",738.0,568.26,129.15
+Borscht,Russian,white vinegar,1 tbsp vinegar,14.9,2.682,0.00596
+Borscht,Russian,sugar,1 tsp sugar,4.2,16.254,4.2
+Borscht,Russian,salt,Salt,10.509000000000002,0.0,0.0
+Borscht,Russian,sour cream,Sour cream,0.0,0.0,0.0
+Borscht,Russian,dill weed,Dill,0.0,0.0,0.0
+Pelmeni,Russian,flour,2 cups flour,250.0,910.0,190.75
+Pelmeni,Russian,egg,1 egg,43.0,61.49,0.3096
+Pelmeni,Russian,water,1/2 cup water,118.29411825,0.0,0.0
+Pelmeni,Russian,salt,Salt,6.8177647095,0.0,0.0
+Pelmeni,Russian,pork,300g minced pork,300.0,594.0,0.0
+Pelmeni,Russian,beef,300g minced beef,300.0,390.0,0.36
+Pelmeni,Russian,onions,"1 onion, finely chopped",125.0,50.0,11.675
+Pelmeni,Russian,black pepper,Pepper,3.40888235475,8.556294710422499,2.18168470704
+Syrniki,Russian,cheddar cheese,250g tvorog (cottage cheese),250.0,1007.5,8.425
+Syrniki,Russian,egg,2 eggs,86.0,122.98,0.6192
+Syrniki,Russian,flour,3 tbsp flour,23.437499999603745,85.31249999855763,17.882812499697657
+Syrniki,Russian,sugar,2 tbsp sugar,24.9999999995774,96.74999999836454,24.999999999577405
+Syrniki,Russian,vanilla extract,1 tsp vanilla extract,4.2,12.096000000000002,0.5292
+Kasha,Russian,buckwheat groat,1 cup buckwheat groats,164.0,567.44,123.0
+Kasha,Russian,water,2 cups water,473.176473,0.0,0.0
+Kasha,Russian,salt,Salt,3.823058838,0.0,0.0
+Kasha,Russian,whole milk,Milk (optional),0.0,0.0,0.0
+Pryaniki,Russian,honey,1 cup honey,339.0,1030.56,279.336
+Pryaniki,Russian,sugar,1/2 cup sugar,100.0,387.0,100.0
+Pryaniki,Russian,egg,2 eggs,86.0,122.98,0.6192
+Pryaniki,Russian,butter,"1/2 cup butter, melted",113.5,813.795,0.0681
+Pryaniki,Russian,flour,3 cups flour,375.0,1365.0,286.125
+Pryaniki,Russian,ginger,1 tsp ginger,2.0,1.6,0.35600000000000004
+Pryaniki,Russian,cloves,1 tsp cloves,2.1,5.754,1.3755000000000002
+Pryaniki,Russian,powdered sugar,Powdered sugar,12.2112,47.501568,12.186777600000001
+Pryaniki,Russian,lemon juice,Lemon juice,0.0,0.0,0.0
+Zefir,Russian,apple,"4 apples, peeled and cored",728.0,378.56,100.464
+Zefir,Russian,sugar,1 cup sugar,200.0,774.0,200.0
+Zefir,Russian,egg white,2 egg whites,52.8,27.456,0.38543999999999995
+Olivier Salad,Russian,potato,2 potatoes,426.0,328.02,74.55
+Olivier Salad,Russian,carrots,2 carrots,122.0,50.02,11.6876
+Olivier Salad,Russian,egg,4 eggs,172.0,245.96,1.2384
+Olivier Salad,Russian,pickle,"1 cup pickles, diced",0.0,0.0,0.0
+Olivier Salad,Russian,green peas,1 cup green peas,145.0,117.45,20.88
+Olivier Salad,Russian,cooked chicken,"2 cups boiled chicken, diced",280.0,467.6,0.0
+Olivier Salad,Russian,mayonnaise,1 cup mayonnaise,231.0,1598.52,0.0
+Olivier Salad,Russian,salt,Salt and pepper,8.256,0.0,0.0
+Shchi,Russian,onions,"1 onion, chopped",125.0,50.0,11.675
+Shchi,Russian,carrots,"2 carrots, grated",122.0,50.02,11.6876
+Shchi,Russian,beef,"500g beef or pork, cubed",500.0,650.0,0.6
+Shchi,Russian,cabbage,"1/2 head of cabbage, chopped",476.40000000000003,119.1,27.6312
+Shchi,Russian,potato,"3 potatoes, peeled and cubed",639.0,492.03,111.825
+Shchi,Russian,salt,Salt and pepper,11.1744,0.0,0.0
+Shchi,Russian,bay leaf,Bay leaves,5.5872,17.487936,4.1904
+Shchi,Russian,dill weed,Dill,0.0,0.0,0.0
+Shchi,Russian,sour cream,Sour cream,0.0,0.0,0.0
