@@ -1,0 +1,36 @@
+id,description,image_url
+0,error image not found,no url found
+1,greek cuisine,https://thumbs.dreamstime.com/b/greek-food-table-scene-top-down-view-dark-background-souvlaki-gyros-wraps-salad-spanakopita-dolmades-pita-lemon-potatoes-225466730.jpg
+2,french cuisine,https://media.istockphoto.com/id/584597902/vector/french-cuisine-icons.jpg?s=612x612&w=0&k=20&c=-mAbhivcSqKAoTyHFZ27fH5XmlSgS-f9EUrl9Hf10IE=
+3,indian cuisine,https://t4.ftcdn.net/jpg/02/84/46/89/360_F_284468940_1bg6BwgOfjCnE3W0wkMVMVqddJgtMynE.jpg
+4,italian cuisine,https://media.istockphoto.com/id/1227415751/photo/full-table-of-italian-meals-on-plates-pizza-pasta-ravioli-carpaccio-caprese-salad-and-tomato.jpg?s=612x612&w=0&k=20&c=0qCRhYGQw0w6ahhVX-4ezayA9r81A81cwbPDbgRlC5s=
+5,japanese cuisine,https://media.gettyimages.com/id/1300135479/photo/traditional-japanese-dishes-sushi-and-sushi-roll-set-rice-bowls-tuna-tataki.jpg?s=612x612&w=gi&k=20&c=gCZVauon73_wj5BThVQP3axU062jV1udZwApn4yZzEI=
+6,chinese cuisine,https://media.istockphoto.com/id/545286388/photo/chinese-food-blank-background.jpg?s=612x612&w=0&k=20&c=pqOIy07YKO5PlU5VxjscwTGRrrZ8PluKMUjSOz-II60=
+7,mexican cuisine,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlt4IkGPmtzTYHsFrhUfHZsl7D9oR_XoDeKyEGRJEPMw&s
+8,german cuisine,https://t3.ftcdn.net/jpg/02/90/54/44/360_F_290544453_eut3D4HHoR9DnZaLqFJLgPhyj25mMLFq.jpg
+9,korean cuisine,https://www.shutterstock.com/shutterstock/photos/2327701667/display_1500/stock-photo-korean-foods-served-on-a-dining-table-perfect-for-photo-illustration-article-or-any-cooking-2327701667.jpg
+10,turkish cuisine,https://t3.ftcdn.net/jpg/02/72/40/16/360_F_272401663_Oz1FHbPJjmTSsOArkkb4X8pUeiVxDueR.jpg
+11,albanian cuisine,https://irp.cdn-website.com/560b6587/dms3rep/multi/image20-f1109880.png
+12,american cuisine,https://t3.ftcdn.net/jpg/01/92/00/86/360_F_192008611_KrKZcq3NyiNSksLVPc76SQyBeXOfq1o0.jpg
+13,bulgarian cuisine,https://www.shutterstock.com/image-photo/traditional-uzbek-oriental-cuisine-family-600nw-1146169040.jpg
+14,russian cuisine,https://t3.ftcdn.net/jpg/03/00/22/82/360_F_300228239_Fb5WbnaOmvjdPLOieoxlpiR9hBaz4PL9.jpg
+2001,Cabbage carrots etc,https://img.freepik.com/free-vector/vegetables-icons-set_1284-21276.jpg?size=338&ext=jpg&ga=GA1.1.2082370165.1715904000&semt=sph
+2002,Apples bananas etc,https://img.freepik.com/free-photo/vibrant-collection-healthy-fruit-vegetables-generated-by-ai_24640-80425.jpg
+2003,Potato cereal etc,https://media02.stockfood.com/largepreviews/Mzk5Mzg4NQ==/00128835-Cereals-bread-spaghetti-potatoes-and-rice.jpg
+2004,"Milk, cheese etc",https://img.freepik.com/free-photo/view-allergens-commonly-found-dairy_23-2150170319.jpg
+2005,Peas beans etc,https://publish.purewow.net/wp-content/uploads/sites/2/2022/07/types-of-legumes-hero.jpg?resize=720%2C780
+2006,Beef pork etc,https://www.shutterstock.com/image-photo/fresh-raw-beef-steaks-on-260nw-1457200706.jpg
+2007,Chicken etc,https://media.istockphoto.com/id/93456512/photo/raw-chicken.jpg?s=612x612&w=0&k=20&c=UuvFL4g04JjBtrBdF9dAVReSUxELJey3CHEZv5z9OyE=
+2008,Eggs (come on),https://cdn.britannica.com/94/151894-050-F72A5317/Brown-eggs.jpg
+2009,fish shrimps etc,https://media.istockphoto.com/id/520490716/photo/seafood-on-ice.jpg?s=612x612&w=0&k=20&c=snyxGY26viNQ6BWqW-ez4U7tAO65Z_tmAFPMobiZ9Q4=
+2010,Olives Nuts etc,https://media.istockphoto.com/id/1332649193/photo/oil-hazelnut-in-sauceboat-on-board.jpg?s=612x612&w=0&k=20&c=jv7yA9YdXRHSBcJEqayZjQqRctZZGmD_WbX1jFMsHfE=
+3001,A vibrant and festive theme featuring a taco bar,https://media-cdn.tripadvisor.com/media/photo-s/19/a5/2b/8a/taco-fiesta-bali.jpg
+3002,A theme inspired by the flavors of the Mediterranean,https://www.shutterstock.com/image-illustration/set-delicious-tasty-spanish-delights-260nw-609078893.jpg
+3003,Classic Italian fare with a cozy trattoria ambiance,https://www.shutterstock.com/shutterstock/photos/1054754711/display_1500/stock-photo-view-of-a-small-local-restaurant-or-trattoria-in-italy-1054754711.jpg
+3004,A hearty barbecue feast with grilled meats,https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F702364939%2F1334550967343%2F1%2Foriginal.20240221-201702?w=1000&auto=format%2Ccompress&q=75&sharp=10&s=af66148673e16cfa8cf0d7a496ae94a3
+3005,A mix of popular dishes from different Asian cuisines,https://media.istockphoto.com/id/1317255793/photo/rijsttafel-nusantara-an-elaborate-meal-of-indonesian-dishes.jpg?s=612x612&w=0&k=20&c=F_CtvP1w7CMbth0vyT-aqzkB3D5TqZbnwgLc7tbpnsc=
+3006,A theme centered around fresh locally-sourced ingredients,https://media.istockphoto.com/id/1346744481/photo/anonymous-chef-harvesting-fresh-vegetables-on-a-farm.jpg?s=612x612&w=0&k=20&c=U9h4fAi68nwVndAJW8TF-f2lFFCO2Y-XrZWA2gah1Xw=
+3007,A feast for seafood lovers,https://st.depositphotos.com/20827338/57620/i/450/depositphotos_576201884-stock-photo-seafood-plate-shrimp-shellfish-crab.jpg
+3008,Elegant and classic French dishes,https://www.shutterstock.com/image-photo/cozy-street-tables-cafe-paris-260nw-1078952957.jpg
+3009,Comfort food from the American South,https://vintagemattituck.com/cdn/shop/products/Southern-Comfort-Whiskey-750ml_1024x1024.jpg?v=1577747836
+3010,An array of street food from around the world,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWEqUB0xkb-EHP0I9Ev9mYy6cf3idzoaX6I0vyxlTVkA&s
