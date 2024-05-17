@@ -1,0 +1,12 @@
+*
+
+!.gitignore
+!*.md
+!*.sql
+!*.mwb
+!*.csv
+!*.py
+!*.json
+!*.ipynb
+!*.xml
+!*.java

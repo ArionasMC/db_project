@@ -7,6 +7,7 @@ SET @OLD_UNIQUE_CHECKS=@@UNIQUE_CHECKS, UNIQUE_CHECKS=0;
 SET @OLD_FOREIGN_KEY_CHECKS=@@FOREIGN_KEY_CHECKS, FOREIGN_KEY_CHECKS=0;
 SET @OLD_SQL_MODE=@@SQL_MODE, SQL_MODE='ONLY_FULL_GROUP_BY,STRICT_TRANS_TABLES,NO_ZERO_IN_DATE,NO_ZERO_DATE,ERROR_FOR_DIVISION_BY_ZERO,NO_ENGINE_SUBSTITUTION';
 
+
 -- -----------------------------------------------------
 -- Schema mydb
 -- -----------------------------------------------------
@@ -123,43 +124,19 @@ ENGINE = InnoDB;
 
 
 -- -----------------------------------------------------
--- Table `mydb`.`meal`
--- -----------------------------------------------------
-CREATE TABLE IF NOT EXISTS `mydb`.`meal` (
-  `type` VARCHAR(128) NOT NULL,
-  PRIMARY KEY (`type`))
-ENGINE = InnoDB;
-
-
--- -----------------------------------------------------
 -- Table `mydb`.`recipe_has_meal`
 -- -----------------------------------------------------
 CREATE TABLE IF NOT EXISTS `mydb`.`recipe_has_meal` (
   `recipe_name` VARCHAR(128) NOT NULL,
   `recipe_cuisine_name` VARCHAR(128) NOT NULL,
-  `meal_type` VARCHAR(128) NOT NULL,
+  `meal_type` VARCHAR(32) NOT NULL,
   PRIMARY KEY (`recipe_name`, `recipe_cuisine_name`, `meal_type`),
-  INDEX `fk_recipe_has_meal_meal1_idx` (`meal_type` ASC) VISIBLE,
   INDEX `fk_recipe_has_meal_recipe1_idx` (`recipe_name` ASC, `recipe_cuisine_name` ASC) VISIBLE,
   CONSTRAINT `fk_recipe_has_meal_recipe1`
     FOREIGN KEY (`recipe_name` , `recipe_cuisine_name`)
     REFERENCES `mydb`.`recipe` (`name` , `cuisine_name`)
     ON DELETE RESTRICT
-    ON UPDATE CASCADE,
-  CONSTRAINT `fk_recipe_has_meal_meal1`
-    FOREIGN KEY (`meal_type`)
-    REFERENCES `mydb`.`meal` (`type`)
-    ON DELETE RESTRICT
     ON UPDATE CASCADE)
-ENGINE = InnoDB;
-
-
--- -----------------------------------------------------
--- Table `mydb`.`label`
--- -----------------------------------------------------
-CREATE TABLE IF NOT EXISTS `mydb`.`label` (
-  `name` VARCHAR(128) NOT NULL,
-  PRIMARY KEY (`name`))
 ENGINE = InnoDB;
 
 
@@ -169,18 +146,12 @@ ENGINE = InnoDB;
 CREATE TABLE IF NOT EXISTS `mydb`.`recipe_has_label` (
   `recipe_name` VARCHAR(128) NOT NULL,
   `recipe_cuisine_name` VARCHAR(128) NOT NULL,
-  `label_name` VARCHAR(128) NOT NULL,
+  `label_name` VARCHAR(32) NOT NULL,
   PRIMARY KEY (`recipe_name`, `recipe_cuisine_name`, `label_name`),
-  INDEX `fk_recipe_has_label_label1_idx` (`label_name` ASC) VISIBLE,
   INDEX `fk_recipe_has_label_recipe1_idx` (`recipe_name` ASC, `recipe_cuisine_name` ASC) VISIBLE,
   CONSTRAINT `fk_recipe_has_label_recipe1`
     FOREIGN KEY (`recipe_name` , `recipe_cuisine_name`)
     REFERENCES `mydb`.`recipe` (`name` , `cuisine_name`)
-    ON DELETE RESTRICT
-    ON UPDATE CASCADE,
-  CONSTRAINT `fk_recipe_has_label_label1`
-    FOREIGN KEY (`label_name`)
-    REFERENCES `mydb`.`label` (`name`)
     ON DELETE RESTRICT
     ON UPDATE CASCADE)
 ENGINE = InnoDB;
@@ -190,8 +161,9 @@ ENGINE = InnoDB;
 -- Table `mydb`.`tip`
 -- -----------------------------------------------------
 CREATE TABLE IF NOT EXISTS `mydb`.`tip` (
+  `id` INT NOT NULL AUTO_INCREMENT,
   `tip` VARCHAR(256) NOT NULL,
-  PRIMARY KEY (`tip`))
+  PRIMARY KEY (`id`))
 ENGINE = InnoDB;
 
 
@@ -201,9 +173,9 @@ ENGINE = InnoDB;
 CREATE TABLE IF NOT EXISTS `mydb`.`recipe_has_tip` (
   `recipe_name` VARCHAR(128) NOT NULL,
   `recipe_cuisine_name` VARCHAR(128) NOT NULL,
-  `tip_tip` VARCHAR(256) NOT NULL,
-  PRIMARY KEY (`tip_tip`, `recipe_name`, `recipe_cuisine_name`),
-  INDEX `fk_recipe_has_tip_tip1_idx` (`tip_tip` ASC) VISIBLE,
+  `tip_id` INT NOT NULL,
+  PRIMARY KEY (`recipe_name`, `recipe_cuisine_name`, `tip_id`),
+  INDEX `fk_recipe_has_tip_tip1_idx` (`tip_id` ASC) VISIBLE,
   INDEX `fk_recipe_has_tip_recipe1_idx` (`recipe_name` ASC, `recipe_cuisine_name` ASC) VISIBLE,
   CONSTRAINT `fk_recipe_has_tip_recipe1`
     FOREIGN KEY (`recipe_name` , `recipe_cuisine_name`)
@@ -211,8 +183,8 @@ CREATE TABLE IF NOT EXISTS `mydb`.`recipe_has_tip` (
     ON DELETE RESTRICT
     ON UPDATE CASCADE,
   CONSTRAINT `fk_recipe_has_tip_tip1`
-    FOREIGN KEY (`tip_tip`)
-    REFERENCES `mydb`.`tip` (`tip`)
+    FOREIGN KEY (`tip_id`)
+    REFERENCES `mydb`.`tip` (`id`)
     ON DELETE RESTRICT
     ON UPDATE CASCADE)
 ENGINE = InnoDB;
@@ -381,7 +353,7 @@ CREATE TABLE IF NOT EXISTS `mydb`.`chef` (
   `id` INT NOT NULL AUTO_INCREMENT,
   `first_name` VARCHAR(64) NOT NULL,
   `last_name` VARCHAR(16) NOT NULL,
-  `phone` VARCHAR(16) NOT NULL,
+  `phone` VARCHAR(32) NOT NULL,
   `date_of_birth` DATE NOT NULL,
   `age` INT DEFAULT 0,
   `years_exp` INT DEFAULT 0,
@@ -397,12 +369,10 @@ CREATE TABLE IF NOT EXISTS `mydb`.`chef` (
 ENGINE = InnoDB;
 
 DELIMITER //
-CREATE TRIGGER `calculate_chef_age` AFTER INSERT ON `mydb`.`chef` FOR EACH ROW
+CREATE TRIGGER `calculate_chef_age` BEFORE INSERT ON `mydb`.`chef` FOR EACH ROW
 BEGIN
-	UPDATE `mydb`.`chef`
-    SET age = DATE_FORMAT(FROM_DAYS(DATEDIFF(NOW(), date_of_birth)), "%Y")+0
-    WHERE id = NEW.id;
-END;
+    SET new.age = DATE_FORMAT(FROM_DAYS(DATEDIFF(NOW(), new.date_of_birth)), "%Y")+0;
+END
 //
 DELIMITER ; 
 
