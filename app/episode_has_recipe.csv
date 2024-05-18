@@ -1,301 +1,301 @@
 "episode_id","episode_year","recipe_name","recipe_cuisine_name","chef_id"
-1,2022,"Pancakes","French",57
-1,2022,"Fërgesë","Indian",69
-1,2022,"Jani me fasule","Chinese",19
-1,2022,"Musaka","Albanian",52
-1,2022,"Medovik","Italian",93
-1,2022,"Shopska Salata","Mexican",37
-1,2022,"Tavë Kosi","Greek",10
-1,2022,"Shchi","American",24
-1,2022,"Byrek me Spinaq","Japanese",30
-1,2022,"Kavarma","German",62
-2,2022,"Pancakes","French",90
-2,2022,"Chocolate Chip Cookies","Indian",53
-2,2022,"Pelmeni","Chinese",21
-2,2022,"Musaka","Albanian",19
-2,2022,"Medovik","Italian",9
-2,2022,"Syrniki","Mexican",25
-2,2022,"Garash Cake","Greek",86
-2,2022,"Apple Pie","American",51
-2,2022,"Clam Chowder","Japanese",30
-2,2022,"Qifqi","German",44
-3,2022,"Sarmi","French",45
-3,2022,"Beef Stroganoff","Indian",19
-3,2022,"Brownies","Chinese",87
-3,2022,"Cheeseburger","Albanian",90
+1,2022,"Shëndetli","Mexican",35
+1,2022,"Sarmi","French",71
+1,2022,"Zefir","Turkish",85
+1,2022,"Brownies","Chinese",19
+1,2022,"Bulgarian Cheese Toast","Russian",43
+1,2022,"Tarator","American",72
+1,2022,"Garash Cake","Greek",76
+1,2022,"Borscht","Japanese",30
+1,2022,"Përime në zgare","Korean",22
+1,2022,"Medovik","Italian",54
+2,2022,"Speca të mbushur","Italian",93
+2,2022,"Kadaif","Bulgarian",51
+2,2022,"Fërgesë","Indian",70
+2,2022,"Mekitsa","Turkish",1
+2,2022,"Garash Cake","Greek",91
+2,2022,"Shëndetli","Mexican",66
+2,2022,"Kavarma","German",16
+2,2022,"Musaka","Albanian",73
+2,2022,"Sarmi","French",63
+2,2022,"Brownies","Chinese",19
+3,2022,"Kadaif","Bulgarian",45
+3,2022,"Bulgarian Cheese Toast","Russian",66
+3,2022,"Shopska Salata","Mexican",25
+3,2022,"Përime në zgare","Korean",56
+3,2022,"Kasha","German",23
+3,2022,"Brownies","Chinese",81
+3,2022,"Zefir","Turkish",78
+3,2022,"Chocolate Chip Cookies","Indian",50
 3,2022,"Speca të mbushur","Italian",53
-3,2022,"Syrniki","Mexican",18
-3,2022,"Garash Cake","Greek",60
-3,2022,"Apple Pie","American",46
-3,2022,"Byrek me Spinaq","Japanese",30
-3,2022,"Kavarma","German",62
-4,2022,"Sarmi","French",11
-4,2022,"Fërgesë","Indian",5
-4,2022,"Pelmeni","Chinese",95
-4,2022,"Olivier Salad","Albanian",45
-4,2022,"BLT Sandwich","Italian",49
-4,2022,"Shopska Salata","Mexican",100
-4,2022,"Garash Cake","Greek",28
-4,2022,"Tarator","American",72
-4,2022,"Borscht","Japanese",74
-4,2022,"Qifqi","German",48
-5,2022,"Sarmi","French",38
-5,2022,"Chocolate Chip Cookies","Indian",6
-5,2022,"Jani me fasule","Chinese",79
-5,2022,"Musaka","Albanian",73
-5,2022,"BLT Sandwich","Italian",14
-5,2022,"Syrniki","Mexican",20
+3,2022,"Olivier Salad","Albanian",38
+4,2022,"Cheeseburger","Albanian",52
+4,2022,"Apple Pie","American",39
+4,2022,"Pryaniki","Korean",22
+4,2022,"Shopska Salata","Mexican",18
+4,2022,"Sarmi","French",38
+4,2022,"Mish me midhje","Turkish",17
+4,2022,"Medovik","Italian",2
+4,2022,"Qifqi","German",62
+4,2022,"Byrek me Spinaq","Japanese",30
+4,2022,"Kadaif","Bulgarian",26
 5,2022,"Barbecue Ribs","Greek",60
-5,2022,"Tarator","American",99
-5,2022,"Clam Chowder","Japanese",3
-5,2022,"Kavarma","German",23
-6,2022,"Sarmi","French",77
-6,2022,"Beef Stroganoff","Indian",55
-6,2022,"Pelmeni","Chinese",95
-6,2022,"Olivier Salad","Albanian",73
+5,2022,"Apple Pie","American",95
+5,2022,"Speca të mbushur","Italian",14
+5,2022,"Brownies","Chinese",19
+5,2022,"Sarmi","French",47
+5,2022,"Qifqi","German",48
+5,2022,"Olivier Salad","Albanian",7
+5,2022,"Përime në zgare","Korean",68
+5,2022,"Zefir","Turkish",13
+5,2022,"Shëndetli","Mexican",35
+6,2022,"Banitsa","Korean",27
+6,2022,"Fried Chicken","Bulgarian",65
+6,2022,"Bulgarian Cheese Toast","Russian",57
 6,2022,"Medovik","Italian",49
-6,2022,"Shëndetli","Mexican",25
-6,2022,"Garash Cake","Greek",76
-6,2022,"Apple Pie","American",59
-6,2022,"Clam Chowder","Japanese",34
-6,2022,"Kavarma","German",84
-7,2022,"Pancakes","French",90
-7,2022,"Chocolate Chip Cookies","Indian",19
+6,2022,"Tavë Kosi","Greek",10
+6,2022,"Borscht","Japanese",20
+6,2022,"Tarator","American",59
+6,2022,"Olivier Salad","Albanian",30
+6,2022,"Kasha","German",16
+6,2022,"Beef Stroganoff","Indian",42
+7,2022,"Tarator","American",59
+7,2022,"Fried Chicken","Bulgarian",96
+7,2022,"Mish me midhje","Turkish",1
+7,2022,"Qifqi","German",48
+7,2022,"Shopska Salata","Mexican",100
 7,2022,"Brownies","Chinese",87
-7,2022,"Olivier Salad","Albanian",38
-7,2022,"BLT Sandwich","Italian",93
-7,2022,"Shopska Salata","Mexican",20
-7,2022,"Barbecue Ribs","Greek",76
-7,2022,"Tarator","American",60
-7,2022,"Clam Chowder","Japanese",33
-7,2022,"Qifqi","German",23
-8,2022,"Sarmi","French",57
-8,2022,"Chocolate Chip Cookies","Indian",55
-8,2022,"Jani me fasule","Chinese",95
-8,2022,"Musaka","Albanian",7
-8,2022,"BLT Sandwich","Italian",8
-8,2022,"Syrniki","Mexican",100
-8,2022,"Garash Cake","Greek",28
-8,2022,"Apple Pie","American",99
-8,2022,"Clam Chowder","Japanese",3
-8,2022,"Kasha","German",73
-9,2022,"Sarmi","French",77
-9,2022,"Fërgesë","Indian",81
-9,2022,"Pelmeni","Chinese",16
-9,2022,"Olivier Salad","Albanian",30
-9,2022,"BLT Sandwich","Italian",3
-9,2022,"Shëndetli","Mexican",69
-9,2022,"Garash Cake","Greek",8
-9,2022,"Shchi","American",46
-9,2022,"Clam Chowder","Japanese",2
-9,2022,"Kasha","German",44
-10,2022,"Pancakes","French",63
-10,2022,"Fërgesë","Indian",53
-10,2022,"Pelmeni","Chinese",79
-10,2022,"Musaka","Albanian",20
-10,2022,"BLT Sandwich","Italian",54
+7,2022,"Banitsa","Korean",88
+7,2022,"Musaka","Albanian",72
+7,2022,"Sarmi","French",57
+7,2022,"Speca të mbushur","Italian",53
+8,2022,"Barbecue Ribs","Greek",99
+8,2022,"Olivier Salad","Albanian",52
+8,2022,"Përime në zgare","Korean",56
+8,2022,"Byrek me Spinaq","Japanese",61
+8,2022,"Chocolate Chip Cookies","Indian",10
+8,2022,"Shopska Salata","Mexican",20
+8,2022,"Zefir","Turkish",41
+8,2022,"Qifqi","German",16
+8,2022,"Sarmi","French",82
+8,2022,"Macaroni and Cheese","Russian",80
+9,2022,"Medovik","Italian",93
+9,2022,"Fried Chicken","Bulgarian",26
+9,2022,"Syrniki","Mexican",69
+9,2022,"Sarmi","French",42
+9,2022,"Bulgarian Cheese Toast","Russian",40
+9,2022,"Musaka","Albanian",72
+9,2022,"Chocolate Chip Cookies","Indian",81
+9,2022,"Pelmeni","Chinese",17
+9,2022,"Garash Cake","Greek",99
+9,2022,"Përime në zgare","Korean",56
+10,2022,"Pelmeni","Chinese",90
 10,2022,"Shëndetli","Mexican",100
-10,2022,"Garash Cake","Greek",6
-10,2022,"Apple Pie","American",34
-10,2022,"Clam Chowder","Japanese",61
-10,2022,"Qifqi","German",23
-1,2023,"Kadaif","Bulgarian",45
-1,2023,"Zefir","Turkish",85
-1,2023,"Chocolate Chip Cookies","Indian",55
-1,2023,"Clam Chowder","Japanese",49
-1,2023,"Apple Pie","American",59
-1,2023,"Kavarma","German",97
-1,2023,"Bulgarian Cheese Toast","Russian",38
-1,2023,"Pancakes","French",98
-1,2023,"Medovik","Italian",53
-1,2023,"Pelmeni","Chinese",90
-2,2023,"Kadaif","Bulgarian",94
-2,2023,"Mish me midhje","Turkish",58
-2,2023,"Beef Stroganoff","Indian",70
-2,2023,"Clam Chowder","Japanese",77
-2,2023,"Tarator","American",95
-2,2023,"Kavarma","German",23
-2,2023,"Bulgarian Cheese Toast","Russian",10
-2,2023,"Bakllasarem","French",45
-2,2023,"Speca të mbushur","Italian",49
+10,2022,"Pancakes","French",45
+10,2022,"Clam Chowder","Japanese",20
+10,2022,"Mish me midhje","Turkish",60
+10,2022,"Beef Stroganoff","Indian",19
+10,2022,"Bulgarian Cheese Toast","Russian",10
+10,2022,"Apple Pie","American",95
+10,2022,"Tavë Kosi","Greek",92
+10,2022,"Kasha","German",16
+1,2023,"Bakllasarem","French",45
+1,2023,"Jani me fasule","Chinese",19
+1,2023,"Banitsa","Korean",25
+1,2023,"Syrniki","Mexican",69
+1,2023,"Kadaif","Bulgarian",96
+1,2023,"Macaroni and Cheese","Russian",57
+1,2023,"Tarator","American",17
+1,2023,"BLT Sandwich","Italian",9
+1,2023,"Byrek me Spinaq","Japanese",12
+1,2023,"Beef Stroganoff","Indian",67
+2,2023,"Kasha","German",44
+2,2023,"Bakllasarem","French",42
+2,2023,"Garash Cake","Greek",8
 2,2023,"Brownies","Chinese",81
-3,2023,"Kadaif","Bulgarian",67
-3,2023,"Zefir","Turkish",17
-3,2023,"Beef Stroganoff","Indian",5
-3,2023,"Byrek me Spinaq","Japanese",2
-3,2023,"Shchi","American",46
-3,2023,"Kasha","German",62
-3,2023,"Bulgarian Cheese Toast","Russian",98
-3,2023,"Bakllasarem","French",82
-3,2023,"Medovik","Italian",22
-3,2023,"Jani me fasule","Chinese",95
-4,2023,"Kadaif","Bulgarian",96
-4,2023,"Zefir","Turkish",58
-4,2023,"Beef Stroganoff","Indian",69
-4,2023,"Borscht","Japanese",36
-4,2023,"Tarator","American",24
-4,2023,"Kasha","German",56
-4,2023,"Bulgarian Cheese Toast","Russian",38
-4,2023,"Pancakes","French",42
-4,2023,"BLT Sandwich","Italian",93
-4,2023,"Jani me fasule","Chinese",21
-5,2023,"Kadaif","Bulgarian",26
-5,2023,"Zefir","Turkish",76
-5,2023,"Fërgesë","Indian",83
-5,2023,"Byrek me Spinaq","Japanese",4
-5,2023,"Apple Pie","American",14
-5,2023,"Kavarma","German",48
-5,2023,"Bulgarian Cheese Toast","Russian",10
-5,2023,"Bakllasarem","French",63
-5,2023,"Speca të mbushur","Italian",8
-5,2023,"Pelmeni","Chinese",87
-6,2023,"Kadaif","Bulgarian",51
-6,2023,"Zefir","Turkish",89
-6,2023,"Chocolate Chip Cookies","Indian",81
-6,2023,"Byrek me Spinaq","Japanese",33
-6,2023,"Shchi","American",22
-6,2023,"Qifqi","German",97
-6,2023,"Bulgarian Cheese Toast","Russian",95
-6,2023,"Sarmi","French",40
-6,2023,"BLT Sandwich","Italian",3
-6,2023,"Brownies","Chinese",21
-7,2023,"Fried Chicken","Bulgarian",65
-7,2023,"Mish me midhje","Turkish",32
-7,2023,"Beef Stroganoff","Indian",55
-7,2023,"Clam Chowder","Japanese",77
-7,2023,"Apple Pie","American",59
-7,2023,"Kasha","German",62
+2,2023,"Medovik","Italian",93
+2,2023,"Fried Chicken","Bulgarian",45
+2,2023,"Bulgarian Cheese Toast","Russian",10
+2,2023,"Pryaniki","Korean",59
+2,2023,"Mekitsa","Turkish",46
+2,2023,"Clam Chowder","Japanese",2
+3,2023,"Borscht","Japanese",3
+3,2023,"Medovik","Italian",93
+3,2023,"Shchi","American",72
+3,2023,"Shopska Salata","Mexican",37
+3,2023,"Macaroni and Cheese","Russian",41
+3,2023,"Bakllasarem","French",90
+3,2023,"Fried Chicken","Bulgarian",94
+3,2023,"Cheeseburger","Albanian",45
+3,2023,"Kavarma","German",16
+3,2023,"Beef Stroganoff","Indian",67
+4,2023,"Syrniki","Mexican",100
+4,2023,"Garash Cake","Greek",6
+4,2023,"Pryaniki","Korean",15
+4,2023,"Borscht","Japanese",12
+4,2023,"Macaroni and Cheese","Russian",80
+4,2023,"Musaka","Albanian",90
+4,2023,"Pancakes","French",98
+4,2023,"Apple Pie","American",34
+4,2023,"Brownies","Chinese",16
+4,2023,"Fried Chicken","Bulgarian",96
+5,2023,"Pancakes","French",64
+5,2023,"Olivier Salad","Albanian",19
+5,2023,"Shchi","American",60
+5,2023,"Medovik","Italian",93
+5,2023,"Zefir","Turkish",78
+5,2023,"Kasha","German",44
+5,2023,"Jani me fasule","Chinese",58
+5,2023,"Barbecue Ribs","Greek",28
+5,2023,"Syrniki","Mexican",37
+5,2023,"Macaroni and Cheese","Russian",95
+6,2023,"Musaka","Albanian",72
+6,2023,"Tavë Kosi","Greek",86
+6,2023,"Mekitsa","Turkish",13
+6,2023,"Medovik","Italian",53
+6,2023,"Kavarma","German",62
+6,2023,"Pancakes","French",90
+6,2023,"Shëndetli","Mexican",50
+6,2023,"Chocolate Chip Cookies","Indian",70
+6,2023,"Brownies","Chinese",75
+6,2023,"Fried Chicken","Bulgarian",26
+7,2023,"Tarator","American",17
+7,2023,"Kavarma","German",62
+7,2023,"Speca të mbushur","Italian",53
+7,2023,"Brownies","Chinese",81
+7,2023,"Fried Chicken","Bulgarian",96
 7,2023,"Macaroni and Cheese","Russian",10
-7,2023,"Bakllasarem","French",47
-7,2023,"BLT Sandwich","Italian",80
-7,2023,"Brownies","Chinese",16
-8,2023,"Fried Chicken","Bulgarian",45
-8,2023,"Mekitsa","Turkish",46
-8,2023,"Fërgesë","Indian",19
-8,2023,"Byrek me Spinaq","Japanese",3
-8,2023,"Tarator","American",95
-8,2023,"Kasha","German",56
-8,2023,"Macaroni and Cheese","Russian",67
-8,2023,"Pancakes","French",82
-8,2023,"Speca të mbushur","Italian",2
-8,2023,"Brownies","Chinese",90
-9,2023,"Kadaif","Bulgarian",26
-9,2023,"Zefir","Turkish",46
-9,2023,"Chocolate Chip Cookies","Indian",81
-9,2023,"Byrek me Spinaq","Japanese",74
-9,2023,"Tarator","American",24
-9,2023,"Kasha","German",48
-9,2023,"Macaroni and Cheese","Russian",67
-9,2023,"Bakllasarem","French",98
-9,2023,"Medovik","Italian",54
-9,2023,"Pelmeni","Chinese",19
-10,2023,"Fried Chicken","Bulgarian",67
-10,2023,"Zefir","Turkish",78
-10,2023,"Beef Stroganoff","Indian",53
-10,2023,"Borscht","Japanese",2
-10,2023,"Shchi","American",51
-10,2023,"Kasha","German",23
-10,2023,"Macaroni and Cheese","Russian",11
-10,2023,"Sarmi","French",82
-10,2023,"BLT Sandwich","Italian",49
-10,2023,"Pelmeni","Chinese",17
-1,2024,"Shchi","American",39
-1,2024,"Jani me fasule","Chinese",31
-1,2024,"Shopska Salata","Mexican",34
-1,2024,"Olivier Salad","Albanian",30
-1,2024,"Qifqi","German",16
-1,2024,"Chocolate Chip Cookies","Indian",83
-1,2024,"Zefir","Turkish",74
-1,2024,"BLT Sandwich","Italian",49
-1,2024,"Barbecue Ribs","Greek",86
-1,2024,"Pryaniki","Korean",66
-2,2024,"Tarator","American",53
-2,2024,"Jani me fasule","Chinese",75
-2,2024,"Shopska Salata","Mexican",41
-2,2024,"Olivier Salad","Albanian",52
-2,2024,"Kavarma","German",16
-2,2024,"Fërgesë","Indian",84
-2,2024,"Zefir","Turkish",89
-2,2024,"Medovik","Italian",3
-2,2024,"Garash Cake","Greek",28
-2,2024,"Banitsa","Korean",81
-3,2024,"Apple Pie","American",59
-3,2024,"Brownies","Chinese",16
-3,2024,"Syrniki","Mexican",25
-3,2024,"Olivier Salad","Albanian",72
-3,2024,"Qifqi","German",56
-3,2024,"Beef Stroganoff","Indian",55
-3,2024,"Mish me midhje","Turkish",46
-3,2024,"Medovik","Italian",22
-3,2024,"Tavë Kosi","Greek",60
-3,2024,"Pryaniki","Korean",33
-4,2024,"Shchi","American",51
-4,2024,"Jani me fasule","Chinese",58
-4,2024,"Syrniki","Mexican",50
-4,2024,"Musaka","Albanian",45
-4,2024,"Qifqi","German",62
-4,2024,"Fërgesë","Indian",42
-4,2024,"Mekitsa","Turkish",13
-4,2024,"BLT Sandwich","Italian",14
-4,2024,"Barbecue Ribs","Greek",76
-4,2024,"Pryaniki","Korean",49
-5,2024,"Apple Pie","American",34
-5,2024,"Brownies","Chinese",81
-5,2024,"Shopska Salata","Mexican",66
-5,2024,"Musaka","Albanian",52
-5,2024,"Kavarma","German",23
-5,2024,"Beef Stroganoff","Indian",67
-5,2024,"Mekitsa","Turkish",41
-5,2024,"BLT Sandwich","Italian",49
-5,2024,"Barbecue Ribs","Greek",86
-5,2024,"Përime në zgare","Korean",29
-6,2024,"Shchi","American",74
-6,2024,"Brownies","Chinese",75
-6,2024,"Shopska Salata","Mexican",18
-6,2024,"Olivier Salad","Albanian",6
-6,2024,"Kasha","German",97
-6,2024,"Fërgesë","Indian",67
-6,2024,"Zefir","Turkish",41
-6,2024,"Medovik","Italian",22
-6,2024,"Tavë Kosi","Greek",79
-6,2024,"Përime në zgare","Korean",33
-7,2024,"Tarator","American",34
-7,2024,"Pelmeni","Chinese",63
-7,2024,"Shëndetli","Mexican",100
-7,2024,"Olivier Salad","Albanian",90
-7,2024,"Kavarma","German",23
-7,2024,"Fërgesë","Indian",69
-7,2024,"Mekitsa","Turkish",13
-7,2024,"Medovik","Italian",14
-7,2024,"Garash Cake","Greek",99
-7,2024,"Pryaniki","Korean",33
-8,2024,"Shchi","American",39
-8,2024,"Brownies","Chinese",31
-8,2024,"Shëndetli","Mexican",34
-8,2024,"Cheeseburger","Albanian",90
-8,2024,"Kasha","German",48
-8,2024,"Beef Stroganoff","Indian",50
-8,2024,"Zefir","Turkish",1
-8,2024,"Medovik","Italian",9
-8,2024,"Garash Cake","Greek",28
-8,2024,"Banitsa","Korean",59
-9,2024,"Apple Pie","American",51
-9,2024,"Jani me fasule","Chinese",90
-9,2024,"Shopska Salata","Mexican",18
-9,2024,"Olivier Salad","Albanian",20
-9,2024,"Kasha","German",97
-9,2024,"Chocolate Chip Cookies","Indian",50
-9,2024,"Mish me midhje","Turkish",89
-9,2024,"Speca të mbushur","Italian",53
-9,2024,"Tavë Kosi","Greek",10
-9,2024,"Përime në zgare","Korean",55
-10,2024,"Tarator","American",59
-10,2024,"Jani me fasule","Chinese",79
-10,2024,"Shëndetli","Mexican",37
-10,2024,"Cheeseburger","Albanian",45
-10,2024,"Qifqi","German",62
-10,2024,"Beef Stroganoff","Indian",5
-10,2024,"Mish me midhje","Turkish",46
-10,2024,"Medovik","Italian",54
-10,2024,"Garash Cake","Greek",76
-10,2024,"Banitsa","Korean",66
+7,2023,"Shëndetli","Mexican",41
+7,2023,"Banitsa","Korean",59
+7,2023,"Byrek me Spinaq","Japanese",77
+7,2023,"Garash Cake","Greek",60
+8,2023,"Clam Chowder","Japanese",49
+8,2023,"Përime në zgare","Korean",44
+8,2023,"Zefir","Turkish",89
+8,2023,"Bakllasarem","French",11
+8,2023,"Medovik","Italian",3
+8,2023,"Shëndetli","Mexican",35
+8,2023,"Cheeseburger","Albanian",30
+8,2023,"Fried Chicken","Bulgarian",51
+8,2023,"Tavë Kosi","Greek",24
+8,2023,"Shchi","American",59
+9,2023,"Pelmeni","Chinese",87
+9,2023,"Cheeseburger","Albanian",38
+9,2023,"Sarmi","French",47
+9,2023,"Shopska Salata","Mexican",34
+9,2023,"Speca të mbushur","Italian",49
+9,2023,"Chocolate Chip Cookies","Indian",5
+9,2023,"Barbecue Ribs","Greek",10
+9,2023,"Kasha","German",56
+9,2023,"Byrek me Spinaq","Japanese",61
+9,2023,"Pryaniki","Korean",88
+10,2023,"Zefir","Turkish",85
+10,2023,"Kasha","German",84
+10,2023,"Apple Pie","American",54
+10,2023,"Brownies","Chinese",81
+10,2023,"Speca të mbushur","Italian",80
+10,2023,"Fried Chicken","Bulgarian",51
+10,2023,"Cheeseburger","Albanian",68
+10,2023,"Bulgarian Cheese Toast","Russian",98
+10,2023,"Përime në zgare","Korean",56
+10,2023,"Beef Stroganoff","Indian",70
+1,2024,"Syrniki","Mexican",66
+1,2024,"Kasha","German",23
+1,2024,"Mekitsa","Turkish",85
+1,2024,"Bulgarian Cheese Toast","Russian",98
+1,2024,"BLT Sandwich","Italian",80
+1,2024,"Brownies","Chinese",90
+1,2024,"Fërgesë","Indian",84
+1,2024,"Borscht","Japanese",49
+1,2024,"Tavë Kosi","Greek",8
+1,2024,"Olivier Salad","Albanian",68
+2,2024,"Clam Chowder","Japanese",33
+2,2024,"Macaroni and Cheese","Russian",98
+2,2024,"Speca të mbushur","Italian",8
+2,2024,"Shchi","American",18
+2,2024,"Jani me fasule","Chinese",19
+2,2024,"Përime në zgare","Korean",22
+2,2024,"Mekitsa","Turkish",74
+2,2024,"Kavarma","German",48
+2,2024,"Pancakes","French",40
+2,2024,"Musaka","Albanian",20
+3,2024,"Kavarma","German",48
+3,2024,"Chocolate Chip Cookies","Indian",70
+3,2024,"Tarator","American",39
+3,2024,"Musaka","Albanian",45
+3,2024,"Brownies","Chinese",17
+3,2024,"Medovik","Italian",3
+3,2024,"Shëndetli","Mexican",18
+3,2024,"Zefir","Turkish",78
+3,2024,"Sarmi","French",77
+3,2024,"Përime në zgare","Korean",29
+4,2024,"Musaka","Albanian",19
+4,2024,"Shopska Salata","Mexican",69
+4,2024,"Sarmi","French",71
+4,2024,"Garash Cake","Greek",92
+4,2024,"Bulgarian Cheese Toast","Russian",57
+4,2024,"Apple Pie","American",34
+4,2024,"Pelmeni","Chinese",50
+4,2024,"Përime në zgare","Korean",29
+4,2024,"Byrek me Spinaq","Japanese",30
+4,2024,"Mish me midhje","Turkish",46
+5,2024,"Shchi","American",24
+5,2024,"Zefir","Turkish",59
+5,2024,"Borscht","Japanese",4
+5,2024,"Sarmi","French",82
+5,2024,"Jani me fasule","Chinese",87
+5,2024,"Barbecue Ribs","Greek",10
+5,2024,"Speca të mbushur","Italian",22
+5,2024,"Kavarma","German",16
+5,2024,"Shëndetli","Mexican",37
+5,2024,"Macaroni and Cheese","Russian",18
+6,2024,"Musaka","Albanian",20
+6,2024,"Borscht","Japanese",4
+6,2024,"Qifqi","German",16
+6,2024,"Bulgarian Cheese Toast","Russian",86
+6,2024,"Chocolate Chip Cookies","Indian",83
+6,2024,"Speca të mbushur","Italian",93
+6,2024,"Tavë Kosi","Greek",24
+6,2024,"Brownies","Chinese",90
+6,2024,"Syrniki","Mexican",35
+6,2024,"Fried Chicken","Bulgarian",45
+7,2024,"Qifqi","German",44
+7,2024,"Chocolate Chip Cookies","Indian",6
+7,2024,"Pelmeni","Chinese",81
+7,2024,"Garash Cake","Greek",10
+7,2024,"Byrek me Spinaq","Japanese",3
+7,2024,"Fried Chicken","Bulgarian",67
+7,2024,"Banitsa","Korean",8
+7,2024,"Bulgarian Cheese Toast","Russian",41
+7,2024,"Speca të mbushur","Italian",54
+7,2024,"Shopska Salata","Mexican",20
+8,2024,"Tavë Kosi","Greek",28
+8,2024,"Mish me midhje","Turkish",41
+8,2024,"Kavarma","German",84
+8,2024,"Fried Chicken","Bulgarian",94
+8,2024,"Cheeseburger","Albanian",20
+8,2024,"Speca të mbushur","Italian",54
+8,2024,"Borscht","Japanese",30
+8,2024,"Chocolate Chip Cookies","Indian",10
+8,2024,"Shchi","American",34
+8,2024,"Pelmeni","Chinese",90
+9,2024,"Zefir","Turkish",74
+9,2024,"Kasha","German",84
+9,2024,"Musaka","Albanian",7
+9,2024,"Brownies","Chinese",90
+9,2024,"Syrniki","Mexican",41
+9,2024,"Bakllasarem","French",42
+9,2024,"Medovik","Italian",49
+9,2024,"Beef Stroganoff","Indian",83
+9,2024,"Garash Cake","Greek",24
+9,2024,"Kadaif","Bulgarian",65
+10,2024,"Beef Stroganoff","Indian",70
+10,2024,"Byrek me Spinaq","Japanese",2
+10,2024,"Garash Cake","Greek",60
+10,2024,"Pancakes","French",38
+10,2024,"Shëndetli","Mexican",69
+10,2024,"Zefir","Turkish",85
+10,2024,"Cheeseburger","Albanian",72
+10,2024,"Kavarma","German",48
+10,2024,"Bulgarian Cheese Toast","Russian",4
+10,2024,"Kadaif","Bulgarian",26
