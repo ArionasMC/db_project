@@ -10,6 +10,9 @@ data/aftermath/__meal.csv
 !*.mwb
 !app/*.csv
 !app/*.ipynb
+!app/*.json
+!app/generated/*.csv
+!app/generated/*.sql
 !external_data/*.csv
 !external_data/*.ipynb
 !data/*.json
@@ -20,3 +23,4 @@ data/aftermath/__meal.csv
 !data/aftermath/*.csv
 !data/aftermath/*.ipynb
 !data/aftermath/*.sql
+
