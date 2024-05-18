@@ -18,4 +18,5 @@ LOAD DATA INFILE '/var/lib/mysql-files/data/to_import/recipe_has_theme.csv' INTO
 LOAD DATA INFILE '/var/lib/mysql-files/data/to_import/step.csv' INTO TABLE step FIELDS TERMINATED BY ',' ENCLOSED BY '"' LINES TERMINATED BY '\n' IGNORE 1 ROWS;
 LOAD DATA INFILE '/var/lib/mysql-files/data/to_import/food_info.csv' INTO TABLE food_info FIELDS TERMINATED BY ',' ENCLOSED BY '"' LINES TERMINATED BY '\n' IGNORE 1 ROWS;
 LOAD DATA INFILE '/var/lib/mysql-files/data/to_import/chef.csv' INTO TABLE chef FIELDS TERMINATED BY ',' ENCLOSED BY '"' LINES TERMINATED BY '\n' IGNORE 1 ROWS;
+LOAD DATA INFILE '/var/lib/mysql-files/data/to_import/recipe_has_chef.csv' INTO TABLE recipe_has_chef FIELDS TERMINATED BY ',' ENCLOSED BY '"' LINES TERMINATED BY '\n' IGNORE 1 ROWS;
 LOAD DATA INFILE '/var/lib/mysql-files/data/to_import/chef_has_cuisine.csv' INTO TABLE chef_has_cuisine FIELDS TERMINATED BY ',' ENCLOSED BY '"' LINES TERMINATED BY '\n' IGNORE 1 ROWS;
