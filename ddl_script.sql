@@ -437,53 +437,6 @@ CREATE TABLE IF NOT EXISTS `mydb`.`episode` (
     ON UPDATE CASCADE)
 ENGINE = InnoDB;
 
-
--- -----------------------------------------------------
--- Table `mydb`.`episode_has_cuisine`
--- -----------------------------------------------------
-CREATE TABLE IF NOT EXISTS `mydb`.`episode_has_cuisine` (
-  `episode_id` INT NOT NULL,
-  `episode_year` INT NOT NULL,
-  `cuisine_name` VARCHAR(128) NOT NULL,
-  PRIMARY KEY (`episode_id`, `episode_year`, `cuisine_name`),
-  INDEX `fk_episode_has_cuisine_cuisine1_idx` (`cuisine_name` ASC) VISIBLE,
-  INDEX `fk_episode_has_cuisine_episode1_idx` (`episode_id` ASC, `episode_year` ASC) VISIBLE,
-  CONSTRAINT `fk_episode_has_cuisine_episode1`
-    FOREIGN KEY (`episode_id` , `episode_year`)
-    REFERENCES `mydb`.`episode` (`id` , `year`)
-    ON DELETE RESTRICT
-    ON UPDATE CASCADE,
-  CONSTRAINT `fk_episode_has_cuisine_cuisine1`
-    FOREIGN KEY (`cuisine_name`)
-    REFERENCES `mydb`.`cuisine` (`name`)
-    ON DELETE RESTRICT
-    ON UPDATE CASCADE)
-ENGINE = InnoDB;
-
-
--- -----------------------------------------------------
--- Table `mydb`.`episode_has_chef`
--- -----------------------------------------------------
-CREATE TABLE IF NOT EXISTS `mydb`.`episode_has_chef` (
-  `episode_id` INT NOT NULL,
-  `episode_year` INT NOT NULL,
-  `chef_id` INT NOT NULL,
-  PRIMARY KEY (`episode_id`, `episode_year`, `chef_id`),
-  INDEX `fk_episode_has_chef_chef1_idx` (`chef_id` ASC) VISIBLE,
-  INDEX `fk_episode_has_chef_episode1_idx` (`episode_id` ASC, `episode_year` ASC) VISIBLE,
-  CONSTRAINT `fk_episode_has_chef_episode1`
-    FOREIGN KEY (`episode_id` , `episode_year`)
-    REFERENCES `mydb`.`episode` (`id` , `year`)
-    ON DELETE RESTRICT
-    ON UPDATE CASCADE,
-  CONSTRAINT `fk_episode_has_chef_chef1`
-    FOREIGN KEY (`chef_id`)
-    REFERENCES `mydb`.`chef` (`id`)
-    ON DELETE RESTRICT
-    ON UPDATE CASCADE)
-ENGINE = InnoDB;
-
-
 -- -----------------------------------------------------
 -- Table `mydb`.`episode_judges`
 -- -----------------------------------------------------
@@ -515,9 +468,11 @@ CREATE TABLE IF NOT EXISTS `mydb`.`episode_has_recipe` (
   `episode_year` INT NOT NULL,
   `recipe_name` VARCHAR(128) NOT NULL,
   `recipe_cuisine_name` VARCHAR(128) NOT NULL,
-  PRIMARY KEY (`episode_id`, `episode_year`, `recipe_name`, `recipe_cuisine_name`),
+  `chef_id` INT NOT NULL,
+  PRIMARY KEY (`episode_id`, `episode_year`, `recipe_name`, `recipe_cuisine_name`, `chef_id`),
   INDEX `fk_episode_has_recipe_recipe1_idx` (`recipe_name` ASC, `recipe_cuisine_name` ASC) VISIBLE,
   INDEX `fk_episode_has_recipe_episode1_idx` (`episode_id` ASC, `episode_year` ASC) VISIBLE,
+  INDEX `fk_episode_has_recipe_chef1_idx` (`chef_id` ASC) VISIBLE,
   CONSTRAINT `fk_episode_has_recipe_episode1`
     FOREIGN KEY (`episode_id` , `episode_year`)
     REFERENCES `mydb`.`episode` (`id` , `year`)
@@ -526,6 +481,11 @@ CREATE TABLE IF NOT EXISTS `mydb`.`episode_has_recipe` (
   CONSTRAINT `fk_episode_has_recipe_recipe1`
     FOREIGN KEY (`recipe_name` , `recipe_cuisine_name`)
     REFERENCES `mydb`.`recipe` (`name` , `cuisine_name`)
+    ON DELETE RESTRICT
+    ON UPDATE CASCADE,
+  CONSTRAINT `fk_episode_has_recipe_chef1`
+    FOREIGN KEY (`chef_id`)
+    REFERENCES `mydb`.`chef` (`id`)
     ON DELETE RESTRICT
     ON UPDATE CASCADE)
 ENGINE = InnoDB;
@@ -539,18 +499,18 @@ CREATE TABLE IF NOT EXISTS `mydb`.`grading` (
   `episode_year` INT NOT NULL,
   `judge_chef_id` INT NOT NULL,
   `participant_chef_id` INT NOT NULL,
-  `grade` INT NOT NULL CHECK (grade > 0 AND grade < 6),
+  `grade` INT NULL,
   PRIMARY KEY (`episode_id`, `episode_year`, `judge_chef_id`, `participant_chef_id`),
-  INDEX `fk_episode_judges_has_episode_has_chef_episode_has_chef1_idx` (`participant_chef_id` ASC) VISIBLE,
   INDEX `fk_episode_judges_has_episode_has_chef_episode_judges1_idx` (`episode_id` ASC, `episode_year` ASC, `judge_chef_id` ASC) VISIBLE,
+  INDEX `fk_grading_episode_has_recipe1_idx` (`participant_chef_id` ASC) VISIBLE,
   CONSTRAINT `fk_episode_judges_has_episode_has_chef_episode_judges1`
     FOREIGN KEY (`episode_id` , `episode_year` , `judge_chef_id`)
     REFERENCES `mydb`.`episode_judges` (`episode_id` , `episode_year` , `chef_id`)
     ON DELETE RESTRICT
     ON UPDATE CASCADE,
-  CONSTRAINT `fk_episode_judges_has_episode_has_chef_episode_has_chef1`
+  CONSTRAINT `fk_grading_episode_has_recipe1`
     FOREIGN KEY (`participant_chef_id`)
-    REFERENCES `mydb`.`episode_has_chef` (`chef_id`)
+    REFERENCES `mydb`.`episode_has_recipe` (`chef_id`)
     ON DELETE RESTRICT
     ON UPDATE CASCADE)
 ENGINE = InnoDB;
