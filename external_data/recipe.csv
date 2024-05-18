@@ -1,0 +1,21 @@
+type,difficulty,name,description,prep_time_m,cook_time_m,cuisine_name,ingredient_name,portions,image_id
+Cooking,4,Apple-Cranberry Crostada,-,30,30,Greek,-,8,1000
+Pastry,4,Apple Pie by Grandma Ople,-,30,60,Greek,-,8,1001
+Cooking,5,Sarahs Homemade Applesauce,-,10,15,French,-,4,1002
+Pastry,1,Apple Crisp,-,30,45,French,-,12,1003
+Cooking,3,Apple Pie Filling,-,20,20,Indian,-,40,1004
+Cooking,3,Easy Apple Crisp with Oat Topping,-,20,40,Indian,-,4,1005
+Pastry,5,Easy Apple Cider,-,10,60,Italian,-,8,1006
+Cooking,5,Apple-Cranberry Crisp,-,25,40,Italian,-,8,1007
+Pastry,5,Old-Fashioned Apple Dumplings,-,30,60,Japanese,-,6,1008
+Cooking,5,Southern Fried Apples,-,10,10,Japanese,-,4,1009
+Pastry,3,Apple Turnovers,-,30,25,Chinese,-,8,1010
+Pastry,4,Apple Crisp - Perfect and Easy,-,20,40,Chinese,-,6,1011
+Cooking,5,The Best Caramel Apples,-,15,30,Mexican,-,8,1012
+Pastry,4,Mulligatawny Soup,-,20,60,Mexican,-,6,1013
+Pastry,2,Sauteed Apples,-,5,15,German,-,8,1014
+Cooking,4,Homemade Apple Cider,-,15,180,German,-,16,1015
+Pastry,2,Canned Apple Pie Filling,-,30,10,Korean,-,56,1016
+Pastry,3,Easy Apple Pie,-,20,40,Korean,-,8,1017
+Cooking,2,Apple Crumb Pie,-,30,50,Turkish,-,8,1018
+Pastry,2,Caramel Apples,-,8,2,Turkish,-,6,1019

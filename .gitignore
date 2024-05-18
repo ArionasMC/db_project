@@ -2,6 +2,8 @@
 data/aftermath/__label.csv
 data/aftermath/__meal.csv
 
+!*/
+
 !.gitignore
 !*.md
 !*.sql

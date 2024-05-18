@@ -1,0 +1,271 @@
+"recipe_name","recipe_cuisine_name","ingredient_name","quantity"
+"Tavë Kosi","Greek","lamb",500
+"Tavë Kosi","Greek","rice",195
+"Tavë Kosi","Greek","water",473
+"Tavë Kosi","Greek","yogurt",490
+"Tavë Kosi","Greek","egg",129
+"Tavë Kosi","Greek","flour",15
+"Tavë Kosi","Greek","salt",10
+"Tavë Kosi","Greek","olive oil",24
+"Bakllasarem","French","phyllo dough",400
+"Bakllasarem","French","walnuts",234
+"Bakllasarem","French","sugar",200
+"Bakllasarem","French","cinnamon",2
+"Bakllasarem","French","butter",227
+"Bakllasarem","French","water",236
+"Bakllasarem","French","lemon juice",15
+"Fërgesë","Indian","red bell pepper",238
+"Fërgesë","Indian","onions",125
+"Fërgesë","Indian","tomato",246
+"Fërgesë","Indian","cottage cheese",200
+"Fërgesë","Indian","salt",4
+"Fërgesë","Indian","olive oil",11
+"Speca të mbushur","Italian","red bell pepper",476
+"Speca të mbushur","Italian","rice",195
+"Speca të mbushur","Italian","canned shrimp",128
+"Speca të mbushur","Italian","garlic",6
+"Speca të mbushur","Italian","dried thyme",8
+"Speca të mbushur","Italian","salt",4
+"Speca të mbushur","Italian","lemon",7
+"Byrek me Spinaq","Japanese","phyllo dough",400
+"Byrek me Spinaq","Japanese","spinach",500
+"Byrek me Spinaq","Japanese","feta cheese",200
+"Byrek me Spinaq","Japanese","egg",129
+"Byrek me Spinaq","Japanese","olive oil",16
+"Jani me fasule","Chinese","white bean",453
+"Jani me fasule","Chinese","onions",150
+"Jani me fasule","Chinese","garlic",6
+"Jani me fasule","Chinese","tomato",246
+"Jani me fasule","Chinese","salt",5
+"Jani me fasule","Chinese","chili powder",0
+"Jani me fasule","Chinese","olive oil",11
+"Shëndetli","Mexican","walnuts",80
+"Shëndetli","Mexican","sugar",200
+"Shëndetli","Mexican","egg",172
+"Shëndetli","Mexican","water",236
+"Shëndetli","Mexican","lemon juice",15
+"Qifqi","German","rice",195
+"Qifqi","German","egg",86
+"Qifqi","German","mint",0
+"Qifqi","German","salt",1
+"Qifqi","German","vegetable oil",3
+"Përime në zgare","Korean","zucchini",196
+"Përime në zgare","Korean","red bell pepper",238
+"Përime në zgare","Korean","eggplant",548
+"Përime në zgare","Korean","tomato",246
+"Përime në zgare","Korean","olive oil",16
+"Përime në zgare","Korean","garlic",3
+"Përime në zgare","Korean","parsley",12
+"Përime në zgare","Korean","salt",7
+"Mish me midhje","Turkish","mussels",1000
+"Mish me midhje","Turkish","garlic",6
+"Mish me midhje","Turkish","white wine",235
+"Mish me midhje","Turkish","parsley",12
+"Mish me midhje","Turkish","olive oil",16
+"Mish me midhje","Turkish","salt",7
+"Cheeseburger","Albanian","ground beef",453
+"Cheeseburger","Albanian","cheddar cheese",112
+"Cheeseburger","Albanian","hamburger buns",176
+"Cheeseburger","Albanian","lettuce",5
+"Cheeseburger","Albanian","tomato",123
+"Cheeseburger","Albanian","onions",125
+"Cheeseburger","Albanian","pickle",0
+"Cheeseburger","Albanian","salt",5
+"Apple Pie","American","unbleached flour",250
+"Apple Pie","American","butter",113
+"Apple Pie","American","apple",728
+"Apple Pie","American","sugar",150
+"Apple Pie","American","cinnamon",2
+"Apple Pie","American","water",0
+"Apple Pie","American","salt",7
+"Fried Chicken","Bulgarian","chicken",715
+"Fried Chicken","Bulgarian","flour",250
+"Fried Chicken","Bulgarian","egg",43
+"Fried Chicken","Bulgarian","paprika",2
+"Fried Chicken","Bulgarian","garlic powder",3
+"Fried Chicken","Bulgarian","salt",6
+"Fried Chicken","Bulgarian","oil",13
+"Macaroni and Cheese","Russian","pasta",210
+"Macaroni and Cheese","Russian","butter",28
+"Macaroni and Cheese","Russian","unbleached flour",15
+"Macaroni and Cheese","Russian","whole milk",488
+"Macaroni and Cheese","Russian","cheddar cheese",264
+"Macaroni and Cheese","Russian","salt",6
+"Macaroni and Cheese","Russian","breadcrumbs",54
+"Barbecue Ribs","Greek","ribs",2594
+"Barbecue Ribs","Greek","paprika",13
+"Barbecue Ribs","Greek","garlic powder",9
+"Barbecue Ribs","Greek","brown sugar",18
+"Barbecue Ribs","Greek","salt",15
+"Barbecue Ribs","Greek","barbecue sauce",0
+"Pancakes","French","unbleached flour",125
+"Pancakes","French","sugar",24
+"Pancakes","French","baking powder",9
+"Pancakes","French","salt",3
+"Pancakes","French","whole milk",244
+"Pancakes","French","egg",43
+"Pancakes","French","butter",28
+"Pancakes","French","maple syrup",83
+"Chocolate Chip Cookies","Indian","unbleached flour",281
+"Chocolate Chip Cookies","Indian","baking soda",2
+"Chocolate Chip Cookies","Indian","butter",227
+"Chocolate Chip Cookies","Indian","sugar",100
+"Chocolate Chip Cookies","Indian","brown sugar",220
+"Chocolate Chip Cookies","Indian","vanilla extract",8
+"Chocolate Chip Cookies","Indian","egg",86
+"Chocolate Chip Cookies","Indian","chocolate chip",448
+"BLT Sandwich","Italian","bacon",232
+"BLT Sandwich","Italian","bread",116
+"BLT Sandwich","Italian","lettuce",5
+"BLT Sandwich","Italian","tomato",123
+"BLT Sandwich","Italian","mayonnaise",0
+"Clam Chowder","Japanese","bacon",116
+"Clam Chowder","Japanese","onions",125
+"Clam Chowder","Japanese","celery",80
+"Clam Chowder","Japanese","potato",426
+"Clam Chowder","Japanese","clams",600
+"Clam Chowder","Japanese","water",236
+"Clam Chowder","Japanese","cream",238
+"Clam Chowder","Japanese","salt",11
+"Clam Chowder","Japanese","saltine crackers",15
+"Brownies","Chinese","butter",113
+"Brownies","Chinese","chocolate",173
+"Brownies","Chinese","sugar",200
+"Brownies","Chinese","egg",86
+"Brownies","Chinese","vanilla extract",4
+"Brownies","Chinese","unbleached flour",93
+"Brownies","Chinese","unsweetened cocoa powder",21
+"Brownies","Chinese","salt",3
+"Shopska Salata","Mexican","tomato",369
+"Shopska Salata","Mexican","cucumber",301
+"Shopska Salata","Mexican","onions",125
+"Shopska Salata","Mexican","cheddar cheese",200
+"Shopska Salata","Mexican","olive oil",13
+"Shopska Salata","Mexican","salt",5
+"Shopska Salata","Mexican","parsley",9
+"Kavarma","German","pork",500
+"Kavarma","German","onions",250
+"Kavarma","German","red bell pepper",119
+"Kavarma","German","white mushroom",200
+"Kavarma","German","paprika",6
+"Kavarma","German","white wine",99
+"Kavarma","German","tomato paste",32
+"Kavarma","German","salt",7
+"Kavarma","German","parsley",12
+"Banitsa","Korean","phyllo dough",400
+"Banitsa","Korean","egg",258
+"Banitsa","Korean","cheddar cheese",300
+"Banitsa","Korean","yogurt",245
+"Banitsa","Korean","butter",100
+"Mekitsa","Turkish","flour",500
+"Mekitsa","Turkish","yeast",7
+"Mekitsa","Turkish","yogurt",245
+"Mekitsa","Turkish","water",0
+"Mekitsa","Turkish","oil",10
+"Mekitsa","Turkish","powdered sugar",3
+"Musaka","Albanian","potato",1476
+"Musaka","Albanian","beef",500
+"Musaka","Albanian","egg",86
+"Musaka","Albanian","yogurt",200
+"Musaka","Albanian","salt",13
+"Tarator","American","yogurt",500
+"Tarator","American","cucumber",301
+"Tarator","American","garlic",6
+"Tarator","American","dill weed",1
+"Tarator","American","walnuts",50
+"Tarator","American","water",0
+"Tarator","American","salt",5
+"Tarator","American","olive oil",11
+"Kadaif","Bulgarian","dough",500
+"Kadaif","Bulgarian","nuts",200
+"Kadaif","Bulgarian","butter",100
+"Kadaif","Bulgarian","sugar",400
+"Kadaif","Bulgarian","water",236
+"Kadaif","Bulgarian","lemon",84
+"Bulgarian Cheese Toast","Russian","bread",116
+"Bulgarian Cheese Toast","Russian","cheddar cheese",200
+"Bulgarian Cheese Toast","Russian","egg",86
+"Bulgarian Cheese Toast","Russian","butter",5
+"Garash Cake","Greek","egg white",158
+"Garash Cake","Greek","sugar",150
+"Garash Cake","Greek","walnuts",150
+"Garash Cake","Greek","flour",50
+"Garash Cake","Greek","dark chocolate",200
+"Garash Cake","Greek","heavy whipping cream",201
+"Sarmi","French","cabbage",952
+"Sarmi","French","beef",500
+"Sarmi","French","rice",195
+"Sarmi","French","onions",125
+"Sarmi","French","tomato sauce",490
+"Sarmi","French","dried thyme",22
+"Sarmi","French","salt",13
+"Beef Stroganoff","Indian","sirloin steak",500
+"Beef Stroganoff","Indian","onions",125
+"Beef Stroganoff","Indian","mustard",31
+"Beef Stroganoff","Indian","beef broth",202
+"Beef Stroganoff","Indian","sour cream",194
+"Beef Stroganoff","Indian","salt",6
+"Beef Stroganoff","Indian","vegetable oil",28
+"Medovik","Italian","honey",63
+"Medovik","Italian","sugar",150
+"Medovik","Italian","egg",129
+"Medovik","Italian","baking soda",4
+"Medovik","Italian","flour",375
+"Medovik","Italian","sour cream",486
+"Medovik","Italian","vanilla extract",4
+"Borscht","Japanese","beets",246
+"Borscht","Japanese","onions",150
+"Borscht","Japanese","carrots",122
+"Borscht","Japanese","cabbage",476
+"Borscht","Japanese","potato",738
+"Borscht","Japanese","white vinegar",14
+"Borscht","Japanese","sugar",4
+"Borscht","Japanese","salt",10
+"Borscht","Japanese","sour cream",0
+"Borscht","Japanese","dill weed",0
+"Pelmeni","Chinese","flour",250
+"Pelmeni","Chinese","egg",43
+"Pelmeni","Chinese","water",118
+"Pelmeni","Chinese","salt",6
+"Pelmeni","Chinese","pork",300
+"Pelmeni","Chinese","beef",300
+"Pelmeni","Chinese","onions",125
+"Pelmeni","Chinese","black pepper",3
+"Syrniki","Mexican","cheddar cheese",250
+"Syrniki","Mexican","egg",86
+"Syrniki","Mexican","flour",23
+"Syrniki","Mexican","sugar",24
+"Syrniki","Mexican","vanilla extract",4
+"Kasha","German","buckwheat groat",164
+"Kasha","German","water",473
+"Kasha","German","salt",3
+"Kasha","German","whole milk",0
+"Pryaniki","Korean","honey",339
+"Pryaniki","Korean","sugar",100
+"Pryaniki","Korean","egg",86
+"Pryaniki","Korean","butter",113
+"Pryaniki","Korean","flour",375
+"Pryaniki","Korean","ginger",2
+"Pryaniki","Korean","cloves",2
+"Pryaniki","Korean","powdered sugar",12
+"Pryaniki","Korean","lemon juice",0
+"Zefir","Turkish","apple",728
+"Zefir","Turkish","sugar",200
+"Zefir","Turkish","egg white",52
+"Olivier Salad","Albanian","potato",426
+"Olivier Salad","Albanian","carrots",122
+"Olivier Salad","Albanian","egg",172
+"Olivier Salad","Albanian","pickle",0
+"Olivier Salad","Albanian","green peas",145
+"Olivier Salad","Albanian","cooked chicken",280
+"Olivier Salad","Albanian","mayonnaise",231
+"Olivier Salad","Albanian","salt",8
+"Shchi","American","onions",125
+"Shchi","American","carrots",122
+"Shchi","American","beef",500
+"Shchi","American","cabbage",476
+"Shchi","American","potato",639
+"Shchi","American","salt",11
+"Shchi","American","bay leaf",5
+"Shchi","American","dill weed",0
+"Shchi","American","sour cream",0
