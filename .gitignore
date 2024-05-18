@@ -1,12 +1,20 @@
 *
+data/aftermath/__label.csv
+data/aftermath/__meal.csv
 
 !.gitignore
 !*.md
 !*.sql
 !*.mwb
-!*.csv
-!*.py
-!*.json
-!*.ipynb
-!*.xml
-!*.java
+!app/*.csv
+!app/*.ipynb
+!external_data/*.csv
+!external_data/*.ipynb
+!data/*.json
+!data/*.py
+!data/*.ipynb
+!data/*.csv
+!data/to_import/*.csv
+!data/aftermath/*.csv
+!data/aftermath/*.ipynb
+!data/aftermath/*.sql
