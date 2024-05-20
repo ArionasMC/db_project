@@ -95,6 +95,12 @@ SELECT ej.chef_id, count(*) as appearances
 	ORDER BY appearances;
 
 -- 3.6
+SELECT LEAST(rhl1.label_name, rhl2.label_name) AS label_name1, GREATEST(rhl1.label_name, rhl2.label_name) AS label_name2, count(*) as appearances
+	FROM recipe_has_label rhl1
+		INNER JOIN recipe_has_label rhl2 ON (rhl2.recipe_name = rhl1.recipe_name AND rhl2.recipe_cuisine_name = rhl1.recipe_cuisine_name AND rhl1.label_name <> rhl2.label_name)
+        GROUP BY label_name1, label_name2
+        ORDER BY appearances DESC
+        limit 3;
 
 -- 3.7
 SELECT c.id, count(*) as appearances
@@ -168,11 +174,13 @@ SELECT c.id, count(*) as appearances
         limit 1;
 
     -- 3.13
-    SELECT e.id, e.year, sum(c.rank)
+    SELECT e.id, e.year, SUM(CAST(c.rank AS UNSIGNED)) as episode_rank
 	FROM episode e
 		INNER JOIN episode_has_recipe ehr ON (ehr.episode_id = e.id AND ehr.episode_year = e.year)
-        INNER JOIN chef c ON c.id = ehr.chef_id
-	GROUP BY e.id, e.year;
+		INNER JOIN chef c ON c.id = ehr.chef_id
+	GROUP BY e.id, e.year
+    ORDER BY episode_rank
+    limit 1;
     
     -- 3.14
     SELECT t.name, count(*) as appearances
