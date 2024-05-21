@@ -13,6 +13,9 @@ data/aftermath/__meal.csv
 !app/*.json
 !app/generated/*.csv
 !app/generated/*.sql
+!app/generated/faces/*.png
+!app/base_images/*.png
+!app/base_images/*.xcf
 !external_data/*.csv
 !external_data/*.ipynb
 !data/*.json
