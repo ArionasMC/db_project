@@ -39,7 +39,7 @@ BEGIN
     INSERT INTO recipe (type, difficulty, name, description, prep_time_m, cook_time_m, cuisine_name, ingredient_name, portions, image_id)
 		VALUES (NEW.type, NEW.difficulty, NEW.name, NEW.description, NEW.prep_time_m, NEW.cook_time_m, NEW.cuisine_name, NEW.ingredient_name, NEW.portions, NEW.image_id);
     INSERT INTO recipe_has_chef (recipe_name, recipe_cuisine_name, chef_id) VALUES (NEW.name, NEW.cuisine_name, 1);
-	END;
+END;
 //
 DELIMITER ; 
 -- INSERT privilage is also granted because the user can add a new recipe
@@ -52,3 +52,48 @@ CREATE OR REPLACE VIEW my_recipes_equipment AS
     WHERE rhc.chef_id = 1;
     
 GRANT UPDATE, SELECT ON mydb.my_recipes_equipment to 'user_chef'@'localhost';
+
+CREATE OR REPLACE VIEW my_recipes_ingredients AS
+	SELECT rhi.*, ing.cal_per_100, ing.food_team_short_name, ing.image_id
+    FROM recipe_has_chef rhc INNER JOIN recipe_has_ingredient rhi ON rhc.recipe_name = rhi.recipe_name AND rhc.recipe_cuisine_name = rhi.recipe_cuisine_name
+							 INNER JOIN ingredient ing ON ing.name = rhi.ingredient_name
+	WHERE rhc.chef_id = 1;
+    
+GRANT UPDATE, SELECT ON mydb.my_recipes_ingredients to 'user_chef'@'localhost';
+
+CREATE OR REPLACE VIEW my_recipes_steps AS
+	SELECT rhc.recipe_name, rhc.recipe_cuisine_name, s.number, s.description
+    FROM recipe_has_chef rhc INNER JOIN step s ON rhc.recipe_name = s.recipe_name AND rhc.recipe_cuisine_name = s.recipe_cuisine_name
+    WHERE rhc.chef_id = 1;
+    
+GRANT UPDATE, SELECT ON mydb.my_recipes_steps to 'user_chef'@'localhost';
+
+CREATE OR REPLACE VIEW my_recipes_meals AS
+	SELECT rhm.*
+    FROM recipe_has_chef rhc INNER JOIN recipe_has_meal rhm ON rhc.recipe_name = rhm.recipe_name AND rhc.recipe_cuisine_name = rhm.recipe_cuisine_name
+    WHERE rhc.chef_id = 1;
+    
+GRANT UPDATE, SELECT ON mydb.my_recipes_meals to 'user_chef'@'localhost';
+
+CREATE OR REPLACE VIEW my_recipes_labels AS
+	SELECT rhl.*
+    FROM recipe_has_chef rhc INNER JOIN recipe_has_label rhl ON rhc.recipe_name = rhl.recipe_name AND rhc.recipe_cuisine_name = rhl.recipe_cuisine_name
+    WHERE rhc.chef_id = 1;
+    
+GRANT UPDATE, SELECT ON mydb.my_recipes_labels to 'user_chef'@'localhost';
+
+CREATE OR REPLACE VIEW my_recipes_themes AS
+	SELECT rht.*, th.description, th.image_id
+    FROM recipe_has_chef rhc INNER JOIN recipe_has_theme rht ON rhc.recipe_name = rht.recipe_name AND rhc.recipe_cuisine_name = rht.recipe_cuisine_name
+							 INNER JOIN theme th ON th.name = rht.theme_name
+	WHERE rhc.chef_id = 1;
+
+GRANT UPDATE, SELECT ON mydb.my_recipes_themes to 'user_chef'@'localhost';
+
+CREATE OR REPLACE VIEW my_recipes_tips AS
+	SELECT rht.*, t.tip
+    FROM recipe_has_chef rhc INNER JOIN recipe_has_tip rht ON rhc.recipe_name = rht.recipe_name AND rhc.recipe_cuisine_name = rht.recipe_cuisine_name
+							 INNER JOIN tip t ON t.id = rht.tip_id
+	WHERE rhc.chef_id = 1;
+
+GRANT UPDATE, SELECT ON mydb.my_recipes_tips to 'user_chef'@'localhost';
