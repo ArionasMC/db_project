@@ -1,16 +1,12 @@
 -- 3.1
 SELECT avg(grade), g.participant_chef_id
 	FROM grading g 
-		INNER JOIN episode_has_recipe ehr ON g.participant_chef_id = ehr.chef_id
 	GROUP BY g.participant_chef_id
 UNION ALL
-SELECT avg(grade), c2.name
+SELECT avg(grade), ehr.recipe_cuisine_name
 	FROM grading g
 		INNER JOIN episode_has_recipe ehr ON g.participant_chef_id = ehr.chef_id
-        INNER JOIN chef c1 ON c1.id = ehr.chef_id 
-        INNER JOIN chef_has_cuisine chc ON chc.chef_id = c1.id
-        INNER JOIN cuisine c2 ON chc.cuisine_name = c2.name
-	GROUP BY c2.name;
+	GROUP BY ehr.recipe_cuisine_name;
     
 -- 3.2
 -- DROP PROCEDURE get_cuisine;
@@ -31,12 +27,14 @@ DELIMITER //
 
 CREATE PROCEDURE `get_year`(IN my_year INT)
 BEGIN
-    SELECT chc.chef_id, mycuisine
-		FROM chef_has_cuisine chc 
-		WHERE chc.cuisine_name = mycuisine;
+    SELECT c.id, c.first_name, c.last_name, my_year
+    FROM chef c 
+    INNER JOIN episode_has_recipe ehr ON c.id = ehr.chef_id
+    WHERE ehr.episode_year = my_year;
 END //
 
 DELIMITER ;
+
 
 call get_cuisine('Greek');
 call get_year(2024);
@@ -44,7 +42,7 @@ call get_year(2024);
 
 
 -- 3.3
-SELECT c.id, c.first_name, c.last_name, COUNT(*) AS max_recipe_count
+SELECT c.id, c.first_name, c.last_name, c.age, COUNT(*) AS max_recipe_count
 	FROM chef c
 		INNER JOIN recipe_has_chef rhc ON rhc.chef_id = c.id
 	WHERE c.age < 30
@@ -189,6 +187,5 @@ SELECT c.id, count(*) as appearances
 				INNER JOIN recipe r ON (r.name = rhi.recipe_name AND r.cuisine_name = rhi.recipe_cuisine_name)
                 INNER JOIN episode_has_recipe ehr ON (ehr.recipe_name = r.name AND ehr.recipe_cuisine_name = r.cuisine_name)
 		);
-
     
 
