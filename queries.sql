@@ -1,8 +1,8 @@
 -- 3.1
 SELECT avg(grade), g.participant_chef_id
 	FROM grading g 
-	GROUP BY g.participant_chef_id
-UNION ALL
+	GROUP BY g.participant_chef_id;
+
 SELECT avg(grade), ehr.recipe_cuisine_name
 	FROM grading g
 		INNER JOIN episode_has_recipe ehr ON g.participant_chef_id = ehr.chef_id
