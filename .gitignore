@@ -16,6 +16,7 @@ data/aftermath/__meal.csv
 !app/generated/faces/*.png
 !app/base_images/*.png
 !app/base_images/*.xcf
+!app/generated/episodes/*.png
 !external_data/*.csv
 !external_data/*.ipynb
 !data/*.json
