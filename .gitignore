@@ -11,6 +11,7 @@ data/aftermath/__meal.csv
 !app/*.csv
 !app/*.ipynb
 !app/*.json
+!app/*.py
 !app/generated/*.csv
 !app/generated/*.sql
 !app/generated/faces/*.png
@@ -23,8 +24,10 @@ data/aftermath/__meal.csv
 !data/*.py
 !data/*.ipynb
 !data/*.csv
+!data/base_images/*.png
 !data/to_import/*.csv
 !data/aftermath/*.csv
 !data/aftermath/*.ipynb
 !data/aftermath/*.sql
+!data/aftermath/*.py
 
