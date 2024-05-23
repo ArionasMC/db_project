@@ -1,0 +1,30 @@
+{
+  "type": "dessert",
+  "cuisine_name": "French",
+  "tags": ["dessert", "rich"],
+  "name": "Crème Brûlée",
+  "prep_time": 15,
+  "cook_time": 40,
+  "description": "A rich custard base topped with a contrasting layer of hard caramel, achieved by torching a layer of sugar on top.",
+  "steps": [
+    "Heat cream with vanilla bean until just hot.",
+    "Whisk yolks with sugar until pale, then slowly add the hot cream.",
+    "Strain the mixture into ramekins.",
+    "Bake in a water bath until set but still trembling in the center.",
+    "Cool, then sprinkle sugar on top and torch until caramelized."
+  ],
+  "difficulty": 3,
+  "ingredients": [
+    "500 ml heavy cream",
+    "1 vanilla bean, split and scraped",
+    "6 egg yolks",
+    "100 grams sugar, plus extra for topping",
+    "Hot water for the bath"
+  ],
+  "tips": [
+    "Ensure the sugar is evenly spread before torching for a uniform caramel layer.",
+    "Cool the custards in the refrigerator for several hours to set properly before serving.",
+    "Use a propane torch for best results when caramelizing the sugar."
+  ],
+  "equipment": ["oven", "mixing bowls", "whisk", "ramekins", "torch"]
+}

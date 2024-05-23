@@ -1,0 +1,371 @@
+recipe_name,recipe_cuisine_name,ingredient_name,ingredient_full_name,ingredient_weight,ingredient_kcal,ingredient_carbs
+Ghapama,Armenian,pumpkin,1 medium pumpkin,62.0,16.12,4.03
+Ghapama,Armenian,cooked rice,1 cup cooked rice,158.0,205.4,44.556
+Ghapama,Armenian,dried apricots,"1/2 cup dried apricots, chopped",65.0,156.65,40.69
+Ghapama,Armenian,prune,"1/2 cup prunes, chopped",87.0,208.8,55.593
+Ghapama,Armenian,raisin,1/2 cup raisins,72.5,216.775,57.4925
+Ghapama,Armenian,almond nut,"1/2 cup almonds, chopped",71.5,413.985,15.444
+Ghapama,Armenian,walnuts,"1/2 cup walnuts, chopped",58.5,382.59,8.0145
+Ghapama,Armenian,honey,1/4 cup honey,84.75,257.64,69.834
+Harissa,Armenian,chicken,1 whole chicken,1200.0,2580.0,0.0
+Harissa,Armenian,wheat,2 cups khorasan wheat,336.0,1112.16,249.312
+Harissa,Armenian,water,Water as needed,0.0,0.0,0.0
+Harissa,Armenian,salt,Salt to taste,9.312,0.0,0.0
+Harissa,Armenian,butter,Butter for serving,10.0,71.7,0.006
+Harissa,Armenian,cinnamon,Cinnamon for serving,6.0,14.82,4.835999999999999
+Lahmajoun,Armenian,ground lamb,500 grams ground lamb or beef,500.0,1410.0,0.0
+Lahmajoun,Armenian,unbleached flour,3 cups all-purpose flour,375.0,1365.0,286.125
+Lahmajoun,Armenian,water,1 cup warm water,236.5882365,0.0,0.0
+Lahmajoun,Armenian,yeast,1 tsp active dry yeast,4.0,13.0,1.6480000000000001
+Lahmajoun,Armenian,tomato,"2 tomatoes, finely diced",246.0,44.28,9.5694
+Lahmajoun,Armenian,red bell pepper,"1 bell pepper, finely diced",119.0,30.94,7.175700000000001
+Lahmajoun,Armenian,onions,"1 onion, finely diced",125.0,50.0,11.675
+Lahmajoun,Armenian,parsley,1/2 cup chopped parsley,30.0,10.8,1.899
+Lahmajoun,Armenian,paprika,1 tsp paprika,2.3,6.485999999999999,1.242
+Lahmajoun,Armenian,cumin,1 tsp cumin,2.1,7.875,0.9282
+Lahmajoun,Armenian,salt,Salt and pepper to taste,9.881929418999999,0.0,0.0
+Lahmajoun,Armenian,lemon,Lemon wedges for serving,7.0,2.03,0.6524000000000001
+Beef and Broccoli,Chinese,beef,"300 grams beef, thinly sliced",300.0,390.0,0.36
+Beef and Broccoli,Chinese,broccoli florets,400 grams broccoli florets,400.0,112.0,20.24
+Beef and Broccoli,Chinese,garlic,"2 cloves garlic, minced",6.0,8.94,1.9860000000000002
+Beef and Broccoli,Chinese,soy sauce,3 tbsp soy sauce (for marinade),48.0,25.44,2.3664
+Beef and Broccoli,Chinese,cornstarch,1 tbsp cornstarch (for marinade),7.999999999864745,30.479999999484676,7.303999999876512
+Beef and Broccoli,Chinese,beef broth,1/2 cup beef stock,120.0,15.6,1.44
+Beef and Broccoli,Chinese,oyster sauce,2 tbsp oyster sauce,36.0,18.36,3.9240000000000004
+Beef and Broccoli,Chinese,soy sauce,Soy sauce to taste,0.0,0.0,0.0
+Beef and Broccoli,Chinese,oil,Cooking oil,12.48479999999816,110.36563199998372,0.0
+Egg Drop Soup,Chinese,chicken or vegetable stock,4 cups chicken broth,960.0,345.6,33.888
+Egg Drop Soup,Chinese,egg,"2 eggs, beaten",86.0,122.98,0.6192
+Egg Drop Soup,Chinese,green onions,"2 green onions, chopped",27.777777777777782,8.888888888888891,2.038888888888889
+Egg Drop Soup,Chinese,soy sauce,1 tsp soy sauce,5.3,2.8089999999999997,0.26128999999999997
+Egg Drop Soup,Chinese,salt,Salt to taste,6.474466666666667,0.0,0.0
+Egg Drop Soup,Chinese,black pepper,White pepper to taste,3.2372333333333336,8.125455666666667,2.0718293333333335
+Egg Drop Soup,Chinese,sesame oil,Sesame oil,14.675457777777776,129.73104675555555,0.0
+Kung Pao Chicken,Chinese,chicken breast,"500 grams chicken breast, cubed",500.0,600.0,0.0
+Kung Pao Chicken,Chinese,peanut,"1 cup peanuts, roasted",146.0,827.82,23.506000000000004
+Kung Pao Chicken,Chinese,red bell pepper,"2 bell peppers, diced",238.0,61.88,14.351400000000002
+Kung Pao Chicken,Chinese,green onions,"6 scallions, chopped",83.33333333333334,26.66666666666667,6.116666666666667
+Kung Pao Chicken,Chinese,dried red chilies,8 dried chilies,4.0,12.96,2.7960000000000003
+Kung Pao Chicken,Chinese,soy sauce,2 tbsp soy sauce (for marinade),32.0,16.96,1.5776
+Kung Pao Chicken,Chinese,cornstarch,1 tbsp cornstarch (for marinade),7.999999999864745,30.479999999484676,7.303999999876512
+Kung Pao Chicken,Chinese,soy sauce,3 tbsp soy sauce (for sauce),48.0,25.44,2.3664
+Kung Pao Chicken,Chinese,white vinegar,2 tbsp vinegar,29.8,5.364,0.01192
+Kung Pao Chicken,Chinese,sugar,1 tbsp sugar,12.4999999997887,48.37499999918227,12.499999999788702
+Kung Pao Chicken,Chinese,water,1/2 cup water,118.29411825,0.0,0.0
+Kung Pao Chicken,Chinese,oil,Cooking oil,16.591013341528615,146.66455793911297,0.0
+Doro Wat,Ethiopian,chicken,"1 kg chicken, cut into pieces",1000.0,2150.0,0.0
+Doro Wat,Ethiopian,lemon,Juice of 1 lemon,84.0,24.36,7.8288
+Doro Wat,Ethiopian,salt,Salt,10.25760000000568,0.0,0.0
+Doro Wat,Ethiopian,onions,"2 cups red onions, finely chopped",320.0,128.0,29.888
+Doro Wat,Ethiopian,vegetable oil,1/4 cup vegetable oil,56.00000000094679,495.0400000083696,0.0
+Doro Wat,Ethiopian,garlic,"2 teaspoons garlic, minced",5.6,8.344,1.8536
+Doro Wat,Ethiopian,ginger,"2 teaspoons ginger, minced",4.0,3.2,0.7120000000000001
+Doro Wat,Ethiopian,hard-boiled eggs,6 hard-boiled eggs,240.0,372.0,2.688
+Doro Wat,Ethiopian,water,Water as needed,0.0,0.0,0.0
+Injera,Ethiopian,teff,2 cups teff flour,386.0,1416.62,282.166
+Injera,Ethiopian,water,Water as needed,0.0,0.0,0.0
+Injera,Ethiopian,salt,1/2 teaspoon salt,3.0,0.0,0.0
+Kitfo,Ethiopian,beef tenderloin,"500 grams lean beef, preferably tenderloin, finely chopped or ground",500.0,1230.0,0.0
+Coq au Vin,French,chicken,"1 whole chicken, cut into pieces",1200.0,2580.0,0.0
+Coq au Vin,French,red wine,500 ml red wine,497.0661337170921,422.50621365952827,12.973426090016103
+Coq au Vin,French,bacon,"200 grams bacon, chopped",200.0,786.0,0.0
+Coq au Vin,French,white mushroom,"250 grams mushrooms, quartered",250.0,55.0,8.15
+Coq au Vin,French,onions,"2 onions, chopped",250.0,100.0,23.35
+Coq au Vin,French,garlic,"2 cloves garlic, minced",6.0,8.94,1.9860000000000002
+Coq au Vin,French,butter,3 tbsp butter,42.599999999999994,305.44199999999995,0.025559999999999996
+Coq au Vin,French,flour,2 tbsp flour,15.624999999735829,56.874999999038415,11.921874999798439
+Coq au Vin,French,dried thyme,1 tsp dried thyme,1.0,2.76,0.639
+Coq au Vin,French,bay leaf,2 bay leaves,1.2,3.756,0.9
+Coq au Vin,French,salt,Salt and pepper to taste,14.780946802300967,0.0,0.0
+Crème Brûlée,French,heavy whipping cream,500 ml heavy cream,503.82893825746066,1713.0183900753661,14.308741846511882
+Crème Brûlée,French,vanilla extract,"1 vanilla bean, split and scraped",5.0,14.4,0.63
+Crème Brûlée,French,egg yolk,6 egg yolks,80.8,260.176,2.90072
+Crème Brûlée,French,sugar,"100 grams sugar, plus extra for topping",100.0,387.0,100.0
+Crème Brûlée,French,water,Hot water for the bath,0.0,0.0,0.0
+French Onion Soup,French,onions,"5 large onions, sliced",750.0,300.0,70.05
+French Onion Soup,French,beef broth,1 liter beef broth,1014.42068105529,131.8746885371877,12.17304817266348
+French Onion Soup,French,garlic,"2 cloves garlic, minced",6.0,8.94,1.9860000000000002
+French Onion Soup,French,baguette,1 baguette,300.0,816.0,155.7
+French Onion Soup,French,gruyere cheese,100 grams grated Gruyère cheese,100.0,413.0,0.36
+French Onion Soup,French,butter,2 tbsp butter,28.4,203.628,0.01704
+French Onion Soup,French,dried thyme,1 tsp dried thyme,1.0,2.76,0.639
+French Onion Soup,French,bay leaf,2 bay leaves,1.2,3.756,0.9
+French Onion Soup,French,salt,Salt and pepper to taste,13.20612408633174,0.0,0.0
+Black Forest Cake,German,sponge cake,3 layers of chocolate sponge cake,189.0,561.33,109.05300000000001
+Black Forest Cake,German,heavy whipping cream,500 ml heavy cream,503.82893825746066,1713.0183900753661,14.308741846511882
+Black Forest Cake,German,sugar,50 grams sugar,50.0,193.5,50.0
+Black Forest Cake,German,vanilla extract,1 tsp vanilla extract,4.2,12.096000000000002,0.5292
+Black Forest Cake,German,cherries,"200 grams cherries, pitted and halved",200.0,126.0,32.0
+Black Forest Cake,German,cherries,50 ml cherry schnapps,32.545996850523885,20.503978015830047,5.207359496083821
+Black Forest Cake,German,chocolate,Chocolate shavings for decoration,0.0,0.0,0.0
+Black Forest Cake,German,cherries,Whole cherries for topping,0.0,0.0,0.0
+Pretzels,German,unbleached flour,500 grams all-purpose flour,500.0,1820.0,381.5
+Pretzels,German,yeast,10 grams active dry yeast,10.0,32.5,4.12
+Pretzels,German,water,300 ml warm water,300.0,0.0,0.0
+Pretzels,German,sugar,10 grams sugar,10.0,38.7,10.0
+Pretzels,German,salt,10 grams salt,10.0,0.0,0.0
+Pretzels,German,baking soda,Baking soda for bath,3.818,0.0,0.0
+Pretzels,German,kosher salt,Coarse salt for topping,4.98,0.0,0.0
+Sauerbraten,German,beef roast,1 kg beef roast,1000.0,1980.0,0.0
+Sauerbraten,German,red wine,500 ml red wine,497.0661337170921,422.50621365952827,12.973426090016103
+Sauerbraten,German,red wine vinegar,500 ml red wine vinegar,505.09696410878,95.9684231806682,1.3637618030937062
+Sauerbraten,German,onions,"2 onions, sliced",250.0,100.0,23.35
+Sauerbraten,German,carrots,"2 carrots, chopped",122.0,50.02,11.6876
+Sauerbraten,German,leek,"1 leek, chopped",89.0,54.29,12.638
+Sauerbraten,German,juniper berries,10 juniper berries,50.0,65.5,10.35
+Sauerbraten,German,cloves,5 cloves,0.75,2.055,0.49125
+Sauerbraten,German,black pepper,5 black peppercorns,7.845339293477615,19.691801626628813,5.021017147825673
+Sauerbraten,German,bay leaf,2 bay leaves,1.2,3.756,0.9
+Sauerbraten,German,gingersnaps,100 grams ginger snaps,100.0,424.0,76.2
+Sauerbraten,German,salt,Salt and pepper to taste,15.69067858695523,0.0,0.0
+Sauerbraten,German,oil,Cooking oil,35.565538130431854,314.3993570730176,0.0
+Baklava,Greek,phyllo dough,1 package filo dough,400.0,1196.0,210.4
+Baklava,Greek,nuts,"300 grams mixed nuts (walnuts, pistachios, almonds), chopped",300.0,1821.0,67.2
+Baklava,Greek,butter,"200 grams butter, melted",200.0,1434.0,0.12
+Baklava,Greek,sugar,1 cup sugar,200.0,774.0,200.0
+Baklava,Greek,water,1 cup water,236.5882365,0.0,0.0
+Baklava,Greek,honey,1/2 cup honey,169.5,515.28,139.668
+Baklava,Greek,cinnamon,1 tsp cinnamon,2.6,6.422000000000001,2.0956
+Baklava,Greek,cloves,1 tsp ground clove,2.1,5.754,1.3755000000000002
+Greek Salad (Horiatiki),Greek,cucumber,2 medium cucumbers,480.0,72.0,17.424
+Greek Salad (Horiatiki),Greek,tomato,4 medium ripe tomatoes,492.0,88.56,19.1388
+Greek Salad (Horiatiki),Greek,onions,1 red onion,125.0,50.0,11.675
+Greek Salad (Horiatiki),Greek,feta cheese,200 grams feta cheese,200.0,530.0,7.76
+Greek Salad (Horiatiki),Greek,black olives,100 grams Kalamata olives,100.0,116.0,6.04
+Greek Salad (Horiatiki),Greek,olive oil,Olive oil,18.9992,167.95292799999999,0.0
+Greek Salad (Horiatiki),Greek,dried oregano,Dried oregano,0.0,0.0,0.0
+Moussaka,Greek,eggplant,3 large eggplants,2055.0,513.75,120.834
+Moussaka,Greek,ground lamb,500 grams ground lamb or beef,500.0,1410.0,0.0
+Moussaka,Greek,onions,"1 onion, chopped",125.0,50.0,11.675
+Moussaka,Greek,garlic,"2 cloves garlic, minced",6.0,8.94,1.9860000000000002
+Moussaka,Greek,canned ripe red tomatoes,400 grams canned tomatoes,400.0,64.0,13.88
+Moussaka,Greek,butter,Butter,41.9696,300.922032,0.02518176
+Moussaka,Greek,flour,Flour,27.773999999999997,101.09736,21.191561999999998
+Moussaka,Greek,whole milk,Milk,0.0,0.0,0.0
+Moussaka,Greek,nutmeg,Nutmeg,0.0,0.0,0.0
+Moussaka,Greek,olive oil,Olive oil,41.9696,371.011264,0.0
+Chicken Biryani,Indian,chicken,"500 grams chicken, cut into pieces",500.0,1075.0,0.0
+Chicken Biryani,Indian,basmati rice,300 grams basmati rice,300.0,1095.0,240.0
+Chicken Biryani,Indian,yogurt,200 grams yogurt,200.0,122.0,9.32
+Chicken Biryani,Indian,onions,"2 large onions, sliced",300.0,120.0,28.02
+Chicken Biryani,Indian,garlic,2 tbsp ginger garlic paste,16.999999999712582,25.329999999571747,5.626999999904865
+Chicken Biryani,Indian,saffron,Saffron strands,0.0,0.0,0.0
+Chicken Biryani,Indian,whole milk,50 ml milk,51.566384620310565,31.455494618389444,2.475186461774907
+Chicken Biryani,Indian,cinnamon,"Mixed whole spices (cinnamon, bay leaves, cardamom, cloves)",4.10569915386007,10.141076910034373,3.3091935180112158
+Chicken Biryani,Indian,coriander,Coriander powder,6.842831923100116,20.391639130838346,3.763557557705064
+Chicken Biryani,Indian,cumin,Cumin powder,2.8739894077020485,10.777460278882682,1.2703033182043055
+Chicken Biryani,Indian,five spice,Garam masala,0.0,0.0,0.0
+Chicken Biryani,Indian,salt,Salt,8.21139830772014,0.0,0.0
+Chicken Biryani,Indian,oil,Cooking oil,18.612502830832316,164.53452502455767,0.0
+Mango Lassi,Indian,mangos,2 ripe mangoes,672.0,403.2,100.8
+Mango Lassi,Indian,yogurt,200 grams yogurt,200.0,122.0,9.32
+Mango Lassi,Indian,whole milk,100 ml milk,103.13276924062113,62.91098923677889,4.950372923549814
+Mango Lassi,Indian,sugar,2 tbsp sugar,24.9999999995774,96.74999999836454,24.999999999577405
+Mango Lassi,Indian,cardamom,1/4 tsp cardamom powder,0.5,1.555,0.3425
+Palak Paneer,Indian,spinach,500 grams spinach,500.0,115.0,18.15
+Palak Paneer,Indian,cottage cheese,"200 grams paneer, cubed",200.0,196.0,6.76
+Palak Paneer,Indian,onions,"1 onion, chopped",125.0,50.0,11.675
+Palak Paneer,Indian,tomato,"2 tomatoes, chopped",246.0,44.28,9.5694
+Palak Paneer,Indian,ginger,"1 tsp ginger, grated",2.0,1.6,0.35600000000000004
+Palak Paneer,Indian,garlic,"1 tsp garlic, minced",2.8,4.172,0.9268
+Palak Paneer,Indian,five spice,1 tsp garam masala,1.9,4.997,1.3699
+Palak Paneer,Indian,turmeric,1/2 tsp turmeric,1.5,4.68,1.0065
+Palak Paneer,Indian,cumin,1/2 tsp cumin seeds,1.05,3.9375,0.4641
+Palak Paneer,Indian,salt,Salt to taste,6.4815000000000005,0.0,0.0
+Palak Paneer,Indian,oil,Oil for frying,14.6914,1441.005969,0.0
+Osso Buco,Italian,veal shank,4 veal shanks,2000.0,2260.0,0.0
+Osso Buco,Italian,onions,"1 onion, chopped",125.0,50.0,11.675
+Osso Buco,Italian,carrots,"2 carrots, chopped",122.0,50.02,11.6876
+Osso Buco,Italian,celery,"2 celery stalks, chopped",80.0,11.2,2.3760000000000003
+Osso Buco,Italian,beef broth,500 ml beef broth,507.21034052764503,65.93734426859385,6.08652408633174
+Osso Buco,Italian,white wine,200 ml white wine,198.82645348683684,163.0376918592062,5.169487790657758
+Osso Buco,Italian,flour,50 grams flour,50.0,182.0,38.15
+Osso Buco,Italian,olive oil,Olive oil,41.92930039859694,370.65501552359694,0.0
+Osso Buco,Italian,salt,Salt,18.498220764086888,0.0,0.0
+Osso Buco,Italian,black pepper,Pepper,9.249110382043444,23.215267058929044,5.919430644507804
+Spaghetti Carbonara,Italian,pasta,400 grams spaghetti,400.0,1484.0,298.8
+Spaghetti Carbonara,Italian,pancetta,"200 grams pancetta, cubed",200.0,786.0,0.0
+Spaghetti Carbonara,Italian,egg,3 large eggs,150.0,214.5,1.08
+Spaghetti Carbonara,Italian,parmesan cheese,"100 grams Parmesan cheese, grated",100.0,392.0,3.22
+Spaghetti Carbonara,Italian,salt,Salt,5.1000000000000005,0.0,0.0
+Spaghetti Carbonara,Italian,black pepper,Freshly cracked black pepper,2.5500000000000003,6.400500000000001,1.6320000000000001
+Tiramisu,Italian,egg yolk,3 egg yolks,40.4,130.088,1.45036
+Tiramisu,Italian,sugar,100 grams sugar,100.0,387.0,100.0
+Tiramisu,Italian,mascarpone cheese,250 grams mascarpone cheese,250.0,875.0,13.8
+Tiramisu,Italian,ladyfingers,24 ladyfingers,264.0,958.32,157.608
+Tiramisu,Italian,coffee,"300 ml strong coffee, cooled",300.26852159236586,3.0026852159236586,0.0
+Tiramisu,Italian,liqueur,Coffee liqueur (optional),0.0,0.0,0.0
+Tiramisu,Italian,unsweetened cocoa powder,Cocoa powder for dusting,0.0,0.0,0.0
+Matcha Ice Cream,Japanese,heavy whipping cream,500 ml heavy cream,503.82893825746066,1713.0183900753661,14.308741846511882
+Matcha Ice Cream,Japanese,whole milk,250 ml whole milk,257.83192310155283,157.27747309194723,12.375932308874535
+Matcha Ice Cream,Japanese,sugar,120 grams sugar,120.0,464.4,120.0
+Matcha Ice Cream,Japanese,matcha,2 tbsp matcha green tea powder,4.1999999997159625,13.229999999105281,2.46539999983327
+Ramen,Japanese,ramen noodle,400 grams ramen noodles,400.0,1760.0,241.2
+Ramen,Japanese,vegetable stock ,1 liter broth (chicken or pork),959.4728941647951,9.242806411805686,1.4421566212993011
+Ramen,Japanese,pork belly,200 grams sliced pork belly,200.0,1036.0,0.0
+Ramen,Japanese,egg,2 soft-boiled eggs,86.0,122.98,0.6192
+Ramen,Japanese,bamboo shoots,50 grams bamboo shoots,50.0,13.5,2.6
+Ramen,Japanese,green onions,"2 green onions, chopped",27.777777777777782,8.888888888888891,2.038888888888889
+Ramen,Japanese,soy sauce,1 tbsp soy sauce,16.0,8.48,0.7888
+Ramen,Japanese,miso,1 tbsp miso paste,17.0,33.66,4.318
+Ramen,Japanese,onions,"1 onion, quartered",125.0,50.0,11.675
+Ramen,Japanese,garlic,2 cloves garlic,6.0,8.94,1.9860000000000002
+Ramen,Japanese,ginger,1 piece ginger,60.0,48.0,10.68
+Ramen,Japanese,salt,Salt to taste,11.683504031655437,0.0,0.0
+Sushi Rolls (Maki Sushi),Japanese,rice,2 cups sushi rice,390.0,1404.0,309.27
+Sushi Rolls (Maki Sushi),Japanese,seasoned rice vinegar,3 tbsp sushi vinegar,44.7,9.387,0.41571
+Sushi Rolls (Maki Sushi),Japanese,nori,5 sheets nori,13.0,4.55,0.6643000000000001
+Sushi Rolls (Maki Sushi),Japanese,cucumber,"1 cucumber, julienned",301.0,45.15,10.9263
+Sushi Rolls (Maki Sushi),Japanese,avocado,"1 avocado, sliced",201.0,321.6,17.1453
+Sushi Rolls (Maki Sushi),Japanese,salmon,"200 grams fresh salmon or tuna, sliced",200.0,416.0,0.0
+Sushi Rolls (Maki Sushi),Japanese,soy sauce,Soy sauce for serving,16.0,8.48,0.7888
+Sushi Rolls (Maki Sushi),Japanese,wasabi,Wasabi for serving,5.0,5.45,1.175
+Beshbarmak,Kazakh,beef,"1 kg meat (horse, lamb, or beef), in large chunks",1000.0,1300.0,1.2
+Beshbarmak,Kazakh,flour,500 grams flour for pasta,500.0,1820.0,381.5
+Beshbarmak,Kazakh,egg,2 eggs,86.0,122.98,0.6192
+Beshbarmak,Kazakh,water,Water as needed for dough and boiling,0.0,0.0,0.0
+Beshbarmak,Kazakh,salt,Salt to taste,9.876,0.0,0.0
+Beshbarmak,Kazakh,parsley,"1 bunch parsley, finely chopped for garnish",60.0,21.6,3.798
+Kazy,Kazakh,ribs,"1 kg horse meat, preferably from the rib",1000.0,2770.0,0.0
+Kazy,Kazakh,horse meat,200 grams horse fat,200.0,266.0,0.0
+Kazy,Kazakh,garlic,"2 cloves garlic, minced",6.0,8.94,1.9860000000000002
+Kazy,Kazakh,salt,Salt and pepper to taste,7.236,0.0,0.0
+Kurt,Kazakh,whole milk,1 kg sour milk or yogurt,1000.0,610.0,48.0
+Kurt,Kazakh,salt,1 tbsp salt,18.0,0.0,0.0
+Nyama Choma,Kenyan,goat,"1 kg goat meat, cut into chunks (beef or chicken can also be used)",1000.0,1090.0,0.0
+Nyama Choma,Kenyan,lemon,Juice of 1 lemon,84.0,24.36,7.8288
+Nyama Choma,Kenyan,garlic,"4 cloves garlic, minced",12.0,17.88,3.9720000000000004
+Nyama Choma,Kenyan,ginger,"1 inch piece of ginger, grated",15.0,12.0,2.67
+Nyama Choma,Kenyan,salt,Salt to taste,6.666,0.0,0.0
+Sukuma Wiki,Kenyan,collard greens,"1 bunch collard greens, finely chopped",36.0,11.52,1.9512
+Sukuma Wiki,Kenyan,onions,"1 large onion, chopped",150.0,60.0,14.01
+Sukuma Wiki,Kenyan,garlic,"2 cloves garlic, minced",6.0,8.94,1.9860000000000002
+Sukuma Wiki,Kenyan,vegetable oil,2 tablespoons vegetable oil,28.0,247.52,0.0
+Sukuma Wiki,Kenyan,salt,Salt and pepper to taste,1.32,0.0,0.0
+Sukuma Wiki,Kenyan,cayenne pepper,Cayenne pepper to taste,0.0,0.0,0.0
+Ugali,Kenyan,cornmeal,2 cups white cornmeal (finely ground),314.0,1161.8,249.31600000000003
+Ugali,Kenyan,water,4 cups water,946.352946,0.0,0.0
+Ugali,Kenyan,salt,Salt to taste,7.562117676,0.0,0.0
+Bibimbap,Korean,rice,2 cups white rice,390.0,1404.0,309.27
+Bibimbap,Korean,beef,"100 grams beef, thinly sliced",100.0,130.0,0.12
+Bibimbap,Korean,carrots,"1 carrot, julienned",61.0,25.01,5.8438
+Bibimbap,Korean,zucchini,"1 zucchini, julienned",196.0,33.32,6.095599999999999
+Bibimbap,Korean,spinach,200 grams spinach,200.0,46.0,7.26
+Bibimbap,Korean,daikon,"1 small daikon radish, julienned",253.5,45.63,10.3935
+Bibimbap,Korean,bean sprout,200 grams bean sprouts,200.0,60.0,11.88
+Bibimbap,Korean,egg,1 egg,43.0,61.49,0.3096
+Bibimbap,Korean,soy sauce,2 tbsp soy sauce,32.0,16.96,1.5776
+Bibimbap,Korean,garlic,"1 clove garlic, minced",3.0,4.47,0.9930000000000001
+Bibimbap,Korean,sesame oil,2 tbsp sesame oil,27.2,240.44799999999998,0.0
+Bibimbap,Korean,gochujang,Gochujang (Korean chili paste),0.0,0.0,0.0
+Hoddeok,Korean,unbleached flour,2 cups all-purpose flour,250.0,910.0,190.75
+Hoddeok,Korean,sugar,1/4 cup sugar,50.0,193.5,50.0
+Hoddeok,Korean,whole milk,1/2 cup milk,122.0,74.42,5.856
+Hoddeok,Korean,yeast,1 tsp dry yeast,4.0,13.0,1.6480000000000001
+Hoddeok,Korean,brown sugar,1 cup brown sugar,145.0,551.0,142.245
+Hoddeok,Korean,walnuts,1/2 cup chopped walnuts or peanuts,58.5,382.59,8.0145
+Hoddeok,Korean,cinnamon,1 tsp ground cinnamon,2.6,6.422000000000001,2.0956
+Kimchi Jjigae,Korean,kimchi,"200 grams kimchi, preferably fermented",200.0,60.0,11.34
+Kimchi Jjigae,Korean,pork belly,"150 grams pork belly, sliced",150.0,777.0,0.0
+Kimchi Jjigae,Korean,tofu,"1 block tofu, sliced",324.0,252.72,9.234
+Kimchi Jjigae,Korean,gochujang,1 tbsp gochujang,17.187499999709413,34.03124999942464,4.36562499992619
+Kimchi Jjigae,Korean,soy sauce,1 tbsp soy sauce,16.0,8.48,0.7888
+Kimchi Jjigae,Korean,water,500 ml water or stock,500.0,0.0,0.0
+Kimchi Jjigae,Korean,green onions,"2 green onions, chopped",27.777777777777782,8.888888888888891,2.038888888888889
+Chiles en Nogada,Mexican,red chili,6 poblano chiles,270.0,108.0,23.787000000000003
+Chiles en Nogada,Mexican,ground pork,500 grams ground pork,500.0,1315.0,0.0
+Chiles en Nogada,Mexican,tomato,"2 tomatoes, chopped",246.0,44.28,9.5694
+Chiles en Nogada,Mexican,apple,"1 apple, diced",182.0,94.64,25.116
+Chiles en Nogada,Mexican,pears,"1 pear, diced",186.44444444444446,106.27333333333334,28.339555555555556
+Chiles en Nogada,Mexican,peaches,"1 peach, diced",153.16666666666669,59.73500000000001,14.6121
+Chiles en Nogada,Mexican,walnuts,100 grams walnuts,100.0,654.0,13.7
+Chiles en Nogada,Mexican,whole milk,250 ml milk,257.83192310155283,157.27747309194723,12.375932308874535
+Chiles en Nogada,Mexican,sugar,50 grams sugar,50.0,193.5,50.0
+Chiles en Nogada,Mexican,sherry,2 tbsp sherry,29.49999999950124,44.83999999924189,3.4514999999416447
+Chiles en Nogada,Mexican,pomegranates,Pomegranate seeds,0.0,0.0,0.0
+Chiles en Nogada,Mexican,parsley,"Fresh parsley, chopped",19.749430342121652,7.109794923163795,1.2501389406563006
+Chiles en Nogada,Mexican,salt,Salt to taste,11.84965820527299,0.0,0.0
+Flan,Mexican,sugar,1 cup sugar,200.0,774.0,200.0
+Flan,Mexican,egg,3 eggs,129.0,184.47,0.9288
+Flan,Mexican,sweetened condensed milk,1 can (14 oz) condensed milk,396.89332375000004,1274.0275692375,215.90996812
+Flan,Mexican,evaporated milk,1 can (12 oz) evaporated milk,340.1942775,455.86033185,34.01942775
+Flan,Mexican,vanilla extract,1 tsp vanilla extract,4.2,12.096000000000002,0.5292
+Tacos al Pastor,Mexican,pork shoulder,"1 kg pork shoulder, thinly sliced",1000.0,2360.0,0.0
+Tacos al Pastor,Mexican,red chili,"4 guajillo chilies, deseeded",180.0,72.0,15.858000000000002
+Tacos al Pastor,Mexican,garlic,4 cloves garlic,12.0,17.88,3.9720000000000004
+Tacos al Pastor,Mexican,pineapple juice,250 ml pineapple juice,264.5947276419215,140.2352056502184,34.13271986580788
+Tacos al Pastor,Mexican,pineapple,"1 small pineapple, diced",678.75,339.375,88.91625
+Tacos al Pastor,Mexican,onions,"1 large onion, finely chopped",150.0,60.0,14.01
+Tacos al Pastor,Mexican,cilantro,"Fresh cilantro, chopped",22.937197276419216,5.275555373576419,0.8417951400445852
+Tacos al Pastor,Mexican,limes,Lime wedges,8.375,2.5125,0.879375
+Tacos al Pastor,Mexican,corn tortillas,Corn tortillas,0.0,0.0,0.0
+Tacos al Pastor,Mexican,salt,Salt to taste,13.76231836585153,0.0,0.0
+Baklava,Turkish,phyllo dough,1 package filo dough,400.0,1196.0,210.4
+Baklava,Turkish,nuts,"300 grams mixed nuts (walnuts, pistachios, almonds), chopped",300.0,1821.0,67.2
+Baklava,Turkish,butter,"200 grams butter, melted",200.0,1434.0,0.12
+Baklava,Turkish,sugar,1 cup sugar,200.0,774.0,200.0
+Baklava,Turkish,water,1 cup water,236.5882365,0.0,0.0
+Baklava,Turkish,honey,1/2 cup honey,169.5,515.28,139.668
+Baklava,Turkish,cinnamon,1 tsp cinnamon,2.6,6.422000000000001,2.0956
+Baklava,Turkish,cloves,1 tsp ground clove,2.1,5.754,1.3755000000000002
+İskender Kebab,Turkish,lamb,"500 grams lamb, thinly sliced",500.0,3240.0,0.0
+İskender Kebab,Turkish,pita bread,4 pita breads,184.0,482.08,102.85600000000001
+İskender Kebab,Turkish,tomato sauce,2 cups tomato sauce,490.0,117.6,26.018999999999995
+İskender Kebab,Turkish,butter,100 grams butter,100.0,717.0,0.06
+İskender Kebab,Turkish,yogurt,1 cup yogurt,245.0,149.45,11.417
+İskender Kebab,Turkish,salt,Salt and pepper to taste,9.114,0.0,0.0
+Lahmacun,Turkish,beef,400 grams minced beef or lamb,400.0,520.0,0.48
+Lahmacun,Turkish,unbleached flour,4 cups all-purpose flour,500.0,1820.0,381.5
+Lahmacun,Turkish,water,1 cup water,236.5882365,0.0,0.0
+Lahmacun,Turkish,yeast,1 tsp yeast,4.0,13.0,1.6480000000000001
+Lahmacun,Turkish,red bell pepper,"1 bell pepper, finely chopped",119.0,30.94,7.175700000000001
+Lahmacun,Turkish,tomato,"2 tomatoes, finely chopped",246.0,44.28,9.5694
+Lahmacun,Turkish,onions,"1 onion, finely chopped",125.0,50.0,11.675
+Lahmacun,Turkish,parsley,1/2 cup chopped parsley,30.0,10.8,1.899
+Lahmacun,Turkish,paprika,2 tsp paprika,4.6,12.971999999999998,2.484
+Lahmacun,Turkish,salt,Salt and pepper to taste,10.033129419,0.0,0.0
+Lahmacun,Turkish,lemon,Lemon wedges for serving,7.0,2.03,0.6524000000000001
+Gutap,Turkmen,flour,300 grams flour,300.0,1092.0,228.9
+Gutap,Turkmen,spinach,"200 grams spinach, chopped",200.0,46.0,7.26
+Gutap,Turkmen,dried thyme,"100 grams mixed herbs (dill, parsley, green onions), chopped",100.0,276.0,63.9
+Gutap,Turkmen,cheddar cheese,"50 grams cheese, grated (optional)",50.0,201.5,1.685
+Gutap,Turkmen,water,Water as needed,0.0,0.0,0.0
+Gutap,Turkmen,salt,Salt to taste,3.9,0.0,0.0
+Gutap,Turkmen,oil,Cooking oil for frying,8.84,867.0714,0.0
+Palaw,Turkmen,lamb,"500 grams lamb, cubed",500.0,3240.0,0.0
+Palaw,Turkmen,long grain rice,"2 cups long-grain rice, washed and drained",370.0,1350.5,296.0
+Palaw,Turkmen,carrots,"3 carrots, grated",183.0,75.03,17.5314
+Palaw,Turkmen,onions,"2 onions, finely chopped",250.0,100.0,23.35
+Palaw,Turkmen,saffron,1 tsp Turkmen saffron,0.7,2.17,0.4578
+Palaw,Turkmen,salt,Salt and pepper to taste,7.8222000000000005,0.0,0.0
+Palaw,Turkmen,oil,Cooking oil,17.73032,156.73602879999999,0.0
+Shurpa,Turkmen,lamb,"500 grams lamb, cut into chunks",500.0,3240.0,0.0
+Shurpa,Turkmen,potato,"3 potatoes, peeled and cubed",639.0,492.03,111.825
+Shurpa,Turkmen,carrots,"2 carrots, chopped",122.0,50.02,11.6876
+Shurpa,Turkmen,onions,"1 onion, chopped",125.0,50.0,11.675
+Shurpa,Turkmen,red bell pepper,"1 bell pepper, chopped",119.0,30.94,7.175700000000001
+Shurpa,Turkmen,dried thyme,"1 bouquet garni (parsley, dill, coriander)",7.2,19.872,4.6008
+Shurpa,Turkmen,salt,Salt and pepper to taste,9.0732,0.0,0.0
+Shurpa,Turkmen,water,Water as needed,0.0,0.0,0.0
+Bara Brith,Welsh,dried peach,"300 grams mixed dried fruit (raisins, currants, sultanas)",300.0,717.0,183.9
+Bara Brith,Welsh,black tea,250 ml hot black tea,250.2237679936382,2.502237679936382,0.7506713039809146
+Bara Brith,Welsh,flour,225 grams self-raising flour,225.0,819.0,171.675
+Bara Brith,Welsh,brown sugar,100 grams brown sugar,100.0,380.0,98.1
+Bara Brith,Welsh,dried thyme,1 tsp mixed spice,1.0,2.76,0.639
+Bara Brith,Welsh,egg,"1 egg, beaten",43.0,61.49,0.3096
+Cawl,Welsh,lamb shoulder,"500 grams lamb shoulder, cut into chunks",500.0,1320.0,0.0
+Cawl,Welsh,potato,"3 large potatoes, peeled and cubed",1107.0,852.39,193.725
+Cawl,Welsh,carrots,"2 carrots, peeled and sliced",122.0,50.02,11.6876
+Cawl,Welsh,leek,"2 leeks, cleaned and sliced",178.0,108.58,25.276
+Cawl,Welsh,onions,"1 onion, chopped",125.0,50.0,11.675
+Cawl,Welsh,water,Water or lamb stock as needed,0.0,0.0,0.0
+Cawl,Welsh,salt,Salt and pepper to taste,12.192,0.0,0.0
+Cawl,Welsh,parsley,"Fresh parsley, chopped",20.32,7.3152,1.2862559999999998
+Welsh Rarebit,Welsh,butter,2 tbsp butter,28.4,203.628,0.01704
+Welsh Rarebit,Welsh,flour,2 tbsp flour,15.624999999735829,56.874999999038415,11.921874999798439
+Welsh Rarebit,Welsh,stout,"1/2 cup beer, preferably a stout or ale",118.8,51.083999999999996,4.2174
+Welsh Rarebit,Welsh,cheddar cheese,"1 1/2 cups strong cheddar cheese, grated",198.0,797.94,6.6726
+Welsh Rarebit,Welsh,mustard,1 tsp English mustard,5.0,3.0,0.2915
+Welsh Rarebit,Welsh,worcestershire sauce,1 tsp Worcestershire sauce,5.729166666957256,4.411458333557087,1.100000000055793
+Welsh Rarebit,Welsh,salt,Salt and pepper to taste,2.9253250000001585,0.0,0.0
+Welsh Rarebit,Welsh,bread,"4 slices of bread, toasted",116.0,317.84,55.1

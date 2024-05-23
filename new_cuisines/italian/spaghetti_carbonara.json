@@ -1,0 +1,32 @@
+{
+  "type": "meal",
+  "cuisine_name": "Italian",
+  "tags": ["dinner", "classic"],
+  "name": "Spaghetti Carbonara",
+  "prep_time": 10,
+  "cook_time": 20,
+  "description": "A classic Roman pasta dish made with eggs, cheese, pancetta, and pepper, known for its creamy texture without the use of cream.",
+  "steps": [
+    "Cook spaghetti in salted boiling water until al dente.",
+    "Render pancetta in a pan until crispy.",
+    "Whisk eggs and Parmesan cheese together in a bowl.",
+    "Drain pasta and mix into the pan with pancetta, off the heat.",
+    "Quickly add egg and cheese mixture, stirring vigorously to create a creamy sauce.",
+    "Season with freshly cracked black pepper and serve immediately."
+  ],
+  "difficulty": 2,
+  "ingredients": [
+    "400 grams spaghetti",
+    "200 grams pancetta, cubed",
+    "3 large eggs",
+    "100 grams Parmesan cheese, grated",
+    "Salt",
+    "Freshly cracked black pepper"
+  ],
+  "tips": [
+    "Ensure the pasta is hot when adding the egg mixture to cook the eggs safely.",
+    "Serve immediately to prevent the sauce from becoming too thick.",
+    "Adjust the amount of cheese to taste."
+  ],
+  "equipment": ["large pot", "frying pan", "mixing bowl"]
+}

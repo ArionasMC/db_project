@@ -1,0 +1,49 @@
+type,difficulty,name,description,prep_time,cook_time,cuisine_name,ingredient_name,portions,image_id
+meal,2,Ghapama,"A traditional festive dish involving a pumpkin stuffed with rice, dried fruits, nuts, and honey, then baked until the pumpkin is tender.",20,60,Armenian,pumpkin,1,0
+meal,4,Harissa,"A thick porridge made from khorasan wheat (similar to wheat berries) and chicken, traditionally cooked slowly to a creamy consistency, often served with melted butter and cinnamon.",30,240,Armenian,chicken,1,0
+meal,3,Lahmajoun,"A thin, crispy flatbread topped with a spicy mixture of minced meat, tomatoes, bell peppers, and herbs.",30,5,Armenian,ground lamb,1,0
+meal,2,Beef and Broccoli,"A classic Chinese stir-fry dish featuring tender slices of beef and fresh broccoli in a rich, garlicky sauce.",10,10,Chinese,beef,1,0
+meal,1,Egg Drop Soup,"A simple, soothing Chinese soup made with beaten eggs poured into simmering chicken broth, seasoned with green onions and white pepper.",5,10,Chinese,chicken or vegetable stock,1,0
+meal,3,Kung Pao Chicken,"A popular Sichuan dish featuring diced chicken, peanuts, and vegetables, stir-fried in a spicy, sweet, and savory sauce.",15,15,Chinese,chicken breast,1,0
+meal,3,Doro Wat,"A popular and spicy Ethiopian chicken stew, Doro Wat is known for its deep, fiery red color due to a generous amount of berbere spice. It's traditionally served with injera (Ethiopian sourdough flatbread) and hard-boiled eggs.",30,120,Ethiopian,chicken,1,0
+meal,3,Injera,"A staple of Ethiopian cuisine, injera is a sourdough-risen flatbread with a unique, slightly spongy texture. Traditionally made from teff flour, it is used as a plate and utensil to scoop up stews and salads.",1440,5,Ethiopian,teff,1,0
+meal,2,Kitfo,A traditional Ethiopian dish of minced raw beef seasoned with mitmita (a spicy chili powder) and niter kibbeh (clarified butter infused with herbs and spices). Often served with injera and sometimes with a mild cheese called ayib.,20,0,Ethiopian,beef tenderloin,1,0
+meal,3,Coq au Vin,"A traditional French dish of chicken cooked slowly in red wine with mushrooms, onions, and bacon.",20,120,French,chicken,1,0
+dessert,3,Crème Brûlée,"A rich custard base topped with a contrasting layer of hard caramel, achieved by torching a layer of sugar on top.",15,40,French,heavy whipping cream,1,0
+meal,2,French Onion Soup,"A classic French soup made with caramelized onions and beef broth, typically served with a cheese-topped toasted baguette slice.",15,45,French,onions,1,0
+dessert,3,Black Forest Cake,"A famous German dessert consisting of several layers of chocolate sponge cake sandwiched with whipped cream and cherries. It is decorated with additional whipped cream, chocolate shavings, and cherries.",60,30,German,sponge cake,1,0
+meal,2,Pretzels,"Iconic German twisted bread, known for its distinctive knot-like shape, crispy crust, and soft, chewy texture. Pretzels are typically sprinkled with coarse salt.",30,15,German,unbleached flour,1,0
+meal,4,Sauerbraten,"A traditional German pot roast, usually of beef (or sometimes pork, lamb, or mutton), marinated before slow-cooking as pot roast. The meat is tenderized and imbued with a complex sour-sweet flavor from the marinade, containing vinegar, wine, and spices.",1440,180,German,beef roast,1,0
+dessert,3,Baklava,"A sweet dessert pastry made of layers of filo filled with chopped nuts, sweetened with syrup or honey.",20,50,Greek,phyllo dough,1,0
+meal,1,Greek Salad (Horiatiki),"A traditional Greek salad made with fresh vegetables, Kalamata olives, and feta cheese, dressed with olive oil.",15,0,Greek,cucumber,1,0
+meal,4,Moussaka,"A rich, layered eggplant and meat casserole, topped with a creamy béchamel sauce.",30,60,Greek,eggplant,1,0
+meal,4,Chicken Biryani,"A flavorful rice dish made with basmati rice, chicken marinated in spices, and cooked with saffron and herbs.",30,60,Indian,chicken,1,0
+dessert,1,Mango Lassi,"A refreshing yogurt-based mango drink, blended with milk, sugar, and a touch of cardamom.",10,0,Indian,mangos,1,0
+meal,2,Palak Paneer,"A smooth spinach curry served with paneer, seasoned with garam masala and other spices.",20,30,Indian,spinach,1,0
+meal,4,Osso Buco,"A Milanese specialty of braised veal shanks, cooked slowly with vegetables, white wine, and broth, garnished with gremolata.",20,120,Italian,veal shank,1,0
+meal,2,Spaghetti Carbonara,"A classic Roman pasta dish made with eggs, cheese, pancetta, and pepper, known for its creamy texture without the use of cream.",10,20,Italian,pasta,1,0
+dessert,2,Tiramisu,"A popular coffee-flavored dessert made from layers of ladyfingers dipped in coffee, mascarpone cheese, and dusted with cocoa powder.",30,0,Italian,egg yolk,1,0
+dessert,2,Matcha Ice Cream,"A creamy, sweet ice cream flavored with matcha green tea powder, offering a unique and refreshing taste.",15,0,Japanese,heavy whipping cream,1,0
+meal,3,Ramen,"A popular Japanese noodle soup with a rich, savory broth, typically topped with slices of pork, boiled eggs, green onions, and bamboo shoots.",15,45,Japanese,ramen noodle,1,0
+meal,3,Sushi Rolls (Maki Sushi),"Traditional Japanese sushi rolls consisting of sushi rice, seaweed (nori), and various fillings such as fish, vegetables, or avocado.",30,20,Japanese,rice,1,0
+meal,4,Beshbarmak,"Kazakhstan’s national dish, beshbarmak means 'five fingers,' referring to the traditional way of eating this dish by hand. It consists of boiled meat (usually horse or lamb), served over homemade pasta and topped with a meat broth called shorpa.",60,180,Kazakh,beef,1,0
+meal,4,Kazy,"A traditional Kazakh sausage made from horse meat and fat, seasoned with garlic and spices, and typically smoked or boiled.",120,90,Kazakh,ribs,1,0
+meal,2,Kurt,"A traditional Kazakh snack made from dried cheese curd, formed into balls and left to harden, noted for its salty and sour taste. It's a popular snack among nomadic cultures due to its long shelf life.",30,0,Kazakh,whole milk,1,0
+meal,2,Nyama Choma,"Nyama Choma, which means 'grilled meat' in Swahili, is a beloved Kenyan barbecue dish typically made with goat meat, though beef or chicken can also be used. It is often enjoyed at social gatherings and served with kachumbari and Ugali.",30,60,Kenyan,goat,1,0
+meal,1,Sukuma Wiki,"Sukuma Wiki, meaning 'to push the week,' is a nutritious and economical Kenyan dish made with collard greens, often cooked with onions and spices, and is a perfect complement to Ugali.",10,20,Kenyan,collard greens,1,0
+meal,1,Ugali,"A staple dish in Kenyan cuisine, Ugali is a simple cornmeal porridge, firm enough to be eaten by hand and used to scoop up meat, vegetables, or sauces.",5,15,Kenyan,cornmeal,1,0
+meal,3,Bibimbap,"A popular Korean dish that means 'mixed rice.' It's served as a bowl of warm white rice topped with sautéed and seasoned vegetables, chili pepper paste (gochujang), a fried egg, and sliced meat (usually beef).",30,20,Korean,rice,1,0
+dessert,2,Hoddeok,"A popular Korean street food, these sweet pancakes are filled with a brown sugar, cinnamon, and nut mixture, typically eaten during the winter.",60,10,Korean,unbleached flour,1,0
+meal,2,Kimchi Jjigae,"A hearty, spicy stew made with kimchi, tofu, pork (or seafood), and various seasonings, typically served boiling hot.",15,25,Korean,kimchi,1,0
+meal,5,Chiles en Nogada,"A renowned Mexican dish featuring poblano chiles stuffed with picadillo (a mixture of meat, fruits, and spices), topped with a walnut-based cream sauce and pomegranate seeds.",45,30,Mexican,red chili,1,0
+dessert,3,Flan,"A creamy caramel-topped custard dessert, known for its rich texture and vanilla flavor, a staple in Mexican cuisine.",15,45,Mexican,sugar,1,0
+meal,4,Tacos al Pastor,"A popular Mexican street food featuring marinated pork cooked on a vertical spit, served on small tortillas with pineapple, onions, and cilantro.",30,90,Mexican,pork shoulder,1,0
+dessert,3,Baklava,"A rich, sweet pastry made of layers of filo filled with chopped nuts and sweetened with syrup or honey.",30,50,Turkish,phyllo dough,1,0
+meal,3,İskender Kebab,A famous Turkish dish consisting of thinly cut grilled lamb basted with hot tomato sauce over pieces of pita bread and generously slathered with melted sheep butter and yogurt.,20,10,Turkish,lamb,1,0
+meal,2,Lahmacun,"Often dubbed 'Turkish Pizza,' Lahmacun is a round, thin piece of dough topped with minced meat (most commonly beef or lamb), vegetables, herbs, and spices, baked until crispy.",30,5,Turkish,beef,1,0
+meal,3,Gutap,"These are savory fried pies filled with a mixture of finely chopped herbs, spinach, and sometimes an addition of eggs or cheese, making them a popular snack or light meal.",30,30,Turkmen,flour,1,0
+meal,3,Palaw,"A central dish in Turkmen cuisine, Palaw (or pilaf) is a rice dish cooked with pieces of meat, usually lamb, carrots, onions, and a generous amount of Turkmen saffron.",20,60,Turkmen,lamb,1,0
+meal,2,Shurpa,"A hearty and warming soup traditionally made with lamb and a variety of root vegetables, enriched with fresh herbs and spices, making it a staple during Turkmen winters.",15,120,Turkmen,lamb,1,0
+dessert,2,Bara Brith,"A traditional Welsh tea bread, Bara Brith translates to 'speckled bread' due to the rich mixture of dried fruits and spices within. It is customarily served sliced and buttered.",15,90,Welsh,dried peach,1,0
+meal,2,Cawl,"Cawl is a hearty Welsh stew made of lamb and root vegetables, embodying a rich mix of local produce and traditional cooking. It's a comforting dish, especially popular during colder months.",20,180,Welsh,lamb shoulder,1,0
+meal,2,Welsh Rarebit,"A savory dish made from a deliciously rich cheese sauce, typically served hot over toasted bread. This classic Welsh dish is often enhanced with beer, mustard, and Worcestershire sauce for added flavor.",10,10,Welsh,butter,1,0

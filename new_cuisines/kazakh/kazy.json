@@ -1,0 +1,29 @@
+{
+  "type": "meal",
+  "cuisine_name": "Kazakh",
+  "tags": ["lunch", "traditional", "specialty"],
+  "name": "Kazy",
+  "prep_time": 120,
+  "cook_time": 90,
+  "description": "A traditional Kazakh sausage made from horse meat and fat, seasoned with garlic and spices, and typically smoked or boiled.",
+  "steps": [
+    "Prepare the intestines by thoroughly cleaning and then soaking in cold water.",
+    "Cut the horse meat and fat into strips, season with salt, pepper, and minced garlic.",
+    "Stuff the seasoned meat and fat tightly into the intestines.",
+    "Tie off the ends of the sausage and boil in water for an hour, or smoke for several hours until cooked through.",
+    "Serve sliced with traditional sides of bread and onions."
+  ],
+  "difficulty": 4,
+  "ingredients": [
+    "1 kg horse meat, preferably from the rib",
+    "200 grams horse fat",
+    "2 cloves garlic, minced",
+    "Salt and pepper to taste"
+  ],
+  "tips": [
+    "Ensuring the intestines are clean is crucial to avoid any unwanted flavors.",
+    "Do not overfill the casings to prevent bursting during cooking.",
+    "Kazy can be served hot or cold, and is often used in other dishes like beshbarmak."
+  ],
+  "equipment": ["large pot for boiling", "smoker (optional)", "knife", "cutting board"]
+}

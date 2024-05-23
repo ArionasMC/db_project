@@ -1,0 +1,31 @@
+{
+  "type": "meal",
+  "cuisine_name": "Armenian",
+  "tags": ["dinner", "traditional", "hearty"],
+  "name": "Harissa",
+  "prep_time": 30,
+  "cook_time": 240,
+  "description": "A thick porridge made from khorasan wheat (similar to wheat berries) and chicken, traditionally cooked slowly to a creamy consistency, often served with melted butter and cinnamon.",
+  "steps": [
+    "Cook chicken in water with salt until tender and the meat falls off the bones.",
+    "Remove the chicken, debone, and shred the meat.",
+    "Add washed khorasan wheat to the chicken broth and cook until the wheat is soft and begins to break down.",
+    "Add the shredded chicken back to the pot, continue to cook, stirring frequently, until the mixture becomes porridge-like.",
+    "Serve hot, topped with melted butter and a sprinkle of cinnamon."
+  ],
+  "difficulty": 4,
+  "ingredients": [
+    "1 whole chicken",
+    "2 cups khorasan wheat",
+    "Water as needed",
+    "Salt to taste",
+    "Butter for serving",
+    "Cinnamon for serving"
+  ],
+  "tips": [
+    "Stir the harissa frequently as it cooks to prevent sticking and to help achieve a smooth texture.",
+    "Cooking time may vary depending on the type of wheat; patience is key.",
+    "Harissa can be made in large batches and refrigerated or frozen for later use."
+  ],
+  "equipment": ["large pot", "wooden spoon"]
+}

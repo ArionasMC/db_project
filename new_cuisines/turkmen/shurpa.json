@@ -1,0 +1,34 @@
+{
+  "type": "meal",
+  "cuisine_name": "Turkmen",
+  "tags": ["dinner", "comfort food", "soup"],
+  "name": "Shurpa",
+  "prep_time": 15,
+  "cook_time": 120,
+  "description": "A hearty and warming soup traditionally made with lamb and a variety of root vegetables, enriched with fresh herbs and spices, making it a staple during Turkmen winters.",
+  "steps": [
+    "In a large pot, brown the lamb pieces to develop flavor.",
+    "Add water and bring to a boil, skimming off any foam that forms on the surface.",
+    "Add chopped potatoes, carrots, onions, and bell peppers to the pot.",
+    "Season with salt, pepper, and a bouquet garni of local herbs.",
+    "Simmer gently until the meat is tender and vegetables are cooked.",
+    "Serve hot, sprinkled with chopped herbs like dill and parsley."
+  ],
+  "difficulty": 2,
+  "ingredients": [
+    "500 grams lamb, cut into chunks",
+    "3 potatoes, peeled and cubed",
+    "2 carrots, chopped",
+    "1 onion, chopped",
+    "1 bell pepper, chopped",
+    "1 bouquet garni (parsley, dill, coriander)",
+    "Salt and pepper to taste",
+    "Water as needed"
+  ],
+  "tips": [
+    "The key to a clear broth is to thoroughly skim the foam from the top of the pot during the initial boiling.",
+    "Adding a small amount of vinegar or lemon juice helps in extracting flavor from the bones if using bone-in lamb.",
+    "Adjust the variety and quantity of vegetables according to seasonal availability."
+  ],
+  "equipment": ["large pot", "knife", "cutting board"]
+}

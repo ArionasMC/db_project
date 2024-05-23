@@ -1,0 +1,35 @@
+{
+  "type": "meal",
+  "cuisine_name": "Greek",
+  "tags": ["dinner"],
+  "name": "Moussaka",
+  "prep_time": 30,
+  "cook_time": 60,
+  "description": "A rich, layered eggplant and meat casserole, topped with a creamy béchamel sauce.",
+  "steps": [
+    "Slice and salt eggplants, then fry until golden.",
+    "Cook ground meat with onions, garlic, and tomatoes.",
+    "Layer eggplant and meat mixture in a baking dish.",
+    "Prepare béchamel sauce and spread over the top.",
+    "Bake until the surface is golden and bubbly."
+  ],
+  "difficulty": 4,
+  "ingredients": [
+    "3 large eggplants",
+    "500 grams ground lamb or beef",
+    "1 onion, chopped",
+    "2 cloves garlic, minced",
+    "400 grams canned tomatoes",
+    "Butter",
+    "Flour",
+    "Milk",
+    "Nutmeg",
+    "Olive oil"
+  ],
+  "tips": [
+    "Let the fried eggplant drain on paper towels to remove excess oil.",
+    "Allow the moussaka to set for 20 minutes after baking for easier slicing.",
+    "Season the meat well with herbs and spices for more depth of flavor."
+  ],
+  "equipment": ["oven", "frying pan", "baking dish", "saucepan"]
+}

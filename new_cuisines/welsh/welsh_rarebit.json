@@ -1,0 +1,35 @@
+{
+  "type": "meal",
+  "cuisine_name": "Welsh",
+  "tags": ["dinner", "comfort food", "traditional"],
+  "name": "Welsh Rarebit",
+  "prep_time": 10,
+  "cook_time": 10,
+  "description": "A savory dish made from a deliciously rich cheese sauce, typically served hot over toasted bread. This classic Welsh dish is often enhanced with beer, mustard, and Worcestershire sauce for added flavor.",
+  "steps": [
+    "In a saucepan, melt butter and stir in the flour to make a roux.",
+    "Gradually add beer to the roux while continuously stirring to create a smooth sauce.",
+    "Add grated cheese to the saucepan, stirring until the cheese is melted.",
+    "Season the cheese sauce with mustard, Worcestershire sauce, and a pinch of salt and pepper.",
+    "Pour the hot cheese sauce over slices of toasted bread.",
+    "Grill the topped bread under a broiler until bubbly and golden brown.",
+    "Serve immediately."
+  ],
+  "difficulty": 2,
+  "ingredients": [
+    "2 tbsp butter",
+    "2 tbsp flour",
+    "1/2 cup beer, preferably a stout or ale",
+    "1 1/2 cups strong cheddar cheese, grated",
+    "1 tsp English mustard",
+    "1 tsp Worcestershire sauce",
+    "Salt and pepper to taste",
+    "4 slices of bread, toasted"
+  ],
+  "tips": [
+    "For a non-alcoholic version, substitute beer with milk.",
+    "Experiment with different types of cheese for variety.",
+    "Adding a small amount of paprika can give the dish a nice color and a bit of heat."
+  ],
+  "equipment": ["saucepan", "whisk", "oven grill or broiler", "toaster"]
+}

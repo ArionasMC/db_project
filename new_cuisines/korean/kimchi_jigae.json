@@ -1,0 +1,32 @@
+{
+  "type": "meal",
+  "cuisine_name": "Korean",
+  "tags": ["dinner", "comfort food", "spicy"],
+  "name": "Kimchi Jjigae",
+  "prep_time": 15,
+  "cook_time": 25,
+  "description": "A hearty, spicy stew made with kimchi, tofu, pork (or seafood), and various seasonings, typically served boiling hot.",
+  "steps": [
+    "In a pot, sauté pork belly until browned, then add chopped kimchi and cook until soft.",
+    "Add water or stock and bring to a boil.",
+    "Season with gochujang, gochugaru (Korean chili powder), and soy sauce.",
+    "Add sliced tofu and simmer until all ingredients are well-cooked.",
+    "Garnish with sliced green onions and serve hot with a bowl of rice."
+  ],
+  "difficulty": 2,
+  "ingredients": [
+    "200 grams kimchi, preferably fermented",
+    "150 grams pork belly, sliced",
+    "1 block tofu, sliced",
+    "1 tbsp gochujang",
+    "1 tbsp soy sauce",
+    "500 ml water or stock",
+    "2 green onions, chopped"
+  ],
+  "tips": [
+    "Use well-fermented kimchi for a deeper flavor.",
+    "Adjust the amount of gochujang and gochugaru to control the spice level.",
+    "The stew tastes better the longer it sits, making it a great leftover dish."
+  ],
+  "equipment": ["pot", "knife", "cutting board"]
+}

@@ -1,0 +1,33 @@
+{
+  "type": "meal",
+  "cuisine_name": "Japanese",
+  "tags": ["lunch", "dinner", "snack"],
+  "name": "Sushi Rolls (Maki Sushi)",
+  "prep_time": 30,
+  "cook_time": 20,
+  "description": "Traditional Japanese sushi rolls consisting of sushi rice, seaweed (nori), and various fillings such as fish, vegetables, or avocado.",
+  "steps": [
+    "Cook sushi rice and season with sushi vinegar.",
+    "Spread the cooled rice on a sheet of nori laid out on a bamboo mat.",
+    "Place fillings like cucumber, avocado, and fish along the center of the rice.",
+    "Roll the nori tightly using the bamboo mat, pressing firmly.",
+    "Slice the roll into 6-8 pieces with a sharp knife."
+  ],
+  "difficulty": 3,
+  "ingredients": [
+    "2 cups sushi rice",
+    "3 tbsp sushi vinegar",
+    "5 sheets nori",
+    "1 cucumber, julienned",
+    "1 avocado, sliced",
+    "200 grams fresh salmon or tuna, sliced",
+    "Soy sauce for serving",
+    "Wasabi for serving"
+  ],
+  "tips": [
+    "Ensure the rice is at room temperature for easier handling.",
+    "Wet the knife slightly before slicing the rolls to prevent sticking.",
+    "Serve with soy sauce and a dab of wasabi."
+  ],
+  "equipment": ["bamboo sushi mat", "sharp knife", "cutting board", "rice cooker"]
+}

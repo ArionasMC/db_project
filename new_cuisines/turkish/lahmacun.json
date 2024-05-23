@@ -1,0 +1,36 @@
+{
+  "type": "meal",
+  "cuisine_name": "Turkish",
+  "tags": ["lunch", "street food", "savory"],
+  "name": "Lahmacun",
+  "prep_time": 30,
+  "cook_time": 5,
+  "description": "Often dubbed 'Turkish Pizza,' Lahmacun is a round, thin piece of dough topped with minced meat (most commonly beef or lamb), vegetables, herbs, and spices, baked until crispy.",
+  "steps": [
+    "Prepare the dough from flour, water, yeast, and salt. Let it rise for an hour.",
+    "Mix minced meat with finely chopped bell peppers, tomatoes, onions, parsley, and spices.",
+    "Roll out the dough into thin circles and spread the meat mixture thinly on top.",
+    "Bake in a very hot oven until the edges are crisp and browned, about 5 minutes.",
+    "Serve hot, rolled up with a squeeze of lemon and optional garnishes like lettuce and sliced tomatoes."
+  ],
+  "difficulty": 2,
+  "ingredients": [
+    "400 grams minced beef or lamb",
+    "4 cups all-purpose flour",
+    "1 cup water",
+    "1 tsp yeast",
+    "1 bell pepper, finely chopped",
+    "2 tomatoes, finely chopped",
+    "1 onion, finely chopped",
+    "1/2 cup chopped parsley",
+    "2 tsp paprika",
+    "Salt and pepper to taste",
+    "Lemon wedges for serving"
+  ],
+  "tips": [
+    "The dough should be rolled out as thinly as possible for the right crispiness.",
+    "Do not overload the topping to keep Lahmacun crispy.",
+    "Adjust the amount of spices according to taste."
+  ],
+  "equipment": ["oven", "mixing bowl", "rolling pin", "baking tray"]
+}

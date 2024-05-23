@@ -1,0 +1,38 @@
+{
+  "type": "meal",
+  "cuisine_name": "Korean",
+  "tags": ["dinner", "healthy", "colorful"],
+  "name": "Bibimbap",
+  "prep_time": 30,
+  "cook_time": 20,
+  "description": "A popular Korean dish that means 'mixed rice.' It's served as a bowl of warm white rice topped with sautéed and seasoned vegetables, chili pepper paste (gochujang), a fried egg, and sliced meat (usually beef).",
+  "steps": [
+    "Cook the rice according to package instructions.",
+    "Prepare and sauté each vegetable separately in a pan with a small amount of oil.",
+    "Marinate beef slices in soy sauce, garlic, and sesame oil, then fry until cooked.",
+    "Fry an egg, keeping the yolk runny.",
+    "Assemble the dish by placing rice in a bowl, arranging the vegetables and beef on top, and placing the fried egg in the center.",
+    "Serve with a dollop of gochujang on the side."
+  ],
+  "difficulty": 3,
+  "ingredients": [
+    "2 cups white rice",
+    "100 grams beef, thinly sliced",
+    "1 carrot, julienned",
+    "1 zucchini, julienned",
+    "200 grams spinach",
+    "1 small daikon radish, julienned",
+    "200 grams bean sprouts",
+    "1 egg",
+    "2 tbsp soy sauce",
+    "1 clove garlic, minced",
+    "2 tbsp sesame oil",
+    "Gochujang (Korean chili paste)"
+  ],
+  "tips": [
+    "Sauté vegetables with minimal seasoning to maintain their natural flavors.",
+    "Serve hot with additional sesame seeds and seaweed flakes for garnish.",
+    "Mix all ingredients in the bowl before eating for the best experience."
+  ],
+  "equipment": ["rice cooker", "frying pan", "knife", "cutting board"]
+}

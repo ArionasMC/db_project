@@ -1,0 +1,32 @@
+{
+  "type": "meal",
+  "cuisine_name": "Kenyan",
+  "tags": ["dinner", "nutritious", "quick"],
+  "name": "Sukuma Wiki",
+  "prep_time": 10,
+  "cook_time": 20,
+  "description": "Sukuma Wiki, meaning 'to push the week,' is a nutritious and economical Kenyan dish made with collard greens, often cooked with onions and spices, and is a perfect complement to Ugali.",
+  "steps": [
+    "Heat oil in a pan over medium heat. Add onions and sauté until translucent.",
+    "Add minced garlic and continue to sauté for about 1 minute.",
+    "Add the chopped collard greens, stirring to combine with the onions and garlic.",
+    "Season with salt, pepper, and a pinch of cayenne for heat.",
+    "Cover and simmer over low heat until the greens are tender, adding a little water if necessary.",
+    "Serve hot with Ugali or as a side dish to any meal."
+  ],
+  "difficulty": 1,
+  "ingredients": [
+    "1 bunch collard greens, finely chopped",
+    "1 large onion, chopped",
+    "2 cloves garlic, minced",
+    "2 tablespoons vegetable oil",
+    "Salt and pepper to taste",
+    "Cayenne pepper to taste"
+  ],
+  "tips": [
+    "Wash the collard greens thoroughly to remove any grit or dirt.",
+    "Cut the greens into thin strips for faster cooking.",
+    "Adding a squeeze of lemon juice before serving can enhance the flavor."
+  ],
+  "equipment": ["knife", "cutting board", "large pan", "wooden spoon"]
+}

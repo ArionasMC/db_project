@@ -1,0 +1,37 @@
+{
+  "type": "meal",
+  "cuisine_name": "Armenian",
+  "tags": ["lunch", "dinner", "street food"],
+  "name": "Lahmajoun",
+  "prep_time": 30,
+  "cook_time": 5,
+  "description": "A thin, crispy flatbread topped with a spicy mixture of minced meat, tomatoes, bell peppers, and herbs.",
+  "steps": [
+    "Prepare the dough from flour, yeast, warm water, and salt, and let it rise until doubled in size.",
+    "Mix finely ground lamb or beef with finely diced tomatoes, bell peppers, onion, parsley, and spices.",
+    "Roll the dough into very thin circles, spread the meat mixture thinly on top.",
+    "Bake in a very hot oven for about 5 minutes until the edges are crisp and the topping is cooked.",
+    "Serve hot with a squeeze of lemon and fresh parsley."
+  ],
+  "difficulty": 3,
+  "ingredients": [
+    "500 grams ground lamb or beef",
+    "3 cups all-purpose flour",
+    "1 cup warm water",
+    "1 tsp active dry yeast",
+    "2 tomatoes, finely diced",
+    "1 bell pepper, finely diced",
+    "1 onion, finely diced",
+    "1/2 cup chopped parsley",
+    "1 tsp paprika",
+    "1 tsp cumin",
+    "Salt and pepper to taste",
+    "Lemon wedges for serving"
+  ],
+  "tips": [
+    "Ensure the dough is rolled out very thin to achieve a crispy texture.",
+    "Do not overload the dough with the topping to keep the lahmajoun crispy.",
+    "Preheat the oven with a pizza stone or baking sheet inside to an extremely high temperature before baking."
+  ],
+  "equipment": ["oven", "mixing bowl", "rolling pin", "baking sheet"]
+}

@@ -1,0 +1,32 @@
+{
+  "type": "meal",
+  "cuisine_name": "Turkish",
+  "tags": ["dinner", "traditional", "hearty"],
+  "name": "İskender Kebab",
+  "prep_time": 20,
+  "cook_time": 10,
+  "description": "A famous Turkish dish consisting of thinly cut grilled lamb basted with hot tomato sauce over pieces of pita bread and generously slathered with melted sheep butter and yogurt.",
+  "steps": [
+    "Grill seasoned lamb strips until well cooked.",
+    "Toast pita bread lightly and cut into small pieces.",
+    "Place the bread in a dish and cover with grilled lamb.",
+    "Heat tomato sauce and pour over the meat.",
+    "Melt butter and drizzle over the dish.",
+    "Serve with a side of fresh yogurt."
+  ],
+  "difficulty": 3,
+  "ingredients": [
+    "500 grams lamb, thinly sliced",
+    "4 pita breads",
+    "2 cups tomato sauce",
+    "100 grams butter",
+    "1 cup yogurt",
+    "Salt and pepper to taste"
+  ],
+  "tips": [
+    "Ensure the lamb is thinly sliced for quick grilling and authentic taste.",
+    "Use freshly made tomato sauce for better flavor.",
+    "Serve immediately while hot for best taste."
+  ],
+  "equipment": ["grill", "saucepan", "knife", "cutting board"]
+}

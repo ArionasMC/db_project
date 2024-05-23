@@ -1,0 +1,33 @@
+{
+  "type": "meal",
+  "cuisine_name": "Armenian",
+  "tags": ["dinner", "festive", "vegetarian"],
+  "name": "Ghapama",
+  "prep_time": 20,
+  "cook_time": 60,
+  "description": "A traditional festive dish involving a pumpkin stuffed with rice, dried fruits, nuts, and honey, then baked until the pumpkin is tender.",
+  "steps": [
+    "Hollow out a medium-sized pumpkin, removing seeds and fibers.",
+    "In a bowl, mix cooked rice with chopped dried fruits (apricots, prunes, raisins), nuts (almonds, walnuts), and honey.",
+    "Fill the pumpkin with the rice mixture and place a lid cut from the top.",
+    "Bake in a preheated oven at 375°F (190°C) until the pumpkin is tender and the filling is heated through.",
+    "Serve hot, cutting the pumpkin into wedges to expose the sweet, fragrant stuffing."
+  ],
+  "difficulty": 2,
+  "ingredients": [
+    "1 medium pumpkin",
+    "1 cup cooked rice",
+    "1/2 cup dried apricots, chopped",
+    "1/2 cup prunes, chopped",
+    "1/2 cup raisins",
+    "1/2 cup almonds, chopped",
+    "1/2 cup walnuts, chopped",
+    "1/4 cup honey"
+  ],
+  "tips": [
+    "Choose a pumpkin that sits flat for easier baking.",
+    "Adjust the amount of dried fruits and nuts according to preference.",
+    "Ghapama can be served as a dessert or a main dish."
+  ],
+  "equipment": ["oven", "large mixing bowl", "sharp knife", "baking tray"]
+}

@@ -1,0 +1,32 @@
+{
+  "type": "meal",
+  "cuisine_name": "Turkmen",
+  "tags": ["dinner", "traditional", "hearty"],
+  "name": "Palaw",
+  "prep_time": 20,
+  "cook_time": 60,
+  "description": "A central dish in Turkmen cuisine, Palaw (or pilaf) is a rice dish cooked with pieces of meat, usually lamb, carrots, onions, and a generous amount of Turkmen saffron.",
+  "steps": [
+    "Heat oil in a large pot and brown the lamb pieces until golden.",
+    "Add chopped onions and grated carrots to the pot and sauté until softened.",
+    "Stir in rice, Turkmen saffron, and enough boiling water to cover the ingredients.",
+    "Cook on low heat until the rice is fluffy and all the liquid is absorbed.",
+    "Serve hot, garnished with fresh herbs."
+  ],
+  "difficulty": 3,
+  "ingredients": [
+    "500 grams lamb, cubed",
+    "2 cups long-grain rice, washed and drained",
+    "3 carrots, grated",
+    "2 onions, finely chopped",
+    "1 tsp Turkmen saffron",
+    "Salt and pepper to taste",
+    "Cooking oil"
+  ],
+  "tips": [
+    "Use a heavy pot to prevent the rice from burning.",
+    "Let the pilaf rest for 10 minutes after cooking before serving to allow flavors to meld.",
+    "Adjust the amount of water depending on the type of rice used."
+  ],
+  "equipment": ["large pot", "wooden spoon"]
+}

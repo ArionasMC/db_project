@@ -1,0 +1,29 @@
+{
+  "type": "meal",
+  "cuisine_name": "Ethiopian",
+  "tags": ["all meals", "staple", "fermented"],
+  "name": "Injera",
+  "prep_time": 1440,
+  "cook_time": 5,
+  "description": "A staple of Ethiopian cuisine, injera is a sourdough-risen flatbread with a unique, slightly spongy texture. Traditionally made from teff flour, it is used as a plate and utensil to scoop up stews and salads.",
+  "steps": [
+    "Mix teff flour with water in a bowl until smooth, then cover and let ferment for 1-3 days.",
+    "After fermentation, stir the batter well and add salt.",
+    "Heat a non-stick pan or griddle over medium heat.",
+    "Pour a ladleful of batter into the pan and quickly swirl to spread in a thin layer.",
+    "Cover and cook for a few minutes until holes form on the surface and edges lift from the pan.",
+    "Remove injera and let cool on a clean cloth. Repeat with remaining batter."
+  ],
+  "difficulty": 3,
+  "ingredients": [
+    "2 cups teff flour",
+    "Water as needed",
+    "1/2 teaspoon salt"
+  ],
+  "tips": [
+    "The batter should be thin and smooth to ensure proper fermentation.",
+    "Do not flip injera when cooking; it cooks through from one side.",
+    "Use a lid while cooking to help steam and fully cook the top surface."
+  ],
+  "equipment": ["large bowl", "non-stick pan or griddle", "ladle", "clean cloth"]
+}

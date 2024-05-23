@@ -1,0 +1,39 @@
+{
+  "type": "meal",
+  "cuisine_name": "German",
+  "tags": ["dinner", "traditional", "hearty"],
+  "name": "Sauerbraten",
+  "prep_time": 1440,
+  "cook_time": 180,
+  "description": "A traditional German pot roast, usually of beef (or sometimes pork, lamb, or mutton), marinated before slow-cooking as pot roast. The meat is tenderized and imbued with a complex sour-sweet flavor from the marinade, containing vinegar, wine, and spices.",
+  "steps": [
+    "Marinate the beef roast in a mixture of red wine, vinegar, onions, carrots, and spices for 2-3 days.",
+    "Remove the beef from the marinade, pat dry, and brown in hot oil in a heavy pot.",
+    "Strain the marinade and add it to the pot with the beef.",
+    "Add crushed ginger snaps to thicken and sweeten the sauce.",
+    "Simmer the roast slowly until it is tender.",
+    "Slice and serve the roast with the sauce poured over it."
+  ],
+  "difficulty": 4,
+  "ingredients": [
+    "1 kg beef roast",
+    "500 ml red wine",
+    "500 ml red wine vinegar",
+    "2 onions, sliced",
+    "2 carrots, chopped",
+    "1 leek, chopped",
+    "10 juniper berries",
+    "5 cloves",
+    "5 black peppercorns",
+    "2 bay leaves",
+    "100 grams ginger snaps",
+    "Salt and pepper to taste",
+    "Cooking oil"
+  ],
+  "tips": [
+    "Make sure the meat is completely submerged in the marinade.",
+    "Turn the meat in the marinade once a day for even flavoring.",
+    "The longer the meat marinates, the more flavorful it will be."
+  ],
+  "equipment": ["heavy pot", "strainer", "bowl"]
+}

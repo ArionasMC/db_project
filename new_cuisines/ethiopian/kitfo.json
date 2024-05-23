@@ -1,0 +1,25 @@
+{
+  "type": "meal",
+  "cuisine_name": "Ethiopian",
+  "tags": ["dinner", "traditional", "raw"],
+  "name": "Kitfo",
+  "prep_time": 20,
+  "cook_time": 0,
+  "description": "A traditional Ethiopian dish of minced raw beef seasoned with mitmita (a spicy chili powder) and niter kibbeh (clarified butter infused with herbs and spices). Often served with injera and sometimes with a mild cheese called ayib.",
+  "steps": [
+    "Finely chop or grind fresh, lean beef.",
+    "Melt niter kibbeh in a pan and mix with mitmita.",
+    "Combine the spiced butter with the raw beef, mixing thoroughly.",
+    "Serve immediately with injera and optional ayib (fresh cottage cheese)."
+  ],
+  "difficulty": 2,
+  "ingredients": [
+    "500 grams lean beef, preferably tenderloin, finely chopped or ground"
+  ],
+  "tips": [
+    "Ensure the beef is extremely fresh and from a trusted source when preparing kitfo.",
+    "Adjust the amount of mitmita to tailor the heat level to your preference.",
+    "If preferred, kitfo can also be lightly cooked (leb leb) for those uncomfortable with raw meat."
+  ],
+  "equipment": ["knife", "cutting board", "mixing bowl", "small pan"]
+}

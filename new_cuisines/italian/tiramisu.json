@@ -1,0 +1,33 @@
+{
+  "type": "dessert",
+  "cuisine_name": "Italian",
+  "tags": ["dessert", "classic"],
+  "name": "Tiramisu",
+  "prep_time": 30,
+  "cook_time": 0,
+  "description": "A popular coffee-flavored dessert made from layers of ladyfingers dipped in coffee, mascarpone cheese, and dusted with cocoa powder.",
+  "steps": [
+    "Mix egg yolks and sugar until pale and fluffy.",
+    "Fold in mascarpone cheese gently.",
+    "Dip ladyfingers in coffee mixed with a splash of coffee liqueur.",
+    "Layer the ladyfingers in a dish, spread over a layer of mascarpone mixture.",
+    "Repeat layering and refrigerate for at least 4 hours.",
+    "Dust with cocoa powder before serving."
+  ],
+  "difficulty": 2,
+  "ingredients": [
+    "3 egg yolks",
+    "100 grams sugar",
+    "250 grams mascarpone cheese",
+    "24 ladyfingers",
+    "300 ml strong coffee, cooled",
+    "Coffee liqueur (optional)",
+    "Cocoa powder for dusting"
+  ],
+  "tips": [
+    "Ensure all ingredients are at room temperature to make mixing easier.",
+    "For a non-alcoholic version, omit the coffee liqueur.",
+    "The dessert can be made a day ahead to allow flavors to meld."
+  ],
+  "equipment": ["mixing bowl", "whisk", "serving dish", "sieve"]
+}

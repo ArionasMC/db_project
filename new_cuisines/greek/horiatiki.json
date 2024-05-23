@@ -1,0 +1,31 @@
+{
+  "type": "meal",
+  "cuisine_name": "Greek",
+  "tags": ["lunch", "dinner", "brunch"],
+  "name": "Greek Salad (Horiatiki)",
+  "prep_time": 15,
+  "cook_time": 0,
+  "description": "A traditional Greek salad made with fresh vegetables, Kalamata olives, and feta cheese, dressed with olive oil.",
+  "steps": [
+    "Chop the cucumbers, tomatoes, and red onion.",
+    "Combine vegetables in a large bowl.",
+    "Top with Kalamata olives and crumbled feta cheese.",
+    "Drizzle with olive oil and sprinkle oregano."
+  ],
+  "difficulty": 1,
+  "ingredients": [
+    "2 medium cucumbers",
+    "4 medium ripe tomatoes",
+    "1 red onion",
+    "200 grams feta cheese",
+    "100 grams Kalamata olives",
+    "Olive oil",
+    "Dried oregano"
+  ],
+  "tips": [
+    "Use fresh and ripe vegetables for the best flavor.",
+    "Add capers for an extra zesty taste.",
+    "Let the salad sit for 10 minutes before serving to enhance the flavors."
+  ],
+  "equipment": ["knife", "cutting board", "large bowl"]
+}

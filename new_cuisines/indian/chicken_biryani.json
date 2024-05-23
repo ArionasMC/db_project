@@ -1,0 +1,40 @@
+{
+  "type": "meal",
+  "cuisine_name": "Indian",
+  "tags": ["dinner", "party"],
+  "name": "Chicken Biryani",
+  "prep_time": 30,
+  "cook_time": 60,
+  "description": "A flavorful rice dish made with basmati rice, chicken marinated in spices, and cooked with saffron and herbs.",
+  "steps": [
+    "Marinate chicken in yogurt, garlic, ginger, and spices for at least 2 hours.",
+    "Cook rice until it's 70% done, then drain.",
+    "Fry onions until golden, then set aside.",
+    "Layer the marinated chicken and partially cooked rice in a pot.",
+    "Add saffron infused in warm milk for color.",
+    "Cover and cook on low heat until the rice is fully cooked and the chicken is tender.",
+    "Garnish with fried onions, nuts, and fresh cilantro."
+  ],
+  "difficulty": 4,
+  "ingredients": [
+    "500 grams chicken, cut into pieces",
+    "300 grams basmati rice",
+    "200 grams yogurt",
+    "2 large onions, sliced",
+    "2 tbsp ginger garlic paste",
+    "Saffron strands",
+    "50 ml milk",
+    "Mixed whole spices (cinnamon, bay leaves, cardamom, cloves)",
+    "Coriander powder",
+    "Cumin powder",
+    "Garam masala",
+    "Salt",
+    "Cooking oil"
+  ],
+  "tips": [
+    "Soak the rice for 30 minutes before cooking to get fluffy biryani.",
+    "Use a heavy-bottomed pot to avoid burning the rice.",
+    "Let the biryani sit for 15 minutes after cooking before serving to enhance the flavors."
+  ],
+  "equipment": ["pot", "frying pan", "bowl"]
+}

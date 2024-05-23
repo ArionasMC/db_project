@@ -1,0 +1,32 @@
+{
+  "type": "dessert",
+  "cuisine_name": "Mexican",
+  "tags": ["dessert", "classic"],
+  "name": "Flan",
+  "prep_time": 15,
+  "cook_time": 45,
+  "description": "A creamy caramel-topped custard dessert, known for its rich texture and vanilla flavor, a staple in Mexican cuisine.",
+  "steps": [
+    "Preheat the oven to 350°F (175°C).",
+    "Melt sugar in a pan until golden and pour into a round baking dish, swirling to coat the bottom.",
+    "Blend eggs, condensed milk, evaporated milk, and vanilla extract until smooth.",
+    "Pour the custard mixture over the caramelized sugar.",
+    "Place the dish in a larger baking pan and fill the pan with hot water halfway up the sides of the dish.",
+    "Bake in a water bath until set, about 45 minutes.",
+    "Cool and refrigerate before serving. Invert onto a plate to serve."
+  ],
+  "difficulty": 3,
+  "ingredients": [
+    "1 cup sugar",
+    "3 eggs",
+    "1 can (14 oz) condensed milk",
+    "1 can (12 oz) evaporated milk",
+    "1 tsp vanilla extract"
+  ],
+  "tips": [
+    "Ensure the sugar is caramelized to a deep amber color for the best flavor.",
+    "Let the flan cool completely in the refrigerator to set properly before inverting.",
+    "Run a knife around the edges of the flan to loosen it from the dish before inverting."
+  ],
+  "equipment": ["oven", "round baking dish", "blender", "pan for caramelizing sugar", "larger baking pan"]
+}

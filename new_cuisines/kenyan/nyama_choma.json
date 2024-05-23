@@ -1,0 +1,30 @@
+{
+  "type": "meal",
+  "cuisine_name": "Kenyan",
+  "tags": ["dinner", "barbecue", "social"],
+  "name": "Nyama Choma",
+  "prep_time": 30,
+  "cook_time": 60,
+  "description": "Nyama Choma, which means 'grilled meat' in Swahili, is a beloved Kenyan barbecue dish typically made with goat meat, though beef or chicken can also be used. It is often enjoyed at social gatherings and served with kachumbari and Ugali.",
+  "steps": [
+    "Marinate the meat in a mixture of lemon juice, garlic, ginger, and salt for at least 1 hour.",
+    "Prepare a charcoal grill or preheat a gas grill.",
+    "Grill the meat over medium heat, turning regularly, until well browned and cooked to desired doneness.",
+    "Rest the meat for 10 minutes before slicing.",
+    "Serve with kachumbari (a fresh tomato and onion salad) and Ugali."
+  ],
+  "difficulty": 2,
+  "ingredients": [
+    "1 kg goat meat, cut into chunks (beef or chicken can also be used)",
+    "Juice of 1 lemon",
+    "4 cloves garlic, minced",
+    "1 inch piece of ginger, grated",
+    "Salt to taste"
+  ],
+  "tips": [
+    "Ensure the grill is hot before adding the meat to get a good sear.",
+    "Keep basting the meat with the leftover marinade to keep it moist and flavorful.",
+    "Nyama Choma is best enjoyed freshly grilled and hot."
+  ],
+  "equipment": ["grill", "tongs", "bowl", "knife", "cutting board"]
+}

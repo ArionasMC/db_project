@@ -1,0 +1,32 @@
+{
+  "type": "meal",
+  "cuisine_name": "Kazakh",
+  "tags": ["dinner", "traditional", "hearty"],
+  "name": "Beshbarmak",
+  "prep_time": 60,
+  "cook_time": 180,
+  "description": "Kazakhstan’s national dish, beshbarmak means 'five fingers,' referring to the traditional way of eating this dish by hand. It consists of boiled meat (usually horse or lamb), served over homemade pasta and topped with a meat broth called shorpa.",
+  "steps": [
+    "Boil large cuts of meat until tender, then remove the meat and reserve the broth.",
+    "Hand-make pasta dough, roll it out thinly, and cut into squares.",
+    "Cook the pasta squares in the remaining broth until tender.",
+    "Slice the boiled meat into bite-sized pieces.",
+    "Layer the cooked pasta on a large serving platter, top with meat pieces, then ladle hot broth over the top.",
+    "Garnish with chopped parsley and serve."
+  ],
+  "difficulty": 4,
+  "ingredients": [
+    "1 kg meat (horse, lamb, or beef), in large chunks",
+    "500 grams flour for pasta",
+    "2 eggs",
+    "Water as needed for dough and boiling",
+    "Salt to taste",
+    "1 bunch parsley, finely chopped for garnish"
+  ],
+  "tips": [
+    "The broth should be seasoned well, as it flavors the entire dish.",
+    "Keep the pasta al dente to soak up the broth without becoming mushy.",
+    "Traditionally eaten with hands, but utensils can be used for convenience."
+  ],
+  "equipment": ["large pot", "rolling pin", "knife", "cutting board"]
+}

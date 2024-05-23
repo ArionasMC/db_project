@@ -1,0 +1,34 @@
+{
+  "type": "meal",
+  "cuisine_name": "Welsh",
+  "tags": ["dinner", "soup", "hearty"],
+  "name": "Cawl",
+  "prep_time": 20,
+  "cook_time": 180,
+  "description": "Cawl is a hearty Welsh stew made of lamb and root vegetables, embodying a rich mix of local produce and traditional cooking. It's a comforting dish, especially popular during colder months.",
+  "steps": [
+    "In a large pot, brown the lamb pieces, then remove and set aside.",
+    "In the same pot, sauté onions, carrots, and leeks until slightly softened.",
+    "Return the lamb to the pot, add potatoes, and cover with water or stock.",
+    "Bring to a boil, then reduce to a simmer, covering and cooking for at least 3 hours until the meat is tender and the vegetables are cooked.",
+    "Season with salt and pepper to taste, and add chopped parsley before serving.",
+    "Serve hot, with a side of crusty bread."
+  ],
+  "difficulty": 2,
+  "ingredients": [
+    "500 grams lamb shoulder, cut into chunks",
+    "3 large potatoes, peeled and cubed",
+    "2 carrots, peeled and sliced",
+    "2 leeks, cleaned and sliced",
+    "1 onion, chopped",
+    "Water or lamb stock as needed",
+    "Salt and pepper to taste",
+    "Fresh parsley, chopped"
+  ],
+  "tips": [
+    "Letting the cawl sit overnight enhances the flavors, making it even more delicious the next day.",
+    "Adding a turnip or swede can add an extra layer of flavor.",
+    "Be careful not to let the vegetables turn mushy by overcooking."
+  ],
+  "equipment": ["large pot", "knife", "cutting board"]
+}

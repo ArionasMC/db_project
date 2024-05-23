@@ -1,0 +1,49 @@
+recipe_name,recipe_cuisine_name,meal_type
+Ghapama,Armenian,dinner
+Harissa,Armenian,dinner
+Lahmajoun,Armenian,lunch
+Beef and Broccoli,Chinese,dinner
+Egg Drop Soup,Chinese,dinner
+Kung Pao Chicken,Chinese,dinner
+Doro Wat,Ethiopian,dinner
+Injera,Ethiopian,all meals
+Kitfo,Ethiopian,dinner
+Coq au Vin,French,dinner
+Crème Brûlée,French,dessert
+French Onion Soup,French,dinner
+Black Forest Cake,German,dessert
+Pretzels,German,snack
+Sauerbraten,German,dinner
+Baklava,Greek,dessert
+Greek Salad (Horiatiki),Greek,lunch
+Moussaka,Greek,dinner
+Chicken Biryani,Indian,dinner
+Mango Lassi,Indian,dessert
+Palak Paneer,Indian,dinner
+Osso Buco,Italian,dinner
+Spaghetti Carbonara,Italian,dinner
+Tiramisu,Italian,dessert
+Matcha Ice Cream,Japanese,dessert
+Ramen,Japanese,dinner
+Sushi Rolls (Maki Sushi),Japanese,lunch
+Beshbarmak,Kazakh,dinner
+Kazy,Kazakh,lunch
+Kurt,Kazakh,snack
+Nyama Choma,Kenyan,dinner
+Sukuma Wiki,Kenyan,dinner
+Ugali,Kenyan,dinner
+Bibimbap,Korean,dinner
+Hoddeok,Korean,dessert
+Kimchi Jjigae,Korean,dinner
+Chiles en Nogada,Mexican,dinner
+Flan,Mexican,dessert
+Tacos al Pastor,Mexican,dinner
+Baklava,Turkish,dessert
+İskender Kebab,Turkish,dinner
+Lahmacun,Turkish,lunch
+Gutap,Turkmen,lunch
+Palaw,Turkmen,dinner
+Shurpa,Turkmen,dinner
+Bara Brith,Welsh,dessert
+Cawl,Welsh,dinner
+Welsh Rarebit,Welsh,dinner

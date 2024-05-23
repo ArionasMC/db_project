@@ -1,0 +1,36 @@
+{
+  "type": "meal",
+  "cuisine_name": "Mexican",
+  "tags": ["dinner", "street food", "authentic"],
+  "name": "Tacos al Pastor",
+  "prep_time": 30,
+  "cook_time": 90,
+  "description": "A popular Mexican street food featuring marinated pork cooked on a vertical spit, served on small tortillas with pineapple, onions, and cilantro.",
+  "steps": [
+    "Marinate thinly sliced pork in a blend of chilies, achiote paste, garlic, and pineapple juice overnight.",
+    "Cook the pork on a vertical spit or in a very hot skillet until charred and tender.",
+    "Chop the cooked pork into small pieces.",
+    "Warm small corn tortillas and fill with pork.",
+    "Top with diced pineapple, chopped onions, and fresh cilantro.",
+    "Serve with a squeeze of lime and salsa."
+  ],
+  "difficulty": 4,
+  "ingredients": [
+    "1 kg pork shoulder, thinly sliced",
+    "4 guajillo chilies, deseeded",
+    "4 cloves garlic",
+    "250 ml pineapple juice",
+    "1 small pineapple, diced",
+    "1 large onion, finely chopped",
+    "Fresh cilantro, chopped",
+    "Lime wedges",
+    "Corn tortillas",
+    "Salt to taste"
+  ],
+  "tips": [
+    "Ensure the marinade is well blended for even flavor.",
+    "If you don't have a vertical spit, a grill or skillet works fine for cooking the meat.",
+    "Keep tortillas warm wrapped in a cloth until ready to serve."
+  ],
+  "equipment": ["vertical spit or skillet", "blender", "knife", "cutting board"]
+}

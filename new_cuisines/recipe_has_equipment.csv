@@ -1,0 +1,179 @@
+recipe_name,recipe_cuisine_name,equipment
+Ghapama,Armenian,oven
+Ghapama,Armenian,large mixing bowl
+Ghapama,Armenian,sharp knife
+Ghapama,Armenian,baking tray
+Harissa,Armenian,large pot
+Harissa,Armenian,wooden spoon
+Lahmajoun,Armenian,oven
+Lahmajoun,Armenian,mixing bowl
+Lahmajoun,Armenian,rolling pin
+Lahmajoun,Armenian,baking sheet
+Beef and Broccoli,Chinese,wok
+Beef and Broccoli,Chinese,knife
+Beef and Broccoli,Chinese,cutting board
+Beef and Broccoli,Chinese,large pot
+Egg Drop Soup,Chinese,pot
+Egg Drop Soup,Chinese,whisk
+Egg Drop Soup,Chinese,bowl
+Kung Pao Chicken,Chinese,wok
+Kung Pao Chicken,Chinese,mixing bowl
+Kung Pao Chicken,Chinese,spatula
+Doro Wat,Ethiopian,large pot
+Doro Wat,Ethiopian,wooden spoon
+Doro Wat,Ethiopian,knife
+Doro Wat,Ethiopian,cutting board
+Injera,Ethiopian,large bowl
+Injera,Ethiopian,non-stick pan or griddle
+Injera,Ethiopian,ladle
+Injera,Ethiopian,clean cloth
+Kitfo,Ethiopian,knife
+Kitfo,Ethiopian,cutting board
+Kitfo,Ethiopian,mixing bowl
+Kitfo,Ethiopian,small pan
+Coq au Vin,French,dutch oven
+Coq au Vin,French,knife
+Coq au Vin,French,cutting board
+Coq au Vin,French,wooden spoon
+Crème Brûlée,French,oven
+Crème Brûlée,French,mixing bowls
+Crème Brûlée,French,whisk
+Crème Brûlée,French,ramekins
+Crème Brûlée,French,torch
+French Onion Soup,French,large pot
+French Onion Soup,French,knife
+French Onion Soup,French,cutting board
+French Onion Soup,French,broiler
+Black Forest Cake,German,oven
+Black Forest Cake,German,mixing bowls
+Black Forest Cake,German,cake pans
+Black Forest Cake,German,whisk
+Black Forest Cake,German,knife
+Pretzels,German,oven
+Pretzels,German,mixing bowl
+Pretzels,German,baking sheet
+Pretzels,German,large pot
+Sauerbraten,German,heavy pot
+Sauerbraten,German,strainer
+Sauerbraten,German,bowl
+Baklava,Greek,oven
+Baklava,Greek,baking dish
+Baklava,Greek,saucepan
+Baklava,Greek,knife
+Baklava,Greek,pastry brush
+Greek Salad (Horiatiki),Greek,knife
+Greek Salad (Horiatiki),Greek,cutting board
+Greek Salad (Horiatiki),Greek,large bowl
+Moussaka,Greek,oven
+Moussaka,Greek,frying pan
+Moussaka,Greek,baking dish
+Moussaka,Greek,saucepan
+Chicken Biryani,Indian,pot
+Chicken Biryani,Indian,frying pan
+Chicken Biryani,Indian,bowl
+Mango Lassi,Indian,blender
+Mango Lassi,Indian,knife
+Mango Lassi,Indian,cutting board
+Mango Lassi,Indian,refrigerator
+Palak Paneer,Indian,pan
+Palak Paneer,Indian,blender
+Palak Paneer,Indian,spatula
+Osso Buco,Italian,heavy pot
+Osso Buco,Italian,stove
+Spaghetti Carbonara,Italian,large pot
+Spaghetti Carbonara,Italian,frying pan
+Spaghetti Carbonara,Italian,mixing bowl
+Tiramisu,Italian,mixing bowl
+Tiramisu,Italian,whisk
+Tiramisu,Italian,serving dish
+Tiramisu,Italian,sieve
+Matcha Ice Cream,Japanese,whisk
+Matcha Ice Cream,Japanese,bowl
+Matcha Ice Cream,Japanese,ice cream maker
+Matcha Ice Cream,Japanese,freezer
+Ramen,Japanese,large pot
+Ramen,Japanese,strainer
+Ramen,Japanese,bowls
+Sushi Rolls (Maki Sushi),Japanese,bamboo sushi mat
+Sushi Rolls (Maki Sushi),Japanese,sharp knife
+Sushi Rolls (Maki Sushi),Japanese,cutting board
+Sushi Rolls (Maki Sushi),Japanese,rice cooker
+Beshbarmak,Kazakh,large pot
+Beshbarmak,Kazakh,rolling pin
+Beshbarmak,Kazakh,knife
+Beshbarmak,Kazakh,cutting board
+Kazy,Kazakh,large pot for boiling
+Kazy,Kazakh,smoker (optional)
+Kazy,Kazakh,knife
+Kazy,Kazakh,cutting board
+Kurt,Kazakh,cheesecloth
+Kurt,Kazakh,strainer
+Kurt,Kazakh,bowl
+Nyama Choma,Kenyan,grill
+Nyama Choma,Kenyan,tongs
+Nyama Choma,Kenyan,bowl
+Nyama Choma,Kenyan,knife
+Nyama Choma,Kenyan,cutting board
+Sukuma Wiki,Kenyan,knife
+Sukuma Wiki,Kenyan,cutting board
+Sukuma Wiki,Kenyan,large pan
+Sukuma Wiki,Kenyan,wooden spoon
+Ugali,Kenyan,large pot
+Ugali,Kenyan,wooden spoon
+Ugali,Kenyan,serving plate
+Bibimbap,Korean,rice cooker
+Bibimbap,Korean,frying pan
+Bibimbap,Korean,knife
+Bibimbap,Korean,cutting board
+Hoddeok,Korean,mixing bowl
+Hoddeok,Korean,frying pan
+Hoddeok,Korean,spatula
+Kimchi Jjigae,Korean,pot
+Kimchi Jjigae,Korean,knife
+Kimchi Jjigae,Korean,cutting board
+Chiles en Nogada,Mexican,oven or grill for roasting peppers
+Chiles en Nogada,Mexican,blender
+Chiles en Nogada,Mexican,skillet
+Chiles en Nogada,Mexican,knife
+Chiles en Nogada,Mexican,cutting board
+Flan,Mexican,oven
+Flan,Mexican,round baking dish
+Flan,Mexican,blender
+Flan,Mexican,pan for caramelizing sugar
+Flan,Mexican,larger baking pan
+Tacos al Pastor,Mexican,vertical spit or skillet
+Tacos al Pastor,Mexican,blender
+Tacos al Pastor,Mexican,knife
+Tacos al Pastor,Mexican,cutting board
+Baklava,Turkish,oven
+Baklava,Turkish,baking dish
+Baklava,Turkish,saucepan
+Baklava,Turkish,knife
+Baklava,Turkish,pastry brush
+İskender Kebab,Turkish,grill
+İskender Kebab,Turkish,saucepan
+İskender Kebab,Turkish,knife
+İskender Kebab,Turkish,cutting board
+Lahmacun,Turkish,oven
+Lahmacun,Turkish,mixing bowl
+Lahmacun,Turkish,rolling pin
+Lahmacun,Turkish,baking tray
+Gutap,Turkmen,mixing bowl
+Gutap,Turkmen,frying pan
+Gutap,Turkmen,rolling pin
+Palaw,Turkmen,large pot
+Palaw,Turkmen,wooden spoon
+Shurpa,Turkmen,large pot
+Shurpa,Turkmen,knife
+Shurpa,Turkmen,cutting board
+Bara Brith,Welsh,mixing bowl
+Bara Brith,Welsh,loaf pan
+Bara Brith,Welsh,oven
+Bara Brith,Welsh,wire rack
+Cawl,Welsh,large pot
+Cawl,Welsh,knife
+Cawl,Welsh,cutting board
+Welsh Rarebit,Welsh,saucepan
+Welsh Rarebit,Welsh,whisk
+Welsh Rarebit,Welsh,oven grill or broiler
+Welsh Rarebit,Welsh,toaster

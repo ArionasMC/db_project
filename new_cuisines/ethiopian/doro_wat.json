@@ -1,0 +1,35 @@
+{
+  "type": "meal",
+  "cuisine_name": "Ethiopian",
+  "tags": ["dinner", "spicy", "traditional"],
+  "name": "Doro Wat",
+  "prep_time": 30,
+  "cook_time": 120,
+  "description": "A popular and spicy Ethiopian chicken stew, Doro Wat is known for its deep, fiery red color due to a generous amount of berbere spice. It's traditionally served with injera (Ethiopian sourdough flatbread) and hard-boiled eggs.",
+  "steps": [
+    "Marinate chicken pieces in lemon juice and salt.",
+    "Cook onions in a dry pot until golden, then add berbere spice and oil, cooking into a paste.",
+    "Add garlic and ginger, then the marinated chicken, stirring to coat with the spice mixture.",
+    "Add enough water to cover, bring to a boil, then simmer until the chicken is tender.",
+    "Add hard-boiled eggs to the stew in the last 10 minutes.",
+    "Serve hot with injera."
+  ],
+  "difficulty": 3,
+  "ingredients": [
+    "1 kg chicken, cut into pieces",
+    "Juice of 1 lemon",
+    "Salt",
+    "2 cups red onions, finely chopped",
+    "1/4 cup vegetable oil",
+    "2 teaspoons garlic, minced",
+    "2 teaspoons ginger, minced",
+    "6 hard-boiled eggs",
+    "Water as needed"
+  ],
+  "tips": [
+    "Make sure the onions are fully caramelized before adding the berbere to develop a deeper flavor.",
+    "Adjust the amount of berbere for desired spice level.",
+    "Score the eggs with a knife before adding them to the stew to allow flavors to penetrate."
+  ],
+  "equipment": ["large pot", "wooden spoon", "knife", "cutting board"]
+}

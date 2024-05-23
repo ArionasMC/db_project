@@ -1,0 +1,33 @@
+{
+  "type": "dessert",
+  "cuisine_name": "Welsh",
+  "tags": ["dessert", "tea time", "fruity"],
+  "name": "Bara Brith",
+  "prep_time": 15,
+  "cook_time": 90,
+  "description": "A traditional Welsh tea bread, Bara Brith translates to 'speckled bread' due to the rich mixture of dried fruits and spices within. It is customarily served sliced and buttered.",
+  "steps": [
+    "Soak dried fruits in hot tea the night before baking to plump them up.",
+    "Mix flour, sugar, and spices in a bowl.",
+    "Add the soaked fruits with any remaining tea, followed by an egg, and mix to form a dough.",
+    "Pour the batter into a greased loaf pan.",
+    "Bake in a preheated oven at 350°F (175°C) for about 1.5 hours until risen and golden.",
+    "Cool in the pan, then turn out onto a wire rack.",
+    "Slice and serve with butter."
+  ],
+  "difficulty": 2,
+  "ingredients": [
+    "300 grams mixed dried fruit (raisins, currants, sultanas)",
+    "250 ml hot black tea",
+    "225 grams self-raising flour",
+    "100 grams brown sugar",
+    "1 tsp mixed spice",
+    "1 egg, beaten"
+  ],
+  "tips": [
+    "Ensure the fruit is well-soaked to prevent it from drawing moisture from the dough.",
+    "Test the loaf with a skewer to ensure it's fully baked through.",
+    "Bara Brith can be stored for several days and improves in flavor."
+  ],
+  "equipment": ["mixing bowl", "loaf pan", "oven", "wire rack"]
+}

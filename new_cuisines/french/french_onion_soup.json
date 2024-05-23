@@ -1,0 +1,34 @@
+{
+  "type": "meal",
+  "cuisine_name": "French",
+  "tags": ["dinner", "classic", "winter"],
+  "name": "French Onion Soup",
+  "prep_time": 15,
+  "cook_time": 45,
+  "description": "A classic French soup made with caramelized onions and beef broth, typically served with a cheese-topped toasted baguette slice.",
+  "steps": [
+    "Caramelize the sliced onions in a large pot.",
+    "Add beef broth and bring to a simmer.",
+    "Season with thyme and bay leaves.",
+    "Toast baguette slices topped with grated cheese under a broiler until melted and golden.",
+    "Serve the soup hot with the toasted baguette."
+  ],
+  "difficulty": 2,
+  "ingredients": [
+    "5 large onions, sliced",
+    "1 liter beef broth",
+    "2 cloves garlic, minced",
+    "1 baguette",
+    "100 grams grated Gruyère cheese",
+    "2 tbsp butter",
+    "1 tsp dried thyme",
+    "2 bay leaves",
+    "Salt and pepper to taste"
+  ],
+  "tips": [
+    "Cook the onions slowly to fully develop the sweet flavor.",
+    "Use homemade beef broth for a richer taste.",
+    "Top with additional cheese if desired."
+  ],
+  "equipment": ["large pot", "knife", "cutting board", "broiler"]
+}

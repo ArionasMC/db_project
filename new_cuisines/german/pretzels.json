@@ -1,0 +1,32 @@
+{
+  "type": "meal",
+  "cuisine_name": "German",
+  "tags": ["snack", "baked", "traditional"],
+  "name": "Pretzels",
+  "prep_time": 30,
+  "cook_time": 15,
+  "description": "Iconic German twisted bread, known for its distinctive knot-like shape, crispy crust, and soft, chewy texture. Pretzels are typically sprinkled with coarse salt.",
+  "steps": [
+    "Prepare the dough from flour, yeast, water, salt, and a bit of sugar.",
+    "Let the dough rise until doubled.",
+    "Divide the dough and roll each piece into a long rope, then twist into the traditional pretzel shape.",
+    "Dip each pretzel in a baking soda bath before baking to develop a golden and shiny crust.",
+    "Bake until golden brown and sprinkle with coarse salt while still warm."
+  ],
+  "difficulty": 2,
+  "ingredients": [
+    "500 grams all-purpose flour",
+    "10 grams active dry yeast",
+    "300 ml warm water",
+    "10 grams sugar",
+    "10 grams salt",
+    "Baking soda for bath",
+    "Coarse salt for topping"
+  ],
+  "tips": [
+    "The baking soda bath is crucial for the pretzel's color and flavor.",
+    "Keep the twisted pretzels under a damp cloth to prevent them from drying out before baking.",
+    "Serve warm with mustard or butter."
+  ],
+  "equipment": ["oven", "mixing bowl", "baking sheet", "large pot"]
+}

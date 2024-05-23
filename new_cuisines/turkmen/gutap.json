@@ -1,0 +1,32 @@
+{
+  "type": "meal",
+  "cuisine_name": "Turkmen",
+  "tags": ["lunch", "snack", "vegetarian"],
+  "name": "Gutap",
+  "prep_time": 30,
+  "cook_time": 30,
+  "description": "These are savory fried pies filled with a mixture of finely chopped herbs, spinach, and sometimes an addition of eggs or cheese, making them a popular snack or light meal.",
+  "steps": [
+    "Prepare the dough by mixing flour, water, salt, and a bit of oil into a smooth, elastic dough. Let it rest.",
+    "For the filling, combine finely chopped spinach, green onions, dill, parsley, and optional cheese.",
+    "Divide the dough into small balls, roll each out thinly, place a spoonful of filling in the center, then fold and seal the edges.",
+    "Fry each pie in hot oil until golden brown on both sides.",
+    "Drain on paper towels and serve warm."
+  ],
+  "difficulty": 3,
+  "ingredients": [
+    "300 grams flour",
+    "200 grams spinach, chopped",
+    "100 grams mixed herbs (dill, parsley, green onions), chopped",
+    "50 grams cheese, grated (optional)",
+    "Water as needed",
+    "Salt to taste",
+    "Cooking oil for frying"
+  ],
+  "tips": [
+    "Keep the rolled-out dough covered with a damp cloth to prevent it from drying out while preparing the pies.",
+    "Ensure the edges are well sealed to prevent the filling from leaking out during frying.",
+    "Serve with yogurt or a garlic sauce for dipping."
+  ],
+  "equipment": ["mixing bowl", "frying pan", "rolling pin"]
+}

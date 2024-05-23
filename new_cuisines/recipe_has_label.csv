@@ -1,0 +1,132 @@
+recipe_name,recipe_cuisine_name,label_name
+Ghapama,Armenian,dinner
+Ghapama,Armenian,festive
+Ghapama,Armenian,vegetarian
+Harissa,Armenian,dinner
+Harissa,Armenian,traditional
+Harissa,Armenian,hearty
+Lahmajoun,Armenian,lunch
+Lahmajoun,Armenian,dinner
+Lahmajoun,Armenian,street food
+Beef and Broccoli,Chinese,dinner
+Beef and Broccoli,Chinese,quick
+Beef and Broccoli,Chinese,healthy
+Egg Drop Soup,Chinese,dinner
+Egg Drop Soup,Chinese,soup
+Egg Drop Soup,Chinese,light
+Kung Pao Chicken,Chinese,dinner
+Kung Pao Chicken,Chinese,spicy
+Kung Pao Chicken,Chinese,classic
+Doro Wat,Ethiopian,dinner
+Doro Wat,Ethiopian,spicy
+Doro Wat,Ethiopian,traditional
+Injera,Ethiopian,all meals
+Injera,Ethiopian,staple
+Injera,Ethiopian,fermented
+Kitfo,Ethiopian,dinner
+Kitfo,Ethiopian,traditional
+Kitfo,Ethiopian,raw
+Coq au Vin,French,dinner
+Coq au Vin,French,comfort food
+Crème Brûlée,French,dessert
+Crème Brûlée,French,rich
+French Onion Soup,French,dinner
+French Onion Soup,French,classic
+French Onion Soup,French,winter
+Black Forest Cake,German,dessert
+Black Forest Cake,German,rich
+Black Forest Cake,German,celebratory
+Pretzels,German,snack
+Pretzels,German,baked
+Pretzels,German,traditional
+Sauerbraten,German,dinner
+Sauerbraten,German,traditional
+Sauerbraten,German,hearty
+Baklava,Greek,dessert
+Baklava,Greek,party
+Greek Salad (Horiatiki),Greek,lunch
+Greek Salad (Horiatiki),Greek,dinner
+Greek Salad (Horiatiki),Greek,brunch
+Moussaka,Greek,dinner
+Chicken Biryani,Indian,dinner
+Chicken Biryani,Indian,party
+Mango Lassi,Indian,dessert
+Mango Lassi,Indian,beverage
+Mango Lassi,Indian,refreshing
+Palak Paneer,Indian,dinner
+Palak Paneer,Indian,vegetarian
+Osso Buco,Italian,dinner
+Osso Buco,Italian,comfort food
+Spaghetti Carbonara,Italian,dinner
+Spaghetti Carbonara,Italian,classic
+Tiramisu,Italian,dessert
+Tiramisu,Italian,classic
+Matcha Ice Cream,Japanese,dessert
+Matcha Ice Cream,Japanese,refreshing
+Ramen,Japanese,dinner
+Ramen,Japanese,comfort food
+Sushi Rolls (Maki Sushi),Japanese,lunch
+Sushi Rolls (Maki Sushi),Japanese,dinner
+Sushi Rolls (Maki Sushi),Japanese,snack
+Beshbarmak,Kazakh,dinner
+Beshbarmak,Kazakh,traditional
+Beshbarmak,Kazakh,hearty
+Kazy,Kazakh,lunch
+Kazy,Kazakh,traditional
+Kazy,Kazakh,specialty
+Kurt,Kazakh,snack
+Kurt,Kazakh,traditional
+Kurt,Kazakh,dairy
+Nyama Choma,Kenyan,dinner
+Nyama Choma,Kenyan,barbecue
+Nyama Choma,Kenyan,social
+Sukuma Wiki,Kenyan,dinner
+Sukuma Wiki,Kenyan,nutritious
+Sukuma Wiki,Kenyan,quick
+Ugali,Kenyan,dinner
+Ugali,Kenyan,staple
+Ugali,Kenyan,traditional
+Bibimbap,Korean,dinner
+Bibimbap,Korean,healthy
+Bibimbap,Korean,colorful
+Hoddeok,Korean,dessert
+Hoddeok,Korean,street food
+Hoddeok,Korean,sweet
+Kimchi Jjigae,Korean,dinner
+Kimchi Jjigae,Korean,comfort food
+Kimchi Jjigae,Korean,spicy
+Chiles en Nogada,Mexican,dinner
+Chiles en Nogada,Mexican,festive
+Chiles en Nogada,Mexican,traditional
+Flan,Mexican,dessert
+Flan,Mexican,classic
+Tacos al Pastor,Mexican,dinner
+Tacos al Pastor,Mexican,street food
+Tacos al Pastor,Mexican,authentic
+Baklava,Turkish,dessert
+Baklava,Turkish,rich
+Baklava,Turkish,sweet
+İskender Kebab,Turkish,dinner
+İskender Kebab,Turkish,traditional
+İskender Kebab,Turkish,hearty
+Lahmacun,Turkish,lunch
+Lahmacun,Turkish,street food
+Lahmacun,Turkish,savory
+Gutap,Turkmen,lunch
+Gutap,Turkmen,snack
+Gutap,Turkmen,vegetarian
+Palaw,Turkmen,dinner
+Palaw,Turkmen,traditional
+Palaw,Turkmen,hearty
+Shurpa,Turkmen,dinner
+Shurpa,Turkmen,comfort food
+Shurpa,Turkmen,soup
+Bara Brith,Welsh,dessert
+Bara Brith,Welsh,tea time
+Bara Brith,Welsh,fruity
+Cawl,Welsh,dinner
+Cawl,Welsh,soup
+Cawl,Welsh,hearty
+Welsh Rarebit,Welsh,dinner
+Welsh Rarebit,Welsh,comfort food
+Welsh Rarebit,Welsh,traditional

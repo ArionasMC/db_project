@@ -1,0 +1,32 @@
+{
+  "type": "meal",
+  "cuisine_name": "Chinese",
+  "tags": ["dinner", "soup", "light"],
+  "name": "Egg Drop Soup",
+  "prep_time": 5,
+  "cook_time": 10,
+  "description": "A simple, soothing Chinese soup made with beaten eggs poured into simmering chicken broth, seasoned with green onions and white pepper.",
+  "steps": [
+    "Bring chicken broth to a simmer in a pot.",
+    "Season the broth with soy sauce, salt, and white pepper.",
+    "Slowly pour beaten eggs into the simmering broth, stirring gently to form ribbons.",
+    "Garnish with chopped green onions and a few drops of sesame oil.",
+    "Serve hot."
+  ],
+  "difficulty": 1,
+  "ingredients": [
+    "4 cups chicken broth",
+    "2 eggs, beaten",
+    "2 green onions, chopped",
+    "1 tsp soy sauce",
+    "Salt to taste",
+    "White pepper to taste",
+    "Sesame oil"
+  ],
+  "tips": [
+    "Pour the eggs slowly and stir in one direction for finer egg threads.",
+    "Adjust the seasoning after adding the eggs to avoid overpowering the delicate flavor.",
+    "Serve immediately to enjoy while the egg strands are at their most tender."
+  ],
+  "equipment": ["pot", "whisk", "bowl"]
+}

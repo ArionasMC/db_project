@@ -1,0 +1,33 @@
+{
+  "type": "dessert",
+  "cuisine_name": "Korean",
+  "tags": ["dessert", "street food", "sweet"],
+  "name": "Hoddeok",
+  "prep_time": 60,
+  "cook_time": 10,
+  "description": "A popular Korean street food, these sweet pancakes are filled with a brown sugar, cinnamon, and nut mixture, typically eaten during the winter.",
+  "steps": [
+    "Prepare the dough with flour, sugar, milk, and yeast. Let it rise until doubled in size.",
+    "Mix brown sugar, chopped nuts, and cinnamon for the filling.",
+    "Divide the dough into balls, flatten them, and place a spoonful of filling in the center.",
+    "Seal the dough around the filling and flatten into a pancake shape.",
+    "Fry each pancake in a lightly oiled pan until golden brown on both sides.",
+    "Serve hot, allowing the syrupy filling to ooze out when bitten."
+  ],
+  "difficulty": 2,
+  "ingredients": [
+    "2 cups all-purpose flour",
+    "1/4 cup sugar",
+    "1/2 cup milk",
+    "1 tsp dry yeast",
+    "1 cup brown sugar",
+    "1/2 cup chopped walnuts or peanuts",
+    "1 tsp ground cinnamon"
+  ],
+  "tips": [
+    "Ensure the filling is not too close to the edges of the dough to prevent leaking.",
+    "Serve immediately for the best taste experience as the filling is deliciously gooey when hot.",
+    "Adjust the amount of sugar in the dough and filling based on your sweetness preference."
+  ],
+  "equipment": ["mixing bowl", "frying pan", "spatula"]
+}

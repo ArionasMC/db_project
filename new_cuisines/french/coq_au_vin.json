@@ -1,0 +1,36 @@
+{
+  "type": "meal",
+  "cuisine_name": "French",
+  "tags": ["dinner", "comfort food"],
+  "name": "Coq au Vin",
+  "prep_time": 20,
+  "cook_time": 120,
+  "description": "A traditional French dish of chicken cooked slowly in red wine with mushrooms, onions, and bacon.",
+  "steps": [
+    "Brown the chicken pieces in a large dutch oven.",
+    "Remove chicken and sauté onions, mushrooms, and bacon in the same pot.",
+    "Deglaze the pot with red wine and return the chicken to the pot.",
+    "Add garlic, thyme, and bay leaf. Simmer until the chicken is tender.",
+    "Thicken the sauce with a butter-flour mixture before serving."
+  ],
+  "difficulty": 3,
+  "ingredients": [
+    "1 whole chicken, cut into pieces",
+    "500 ml red wine",
+    "200 grams bacon, chopped",
+    "250 grams mushrooms, quartered",
+    "2 onions, chopped",
+    "2 cloves garlic, minced",
+    "3 tbsp butter",
+    "2 tbsp flour",
+    "1 tsp dried thyme",
+    "2 bay leaves",
+    "Salt and pepper to taste"
+  ],
+  "tips": [
+    "Marinate the chicken in wine overnight for deeper flavor.",
+    "Serve with mashed potatoes or crusty bread to soak up the sauce.",
+    "Adjust the thickness of the sauce at the end by adding more flour if needed."
+  ],
+  "equipment": ["dutch oven", "knife", "cutting board", "wooden spoon"]
+}

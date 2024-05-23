@@ -1,0 +1,28 @@
+{
+  "type": "meal",
+  "cuisine_name": "Kenyan",
+  "tags": ["dinner", "staple", "traditional"],
+  "name": "Ugali",
+  "prep_time": 5,
+  "cook_time": 15,
+  "description": "A staple dish in Kenyan cuisine, Ugali is a simple cornmeal porridge, firm enough to be eaten by hand and used to scoop up meat, vegetables, or sauces.",
+  "steps": [
+    "Bring water to a boil in a large pot.",
+    "Slowly pour the cornmeal into the boiling water, stirring continuously with a wooden spoon.",
+    "Continue to cook and stir until the mixture thickens and pulls away from the sides of the pot.",
+    "Turn out the Ugali onto a plate and mold into a round shape.",
+    "Serve hot with a stew or vegetables."
+  ],
+  "difficulty": 1,
+  "ingredients": [
+    "2 cups white cornmeal (finely ground)",
+    "4 cups water",
+    "Salt to taste"
+  ],
+  "tips": [
+    "Keep stirring the Ugali as it cooks to prevent lumps.",
+    "Adding a little butter or oil can give a richer flavor.",
+    "Serve with Sukuma Wiki or any meaty stew."
+  ],
+  "equipment": ["large pot", "wooden spoon", "serving plate"]
+}

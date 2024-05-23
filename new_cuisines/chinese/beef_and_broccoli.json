@@ -1,0 +1,36 @@
+{
+  "type": "meal",
+  "cuisine_name": "Chinese",
+  "tags": ["dinner", "quick", "healthy"],
+  "name": "Beef and Broccoli",
+  "prep_time": 10,
+  "cook_time": 10,
+  "description": "A classic Chinese stir-fry dish featuring tender slices of beef and fresh broccoli in a rich, garlicky sauce.",
+  "steps": [
+    "Blanch broccoli florets in boiling water for 2 minutes, then drain.",
+    "Marinate beef slices in a mixture of soy sauce, cornstarch, and a little oil.",
+    "Heat oil in a wok, add minced garlic, and stir-fry briefly until fragrant.",
+    "Add the marinated beef and stir-fry until it starts to brown.",
+    "Add broccoli and stir-fry for another 2 minutes.",
+    "Pour in a mixture of beef stock, oyster sauce, and a splash of soy sauce, and cook until the sauce thickens.",
+    "Serve hot."
+  ],
+  "difficulty": 2,
+  "ingredients": [
+    "300 grams beef, thinly sliced",
+    "400 grams broccoli florets",
+    "2 cloves garlic, minced",
+    "3 tbsp soy sauce (for marinade)",
+    "1 tbsp cornstarch (for marinade)",
+    "1/2 cup beef stock",
+    "2 tbsp oyster sauce",
+    "Soy sauce to taste",
+    "Cooking oil"
+  ],
+  "tips": [
+    "Slice the beef against the grain for more tenderness.",
+    "Make sure the wok is very hot before adding the beef to ensure it sears properly.",
+    "Adjust the thickness of the sauce with more or less beef stock or cornstarch."
+  ],
+  "equipment": ["wok", "knife", "cutting board", "large pot"]
+}

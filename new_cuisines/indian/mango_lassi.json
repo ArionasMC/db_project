@@ -1,0 +1,29 @@
+{
+  "type": "dessert",
+  "cuisine_name": "Indian",
+  "tags": ["dessert", "beverage", "refreshing"],
+  "name": "Mango Lassi",
+  "prep_time": 10,
+  "cook_time": 0,
+  "description": "A refreshing yogurt-based mango drink, blended with milk, sugar, and a touch of cardamom.",
+  "steps": [
+    "Peel and chop fresh mangoes.",
+    "Blend mangoes with yogurt, milk, sugar, and cardamom until smooth.",
+    "Chill in the refrigerator for at least one hour.",
+    "Serve cold garnished with a sprinkle of cardamom powder or mint leaves."
+  ],
+  "difficulty": 1,
+  "ingredients": [
+    "2 ripe mangoes",
+    "200 grams yogurt",
+    "100 ml milk",
+    "2 tbsp sugar",
+    "1/4 tsp cardamom powder"
+  ],
+  "tips": [
+    "Use ripe, sweet mangoes for the best flavor.",
+    "Adjust the sugar according to the sweetness of the mangoes.",
+    "For a vegan version, use plant-based yogurt and milk."
+  ],
+  "equipment": ["blender", "knife", "cutting board", "refrigerator"]
+}

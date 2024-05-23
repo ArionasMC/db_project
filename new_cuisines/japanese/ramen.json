@@ -1,0 +1,37 @@
+{
+  "type": "meal",
+  "cuisine_name": "Japanese",
+  "tags": ["dinner", "comfort food"],
+  "name": "Ramen",
+  "prep_time": 15,
+  "cook_time": 45,
+  "description": "A popular Japanese noodle soup with a rich, savory broth, typically topped with slices of pork, boiled eggs, green onions, and bamboo shoots.",
+  "steps": [
+    "Prepare the broth by simmering chicken or pork bones with onions, garlic, and ginger.",
+    "Strain the broth and season with soy sauce, miso, or salt.",
+    "Cook ramen noodles separately until just tender.",
+    "In bowls, arrange cooked noodles, then pour hot broth over them.",
+    "Top with slices of pork belly, soft-boiled eggs, green onions, and bamboo shoots."
+  ],
+  "difficulty": 3,
+  "ingredients": [
+    "400 grams ramen noodles",
+    "1 liter broth (chicken or pork)",
+    "200 grams sliced pork belly",
+    "2 soft-boiled eggs",
+    "50 grams bamboo shoots",
+    "2 green onions, chopped",
+    "1 tbsp soy sauce",
+    "1 tbsp miso paste",
+    "1 onion, quartered",
+    "2 cloves garlic",
+    "1 piece ginger",
+    "Salt to taste"
+  ],
+  "tips": [
+    "For a richer flavor, simmer the broth for several hours.",
+    "Add a drop of sesame oil to each bowl before serving for added aroma.",
+    "Customize toppings according to preference, such as adding corn or butter."
+  ],
+  "equipment": ["large pot", "strainer", "bowls"]
+}

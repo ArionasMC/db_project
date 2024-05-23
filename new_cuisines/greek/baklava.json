@@ -1,0 +1,33 @@
+{
+  "type": "dessert",
+  "cuisine_name": "Greek",
+  "tags": ["dessert", "party"],
+  "name": "Baklava",
+  "prep_time": 20,
+  "cook_time": 50,
+  "description": "A sweet dessert pastry made of layers of filo filled with chopped nuts, sweetened with syrup or honey.",
+  "steps": [
+    "Preheat oven and grease the baking dish.",
+    "Layer the filo dough with melted butter and chopped nuts.",
+    "Cut into diamond shapes before baking.",
+    "Bake until golden and crisp.",
+    "Pour cooled syrup over the hot baklava immediately after baking."
+  ],
+  "difficulty": 3,
+  "ingredients": [
+    "1 package filo dough",
+    "300 grams mixed nuts (walnuts, pistachios, almonds), chopped",
+    "200 grams butter, melted",
+    "1 cup sugar",
+    "1 cup water",
+    "1/2 cup honey",
+    "1 tsp cinnamon",
+    "1 tsp ground clove"
+  ],
+  "tips": [
+    "Keep the filo dough covered with a damp cloth to prevent drying out.",
+    "Cut the baklava before baking to make serving easier.",
+    "Allow the baklava to cool completely to absorb the syrup properly."
+  ],
+  "equipment": ["oven", "baking dish", "saucepan", "knife", "pastry brush"]
+}

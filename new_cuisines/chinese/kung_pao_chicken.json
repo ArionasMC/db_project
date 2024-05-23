@@ -1,0 +1,38 @@
+{
+  "type": "meal",
+  "cuisine_name": "Chinese",
+  "tags": ["dinner", "spicy", "classic"],
+  "name": "Kung Pao Chicken",
+  "prep_time": 15,
+  "cook_time": 15,
+  "description": "A popular Sichuan dish featuring diced chicken, peanuts, and vegetables, stir-fried in a spicy, sweet, and savory sauce.",
+  "steps": [
+    "Marinate chicken pieces in soy sauce and cornstarch.",
+    "Heat oil in a wok and fry dried chilies until just beginning to blacken.",
+    "Add chicken to the wok and stir-fry until it turns white.",
+    "Add chopped bell peppers and scallions, stir-fry for a few minutes.",
+    "Pour in the sauce mixture of soy sauce, vinegar, sugar, and water, and cook until thickened.",
+    "Stir in roasted peanuts and serve."
+  ],
+  "difficulty": 3,
+  "ingredients": [
+    "500 grams chicken breast, cubed",
+    "1 cup peanuts, roasted",
+    "2 bell peppers, diced",
+    "6 scallions, chopped",
+    "8 dried chilies",
+    "2 tbsp soy sauce (for marinade)",
+    "1 tbsp cornstarch (for marinade)",
+    "3 tbsp soy sauce (for sauce)",
+    "2 tbsp vinegar",
+    "1 tbsp sugar",
+    "1/2 cup water",
+    "Cooking oil"
+  ],
+  "tips": [
+    "Marinate the chicken for at least 30 minutes for best flavor.",
+    "Adjust the amount of dried chilies to suit your spice tolerance.",
+    "Serve with steamed rice to balance the bold flavors."
+  ],
+  "equipment": ["wok", "mixing bowl", "spatula"]
+}

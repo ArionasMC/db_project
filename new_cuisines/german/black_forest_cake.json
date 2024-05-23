@@ -1,0 +1,34 @@
+{
+  "type": "dessert",
+  "cuisine_name": "German",
+  "tags": ["dessert", "rich", "celebratory"],
+  "name": "Black Forest Cake",
+  "prep_time": 60,
+  "cook_time": 30,
+  "description": "A famous German dessert consisting of several layers of chocolate sponge cake sandwiched with whipped cream and cherries. It is decorated with additional whipped cream, chocolate shavings, and cherries.",
+  "steps": [
+    "Bake chocolate sponge cakes and let them cool.",
+    "Cut the cakes into layers and sprinkle each with cherry schnapps.",
+    "Whip cream with sugar and vanilla until stiff peaks form.",
+    "Assemble the cake by alternating layers of cake with whipped cream and cherries.",
+    "Decorate the top with whipped cream, chocolate shavings, and whole cherries.",
+    "Chill before serving."
+  ],
+  "difficulty": 3,
+  "ingredients": [
+    "3 layers of chocolate sponge cake",
+    "500 ml heavy cream",
+    "50 grams sugar",
+    "1 tsp vanilla extract",
+    "200 grams cherries, pitted and halved",
+    "50 ml cherry schnapps",
+    "Chocolate shavings for decoration",
+    "Whole cherries for topping"
+  ],
+  "tips": [
+    "Ensure the sponge cake is completely cool before cutting to prevent crumbling.",
+    "Chill the bowl and beaters before whipping the cream for best results.",
+    "Allow the cake to set in the refrigerator for a few hours to make slicing easier."
+  ],
+  "equipment": ["oven", "mixing bowls", "cake pans", "whisk", "knife"]
+}

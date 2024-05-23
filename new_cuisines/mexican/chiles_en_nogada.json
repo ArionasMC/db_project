@@ -1,0 +1,39 @@
+{
+  "type": "meal",
+  "cuisine_name": "Mexican",
+  "tags": ["dinner", "festive", "traditional"],
+  "name": "Chiles en Nogada",
+  "prep_time": 45,
+  "cook_time": 30,
+  "description": "A renowned Mexican dish featuring poblano chiles stuffed with picadillo (a mixture of meat, fruits, and spices), topped with a walnut-based cream sauce and pomegranate seeds.",
+  "steps": [
+    "Roast poblano peppers, peel off the skin, and remove seeds.",
+    "Prepare the picadillo by cooking ground meat with tomatoes, apples, pears, and peaches.",
+    "Stuff the roasted chiles with the picadillo.",
+    "Prepare a sauce by blending walnuts with milk, sugar, and sherry until smooth.",
+    "Cover the stuffed chiles with the walnut cream sauce.",
+    "Garnish with pomegranate seeds and parsley before serving."
+  ],
+  "difficulty": 5,
+  "ingredients": [
+    "6 poblano chiles",
+    "500 grams ground pork",
+    "2 tomatoes, chopped",
+    "1 apple, diced",
+    "1 pear, diced",
+    "1 peach, diced",
+    "100 grams walnuts",
+    "250 ml milk",
+    "50 grams sugar",
+    "2 tbsp sherry",
+    "Pomegranate seeds",
+    "Fresh parsley, chopped",
+    "Salt to taste"
+  ],
+  "tips": [
+    "Char the poblano peppers evenly for easy peeling.",
+    "Cool the picadillo before stuffing to prevent tearing the chiles.",
+    "The dish can be served at room temperature, enhancing its flavors."
+  ],
+  "equipment": ["oven or grill for roasting peppers", "blender", "skillet", "knife", "cutting board"]
+}

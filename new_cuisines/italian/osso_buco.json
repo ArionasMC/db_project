@@ -1,0 +1,37 @@
+{
+  "type": "meal",
+  "cuisine_name": "Italian",
+  "tags": ["dinner", "comfort food"],
+  "name": "Osso Buco",
+  "prep_time": 20,
+  "cook_time": 120,
+  "description": "A Milanese specialty of braised veal shanks, cooked slowly with vegetables, white wine, and broth, garnished with gremolata.",
+  "steps": [
+    "Season veal shanks with salt and pepper and dredge in flour.",
+    "Brown the veal shanks in a heavy pot with some olive oil.",
+    "Remove shanks and sauté onions, carrots, and celery until softened.",
+    "Deglaze the pot with white wine, then return the shanks to the pot.",
+    "Add broth until the shanks are nearly covered, bring to a boil, then reduce to a simmer.",
+    "Cover and cook slowly until the meat is tender, about 2 hours.",
+    "Serve with gremolata on top."
+  ],
+  "difficulty": 4,
+  "ingredients": [
+    "4 veal shanks",
+    "1 onion, chopped",
+    "2 carrots, chopped",
+    "2 celery stalks, chopped",
+    "500 ml beef broth",
+    "200 ml white wine",
+    "50 grams flour",
+    "Olive oil",
+    "Salt",
+    "Pepper"
+  ],
+  "tips": [
+    "Ensure the shanks are not crowded in the pot for even browning.",
+    "Can be made ahead and tastes even better the next day.",
+    "Serve with risotto or polenta to soak up the sauce."
+  ],
+  "equipment": ["heavy pot", "stove"]
+}

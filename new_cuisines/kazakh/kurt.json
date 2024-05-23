@@ -1,0 +1,27 @@
+{
+  "type": "meal",
+  "cuisine_name": "Kazakh",
+  "tags": ["snack", "traditional", "dairy"],
+  "name": "Kurt",
+  "prep_time": 30,
+  "cook_time": 0,
+  "description": "A traditional Kazakh snack made from dried cheese curd, formed into balls and left to harden, noted for its salty and sour taste. It's a popular snack among nomadic cultures due to its long shelf life.",
+  "steps": [
+    "Drain the whey from sour milk or yogurt completely.",
+    "Mix the curd with salt and press any remaining liquid out.",
+    "Form the curd into small balls and cover them in cloth.",
+    "Leave the balls to dry in a cool, ventilated area until hard.",
+    "Store in a dry place until ready to consume."
+  ],
+  "difficulty": 2,
+  "ingredients": [
+    "1 kg sour milk or yogurt",
+    "1 tbsp salt"
+  ],
+  "tips": [
+    "The longer the kurt dries, the harder and more flavorful it becomes.",
+    "Kurt is very versatile and can be used in soups or eaten as a snack.",
+    "If the climate is humid, kurt may need to be dried indoors in a well-ventilated area."
+  ],
+  "equipment": ["cheesecloth", "strainer", "bowl"]
+}
