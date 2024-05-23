@@ -9,6 +9,8 @@ data/aftermath/__meal.csv
 !*.sql
 !*.mwb
 !*.ipynb
+!er_diagram.png
+!er_diagram.drawio
 !app/*.csv
 !app/*.ipynb
 !app/*.json
