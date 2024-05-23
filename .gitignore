@@ -8,6 +8,7 @@ data/aftermath/__meal.csv
 !*.md
 !*.sql
 !*.mwb
+!*.ipynb
 !app/*.csv
 !app/*.ipynb
 !app/*.json
