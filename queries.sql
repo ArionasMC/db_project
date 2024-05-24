@@ -119,18 +119,14 @@ SELECT c.id, count(*) as appearances
         GROUP BY ehr.episode_year;
 	
     -- 3.10 (;)
-    SELECT DISTINCT c.name, count(*) as appearances
-	FROM cuisine c 
-		INNER JOIN recipe r ON r.cuisine_name = c.name
-        INNER JOIN episode_has_recipe ehr ON ehr.recipe_cuisine_name = r.cuisine_name
-	GROUP BY c.name, ehr.episode_year
-    HAVING appearances = ANY (
-		SELECT count(*) as appearance
-			FROM cuisine c2 
-				INNER JOIN recipe r2 ON r2.cuisine_name = c2.name
-				INNER JOIN episode_has_recipe ehr2 ON ehr2.recipe_cuisine_name = r2.cuisine_name
-			GROUP BY c2.name, ehr2.episode_year
-            HAVING (c2.name <> c.name) AND (ehr2.episode_year = ehr.episode_year + 1 OR ehr2.episode_year = ehr.episode_year - 1)
+    SELECT DISTINCT ehr1.recipe_cuisine_name, count(*) as appearances
+		FROM episode_has_recipe ehr1
+		GROUP BY ehr1.recipe_cuisine_name, ehr1.episode_year
+		HAVING appearances = ANY (
+			SELECT count(*) as appearance
+				FROM episode_has_recipe ehr2 
+				GROUP BY ehr2.recipe_cuisine_name, ehr2.episode_year
+				HAVING (ehr2.recipe_cuisine_name <> ehr1.recipe_cuisine_name) AND (ehr2.episode_year = ehr1.episode_year + 1 OR ehr2.episode_year = ehr1.episode_year - 1)
         ) AND appearances >= 3;
         
 	-- 3.11
@@ -158,12 +154,21 @@ SELECT c.id, count(*) as appearances
         limit 1;
 
     -- 3.13
-    SELECT e.id, e.year, SUM(CAST(c.rank AS UNSIGNED)) as episode_rank
-	FROM episode e
-		INNER JOIN episode_has_recipe ehr ON (ehr.episode_id = e.id AND ehr.episode_year = e.year)
-		INNER JOIN chef c ON c.id = ehr.chef_id
-	GROUP BY e.id, e.year
-    ORDER BY episode_rank
+SELECT s1.episode_id, s1.episode_year, (s1.episode_chef_rank + s2.episode_judge_rank) as episode_rank
+	FROM (
+		SELECT ehr.episode_id, ehr.episode_year, SUM(CAST(c.crank AS UNSIGNED)) as episode_chef_rank
+			FROM episode_has_recipe ehr 
+				INNER JOIN chef c ON c.id = ehr.chef_id
+			GROUP BY ehr.episode_id, ehr.episode_year
+    ) s1 
+		INNER JOIN (
+			SELECT ej.episode_id, ej.episode_year, SUM(CAST(c.crank AS UNSIGNED)) as episode_judge_rank
+				FROM episode_judges ej
+					INNER JOIN chef c ON c.id = ej.chef_id
+				GROUP BY ej.episode_id, ej.episode_year
+        ) s2
+        ON (s1.episode_id = s2.episode_id AND s1.episode_year = s2.episode_year)
+	ORDER BY episode_rank
     limit 1;
     
     -- 3.14
@@ -187,5 +192,4 @@ SELECT c.id, count(*) as appearances
 				INNER JOIN recipe r ON (r.name = rhi.recipe_name AND r.cuisine_name = rhi.recipe_cuisine_name)
                 INNER JOIN episode_has_recipe ehr ON (ehr.recipe_name = r.name AND ehr.recipe_cuisine_name = r.cuisine_name)
 		);
-    
 
