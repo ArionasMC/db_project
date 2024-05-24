@@ -1,41 +1,89 @@
 "type","difficulty","name","description","prep_time_m","cook_time_m","cuisine_name","ingredient_name","portions","image_id"
-"Cooking",3,"Tavë Kosi","A traditional Albanian dish of baked lamb and rice, topped with a yogurt and egg mixture.",20,60,"Greek","lamb",1,0
-"Pastry",4,"Bakllasarem","A sweet pastry filled with a mixture of walnuts, sugar, and cinnamon, similar to baklava.",30,45,"French","phyllo dough",1,0
-"Cooking",2,"Fërgesë","A hearty dish of peppers, tomatoes, and cottage cheese, often served as a warm side dish or main course.",15,30,"Indian","red bell pepper",1,0
-"Cooking",3,"Speca të mbushur","Bell peppers stuffed with rice, herbs, and seafood, baked until tender.",20,40,"Italian","red bell pepper",1,0
-"Cooking",3,"Byrek me Spinaq","A savory pie made with phyllo dough, filled with spinach and feta cheese.",20,30,"Japanese","phyllo dough",1,0
-"Cooking",2,"Jani me fasule","A traditional bean stew slowly cooked with onions, tomatoes, and spices.",15,120,"Chinese","white bean",1,0
-"Pastry",3,"Shëndetli","A walnut cake soaked in syrup, often served during special occasions and holidays.",20,30,"Mexican","walnuts",1,0
-"Cooking",2,"Qifqi","Rice balls seasoned with mint and fried until crispy, a popular dish from Gjirokastër.",15,10,"German","rice",1,0
-"Cooking",1,"Përime në zgare","A variety of grilled vegetables, typically seasoned with olive oil, salt, and herbs.",10,15,"Korean","zucchini",1,0
-"Cooking",2,"Mish me midhje","A seafood dish featuring sautéed mussels with garlic, wine, and fresh herbs, often served over pasta or with crusty bread.",15,30,"Turkish","mussels",1,0
-"Cooking",2,"Cheeseburger","A classic American cheeseburger with a juicy beef patty, topped with cheddar cheese, lettuce, tomato, onions, and pickles, served on a toasted bun.",10,10,"Albanian","ground beef",1,0
+"Cooking",2,"Ghapama","A traditional festive dish involving a pumpkin stuffed with rice, dried fruits, nuts, and honey, then baked until the pumpkin is tender.",20,60,"Armenian","pumpkin",1,0
+"Cooking",4,"Harissa","A thick porridge made from khorasan wheat (similar to wheat berries) and chicken, traditionally cooked slowly to a creamy consistency, often served with melted butter and cinnamon.",30,240,"Armenian","chicken",1,0
+"Cooking",3,"Lahmajoun","A thin, crispy flatbread topped with a spicy mixture of minced meat, tomatoes, bell peppers, and herbs.",30,5,"Armenian","ground lamb",1,0
+"Cooking",2,"Beef and Broccoli","A classic Chinese stir-fry dish featuring tender slices of beef and fresh broccoli in a rich, garlicky sauce.",10,10,"Chinese","beef",1,0
+"Cooking",1,"Egg Drop Soup","A simple, soothing Chinese soup made with beaten eggs poured into simmering chicken broth, seasoned with green onions and white pepper.",5,10,"Chinese","chicken or vegetable stock",1,0
+"Cooking",3,"Kung Pao Chicken","A popular Sichuan dish featuring diced chicken, peanuts, and vegetables, stir-fried in a spicy, sweet, and savory sauce.",15,15,"Chinese","chicken breast",1,0
+"Cooking",3,"Doro Wat","A popular and spicy Ethiopian chicken stew, Doro Wat is known for its deep, fiery red color due to a generous amount of berbere spice. It's traditionally served with injera (Ethiopian sourdough flatbread) and hard-boiled eggs.",30,120,"Ethiopian","chicken",1,0
+"Cooking",3,"Injera","A staple of Ethiopian cuisine, injera is a sourdough-risen flatbread with a unique, slightly spongy texture. Traditionally made from teff flour, it is used as a plate and utensil to scoop up stews and salads.",1440,5,"Ethiopian","teff",1,0
+"Cooking",2,"Kitfo","A traditional Ethiopian dish of minced raw beef seasoned with mitmita (a spicy chili powder) and niter kibbeh (clarified butter infused with herbs and spices). Often served with injera and sometimes with a mild cheese called ayib.",20,0,"Ethiopian","beef tenderloin",1,0
+"Cooking",3,"Coq au Vin","A traditional French dish of chicken cooked slowly in red wine with mushrooms, onions, and bacon.",20,120,"French","chicken",1,0
+"Pastry",3,"Crème Brûlée","A rich custard base topped with a contrasting layer of hard caramel, achieved by torching a layer of sugar on top.",15,40,"French","heavy whipping cream",1,0
+"Cooking",2,"French Onion Soup","A classic French soup made with caramelized onions and beef broth, typically served with a cheese-topped toasted baguette slice.",15,45,"French","onions",1,0
+"Pastry",3,"Black Forest Cake","A famous German dessert consisting of several layers of chocolate sponge cake sandwiched with whipped cream and cherries. It is decorated with additional whipped cream, chocolate shavings, and cherries.",60,30,"German","sponge cake",1,0
+"Cooking",2,"Pretzels","Iconic German twisted bread, known for its distinctive knot-like shape, crispy crust, and soft, chewy texture. Pretzels are typically sprinkled with coarse salt.",30,15,"German","unbleached flour",1,0
+"Cooking",4,"Sauerbraten","A traditional German pot roast, usually of beef (or sometimes pork, lamb, or mutton), marinated before slow-cooking as pot roast. The meat is tenderized and imbued with a complex sour-sweet flavor from the marinade, containing vinegar, wine, and spices.",1440,180,"German","beef roast",1,0
+"Pastry",3,"Baklava","A sweet dessert pastry made of layers of filo filled with chopped nuts, sweetened with syrup or honey.",20,50,"Greek","phyllo dough",1,0
+"Cooking",1,"Greek Salad (Horiatiki)","A traditional Greek salad made with fresh vegetables, Kalamata olives, and feta cheese, dressed with olive oil.",15,0,"Greek","cucumber",1,0
+"Cooking",4,"Moussaka","A rich, layered eggplant and meat casserole, topped with a creamy béchamel sauce.",30,60,"Greek","eggplant",1,0
+"Cooking",4,"Chicken Biryani","A flavorful rice dish made with basmati rice, chicken marinated in spices, and cooked with saffron and herbs.",30,60,"Indian","chicken",1,0
+"Pastry",1,"Mango Lassi","A refreshing yogurt-based mango drink, blended with milk, sugar, and a touch of cardamom.",10,0,"Indian","mangos",1,0
+"Cooking",2,"Palak Paneer","A smooth spinach curry served with paneer, seasoned with garam masala and other spices.",20,30,"Indian","spinach",1,0
+"Cooking",4,"Osso Buco","A Milanese specialty of braised veal shanks, cooked slowly with vegetables, white wine, and broth, garnished with gremolata.",20,120,"Italian","veal shank",1,0
+"Cooking",2,"Spaghetti Carbonara","A classic Roman pasta dish made with eggs, cheese, pancetta, and pepper, known for its creamy texture without the use of cream.",10,20,"Italian","pasta",1,0
+"Pastry",2,"Tiramisu","A popular coffee-flavored dessert made from layers of ladyfingers dipped in coffee, mascarpone cheese, and dusted with cocoa powder.",30,0,"Italian","egg yolk",1,0
+"Pastry",2,"Matcha Ice Cream","A creamy, sweet ice cream flavored with matcha green tea powder, offering a unique and refreshing taste.",15,0,"Japanese","heavy whipping cream",1,0
+"Cooking",3,"Ramen","A popular Japanese noodle soup with a rich, savory broth, typically topped with slices of pork, boiled eggs, green onions, and bamboo shoots.",15,45,"Japanese","ramen noodle",1,0
+"Cooking",3,"Sushi Rolls (Maki Sushi)","Traditional Japanese sushi rolls consisting of sushi rice, seaweed (nori), and various fillings such as fish, vegetables, or avocado.",30,20,"Japanese","rice",1,0
+"Cooking",4,"Beshbarmak","Kazakhstan’s national dish, beshbarmak means 'five fingers,' referring to the traditional way of eating this dish by hand. It consists of boiled meat (usually horse or lamb), served over homemade pasta and topped with a meat broth called shorpa.",60,180,"Kazakh","beef",1,0
+"Cooking",4,"Kazy","A traditional Kazakh sausage made from horse meat and fat, seasoned with garlic and spices, and typically smoked or boiled.",120,90,"Kazakh","ribs",1,0
+"Cooking",2,"Kurt","A traditional Kazakh snack made from dried cheese curd, formed into balls and left to harden, noted for its salty and sour taste. It's a popular snack among nomadic cultures due to its long shelf life.",30,0,"Kazakh","whole milk",1,0
+"Cooking",2,"Nyama Choma","Nyama Choma, which means 'grilled meat' in Swahili, is a beloved Kenyan barbecue dish typically made with goat meat, though beef or chicken can also be used. It is often enjoyed at social gatherings and served with kachumbari and Ugali.",30,60,"Kenyan","goat",1,0
+"Cooking",1,"Sukuma Wiki","Sukuma Wiki, meaning 'to push the week,' is a nutritious and economical Kenyan dish made with collard greens, often cooked with onions and spices, and is a perfect complement to Ugali.",10,20,"Kenyan","collard greens",1,0
+"Cooking",1,"Ugali","A staple dish in Kenyan cuisine, Ugali is a simple cornmeal porridge, firm enough to be eaten by hand and used to scoop up meat, vegetables, or sauces.",5,15,"Kenyan","cornmeal",1,0
+"Cooking",3,"Bibimbap","A popular Korean dish that means 'mixed rice.' It's served as a bowl of warm white rice topped with sautéed and seasoned vegetables, chili pepper paste (gochujang), a fried egg, and sliced meat (usually beef).",30,20,"Korean","rice",1,0
+"Pastry",2,"Hoddeok","A popular Korean street food, these sweet pancakes are filled with a brown sugar, cinnamon, and nut mixture, typically eaten during the winter.",60,10,"Korean","unbleached flour",1,0
+"Cooking",2,"Kimchi Jjigae","A hearty, spicy stew made with kimchi, tofu, pork (or seafood), and various seasonings, typically served boiling hot.",15,25,"Korean","kimchi",1,0
+"Cooking",5,"Chiles en Nogada","A renowned Mexican dish featuring poblano chiles stuffed with picadillo (a mixture of meat, fruits, and spices), topped with a walnut-based cream sauce and pomegranate seeds.",45,30,"Mexican","red chili",1,0
+"Pastry",3,"Flan","A creamy caramel-topped custard dessert, known for its rich texture and vanilla flavor, a staple in Mexican cuisine.",15,45,"Mexican","sugar",1,0
+"Cooking",4,"Tacos al Pastor","A popular Mexican street food featuring marinated pork cooked on a vertical spit, served on small tortillas with pineapple, onions, and cilantro.",30,90,"Mexican","pork shoulder",1,0
+"Pastry",3,"Baklava","A rich, sweet pastry made of layers of filo filled with chopped nuts and sweetened with syrup or honey.",30,50,"Turkish","phyllo dough",1,0
+"Cooking",3,"İskender Kebab","A famous Turkish dish consisting of thinly cut grilled lamb basted with hot tomato sauce over pieces of pita bread and generously slathered with melted sheep butter and yogurt.",20,10,"Turkish","lamb",1,0
+"Cooking",2,"Lahmacun","Often dubbed 'Turkish Pizza,' Lahmacun is a round, thin piece of dough topped with minced meat (most commonly beef or lamb), vegetables, herbs, and spices, baked until crispy.",30,5,"Turkish","beef",1,0
+"Cooking",3,"Gutap","These are savory fried pies filled with a mixture of finely chopped herbs, spinach, and sometimes an addition of eggs or cheese, making them a popular snack or light meal.",30,30,"Turkmen","flour",1,0
+"Cooking",3,"Palaw","A central dish in Turkmen cuisine, Palaw (or pilaf) is a rice dish cooked with pieces of meat, usually lamb, carrots, onions, and a generous amount of Turkmen saffron.",20,60,"Turkmen","lamb",1,0
+"Cooking",2,"Shurpa","A hearty and warming soup traditionally made with lamb and a variety of root vegetables, enriched with fresh herbs and spices, making it a staple during Turkmen winters.",15,120,"Turkmen","lamb",1,0
+"Pastry",2,"Bara Brith","A traditional Welsh tea bread, Bara Brith translates to 'speckled bread' due to the rich mixture of dried fruits and spices within. It is customarily served sliced and buttered.",15,90,"Welsh","dried peach",1,0
+"Cooking",2,"Cawl","Cawl is a hearty Welsh stew made of lamb and root vegetables, embodying a rich mix of local produce and traditional cooking. It's a comforting dish, especially popular during colder months.",20,180,"Welsh","lamb shoulder",1,0
+"Cooking",2,"Welsh Rarebit","A savory dish made from a deliciously rich cheese sauce, typically served hot over toasted bread. This classic Welsh dish is often enhanced with beer, mustard, and Worcestershire sauce for added flavor.",10,10,"Welsh","butter",1,0
+"Cooking",3,"Tavë Kosi","A traditional Albanian dish of baked lamb and rice, topped with a yogurt and egg mixture.",20,60,"Albanian","lamb",1,0
+"Pastry",4,"Bakllasarem","A sweet pastry filled with a mixture of walnuts, sugar, and cinnamon, similar to baklava.",30,45,"Albanian","phyllo dough",1,0
+"Cooking",2,"Fërgesë","A hearty dish of peppers, tomatoes, and cottage cheese, often served as a warm side dish or main course.",15,30,"Albanian","red bell pepper",1,0
+"Cooking",3,"Speca të mbushur","Bell peppers stuffed with rice, herbs, and seafood, baked until tender.",20,40,"Albanian","red bell pepper",1,0
+"Cooking",3,"Byrek me Spinaq","A savory pie made with phyllo dough, filled with spinach and feta cheese.",20,30,"Albanian","phyllo dough",1,0
+"Cooking",2,"Jani me fasule","A traditional bean stew slowly cooked with onions, tomatoes, and spices.",15,120,"Albanian","white bean",1,0
+"Pastry",3,"Shëndetli","A walnut cake soaked in syrup, often served during special occasions and holidays.",20,30,"Albanian","walnuts",1,0
+"Cooking",2,"Qifqi","Rice balls seasoned with mint and fried until crispy, a popular dish from Gjirokastër.",15,10,"Albanian","rice",1,0
+"Cooking",1,"Përime në zgare","A variety of grilled vegetables, typically seasoned with olive oil, salt, and herbs.",10,15,"Albanian","zucchini",1,0
+"Cooking",2,"Mish me midhje","A seafood dish featuring sautéed mussels with garlic, wine, and fresh herbs, often served over pasta or with crusty bread.",15,30,"Albanian","mussels",1,0
+"Cooking",2,"Cheeseburger","A classic American cheeseburger with a juicy beef patty, topped with cheddar cheese, lettuce, tomato, onions, and pickles, served on a toasted bun.",10,10,"American","ground beef",1,0
 "Pastry",3,"Apple Pie","A traditional American dessert, this apple pie features a flaky pastry crust filled with sweet and spicy cinnamon apple filling.",30,45,"American","unbleached flour",1,0
-"Cooking",2,"Fried Chicken","Crispy fried chicken, seasoned with a blend of spices and fried to a perfect golden brown.",20,20,"Bulgarian","chicken",1,0
-"Cooking",2,"Macaroni and Cheese","A creamy, cheesy macaroni and cheese dish, baked until bubbly and golden.",10,20,"Russian","pasta",1,0
-"Cooking",3,"Barbecue Ribs","Slow-cooked pork ribs slathered in barbecue sauce, grilled until tender and caramelized.",15,180,"Greek","ribs",1,0
-"Cooking",1,"Pancakes","Fluffy American pancakes, served hot with butter and maple syrup.",10,15,"French","unbleached flour",1,0
-"Pastry",2,"Chocolate Chip Cookies","Classic soft and chewy chocolate chip cookies, loaded with chocolate chips and baked to perfection.",15,10,"Indian","unbleached flour",1,0
-"Cooking",1,"BLT Sandwich","A simple but delicious sandwich with bacon, lettuce, and tomato, served on toasted bread with mayonnaise.",5,10,"Italian","bacon",1,0
-"Cooking",3,"Clam Chowder","A creamy New England clam chowder, rich with clams, potatoes, onions, and celery, thickened with cream and served with oyster crackers.",20,45,"Japanese","bacon",1,0
-"Pastry",2,"Brownies","Rich, fudgy chocolate brownies with a moist center and crispy edges, filled with chunks of chocolate.",10,25,"Chinese","butter",1,0
-"Cooking",1,"Shopska Salata","A traditional Bulgarian salad made from tomatoes, cucumbers, onions, and topped with a generous amount of sirene cheese.",15,0,"Mexican","tomato",1,0
-"Cooking",3,"Kavarma","A hearty Bulgarian stew made with meat (typically pork or chicken), onions, mushrooms, and peppers, seasoned with paprika and herbs.",20,60,"German","pork",1,0
-"Cooking",3,"Banitsa","A traditional Bulgarian pastry made from layers of phyllo dough filled with eggs and cheese.",20,40,"Korean","phyllo dough",1,0
-"Cooking",2,"Mekitsa","A traditional Bulgarian breakfast, mekitsa is a deep-fried dough pastry, served with powdered sugar, honey, or jam.",30,15,"Turkish","flour",1,0
-"Cooking",3,"Musaka","Bulgarian style moussaka is a baked dish of potatoes, minced meat, and a topping of yogurt and eggs, similar to the Greek version but without eggplant.",30,90,"Albanian","potato",1,0
-"Cooking",1,"Tarator","A cold yogurt soup popular in the summer, made with cucumbers, garlic, dill, and walnuts.",10,0,"American","yogurt",1,0
+"Cooking",2,"Fried Chicken","Crispy fried chicken, seasoned with a blend of spices and fried to a perfect golden brown.",20,20,"American","chicken",1,0
+"Cooking",2,"Macaroni and Cheese","A creamy, cheesy macaroni and cheese dish, baked until bubbly and golden.",10,20,"American","pasta",1,0
+"Cooking",3,"Barbecue Ribs","Slow-cooked pork ribs slathered in barbecue sauce, grilled until tender and caramelized.",15,180,"American","ribs",1,0
+"Cooking",1,"Pancakes","Fluffy American pancakes, served hot with butter and maple syrup.",10,15,"American","unbleached flour",1,0
+"Pastry",2,"Chocolate Chip Cookies","Classic soft and chewy chocolate chip cookies, loaded with chocolate chips and baked to perfection.",15,10,"American","unbleached flour",1,0
+"Cooking",1,"BLT Sandwich","A simple but delicious sandwich with bacon, lettuce, and tomato, served on toasted bread with mayonnaise.",5,10,"American","bacon",1,0
+"Cooking",3,"Clam Chowder","A creamy New England clam chowder, rich with clams, potatoes, onions, and celery, thickened with cream and served with oyster crackers.",20,45,"American","bacon",1,0
+"Pastry",2,"Brownies","Rich, fudgy chocolate brownies with a moist center and crispy edges, filled with chunks of chocolate.",10,25,"American","butter",1,0
+"Cooking",1,"Shopska Salata","A traditional Bulgarian salad made from tomatoes, cucumbers, onions, and topped with a generous amount of sirene cheese.",15,0,"Bulgarian","tomato",1,0
+"Cooking",3,"Kavarma","A hearty Bulgarian stew made with meat (typically pork or chicken), onions, mushrooms, and peppers, seasoned with paprika and herbs.",20,60,"Bulgarian","pork",1,0
+"Cooking",3,"Banitsa","A traditional Bulgarian pastry made from layers of phyllo dough filled with eggs and cheese.",20,40,"Bulgarian","phyllo dough",1,0
+"Cooking",2,"Mekitsa","A traditional Bulgarian breakfast, mekitsa is a deep-fried dough pastry, served with powdered sugar, honey, or jam.",30,15,"Bulgarian","flour",1,0
+"Cooking",3,"Musaka","Bulgarian style moussaka is a baked dish of potatoes, minced meat, and a topping of yogurt and eggs, similar to the Greek version but without eggplant.",30,90,"Bulgarian","potato",1,0
+"Cooking",1,"Tarator","A cold yogurt soup popular in the summer, made with cucumbers, garlic, dill, and walnuts.",10,0,"Bulgarian","yogurt",1,0
 "Pastry",3,"Kadaif","A dessert of shredded phyllo dough, baked with nuts and saturated with syrup.",20,40,"Bulgarian","dough",1,0
-"Cooking",1,"Bulgarian Cheese Toast","A quick and satisfying breakfast item made with bread, Bulgarian cheese, and often topped with a fried egg.",5,5,"Russian","bread",1,0
-"Pastry",4,"Garash Cake","A rich chocolate cake made with layers of walnut sponge cake and dark chocolate ganache, named after the Hungarian pastry chef Garash.",30,30,"Greek","egg white",1,0
-"Cooking",3,"Sarmi","Traditional Bulgarian stuffed cabbage rolls filled with a mix of minced meats, rice, and herbs, cooked in a tomato-based sauce.",30,60,"French","cabbage",1,0
-"Cooking",3,"Beef Stroganoff","A classic rich and creamy Russian dish featuring sautéed pieces of beef served in a sauce with smetana (sour cream).",15,30,"Indian","sirloin steak",1,0
-"Pastry",4,"Medovik","A popular Russian honey cake featuring several thin layers of cake filled with sweetened sour cream.",30,60,"Italian","honey",1,0
-"Cooking",2,"Borscht","A hearty beet soup traditionally served hot or cold with a dollop of sour cream.",20,120,"Japanese","beets",1,0
-"Cooking",4,"Pelmeni","Traditional Russian dumplings filled with minced meat and wrapped in a thin dough, served with butter or sour cream.",60,10,"Chinese","flour",1,0
-"Cooking",2,"Syrniki","Sweet cheese pancakes made from tvorog (cottage cheese), typically served with sour cream or jam.",10,15,"Mexican","cheddar cheese",1,0
-"Cooking",1,"Kasha","A staple of Russian cuisine, kasha refers to any grain cooked in water or milk, often served as a side dish.",5,25,"German","buckwheat groat",1,0
-"Pastry",3,"Pryaniki","Traditional Russian honey bread cookies spiced with ginger and cloves, often glazed with sugar icing.",20,25,"Korean","honey",1,0
-"Pastry",4,"Zefir","A type of soft confectionery made by whipping fruit and berry purée with sugar and egg whites, similar to marshmallows.",45,0,"Turkish","apple",1,0
-"Cooking",2,"Olivier Salad","Also known as Russian Salad, this dish is a combination of diced potatoes, vegetables, eggs, and meat dressed with mayonnaise.",30,20,"Albanian","potato",1,0
-"Cooking",2,"Shchi","A traditional Russian soup made with cabbage, meat, and various vegetables, known for its hearty and comforting qualities.",15,60,"American","onions",1,0
+"Cooking",1,"Bulgarian Cheese Toast","A quick and satisfying breakfast item made with bread, Bulgarian cheese, and often topped with a fried egg.",5,5,"Bulgarian","bread",1,0
+"Pastry",4,"Garash Cake","A rich chocolate cake made with layers of walnut sponge cake and dark chocolate ganache, named after the Hungarian pastry chef Garash.",30,30,"Bulgarian","egg white",1,0
+"Cooking",3,"Sarmi","Traditional Bulgarian stuffed cabbage rolls filled with a mix of minced meats, rice, and herbs, cooked in a tomato-based sauce.",30,60,"Bulgarian","cabbage",1,0
+"Cooking",3,"Beef Stroganoff","A classic rich and creamy Russian dish featuring sautéed pieces of beef served in a sauce with smetana (sour cream).",15,30,"Russian","sirloin steak",1,0
+"Pastry",4,"Medovik","A popular Russian honey cake featuring several thin layers of cake filled with sweetened sour cream.",30,60,"Russian","honey",1,0
+"Cooking",2,"Borscht","A hearty beet soup traditionally served hot or cold with a dollop of sour cream.",20,120,"Russian","beets",1,0
+"Cooking",4,"Pelmeni","Traditional Russian dumplings filled with minced meat and wrapped in a thin dough, served with butter or sour cream.",60,10,"Russian","flour",1,0
+"Cooking",2,"Syrniki","Sweet cheese pancakes made from tvorog (cottage cheese), typically served with sour cream or jam.",10,15,"Russian","cheddar cheese",1,0
+"Cooking",1,"Kasha","A staple of Russian cuisine, kasha refers to any grain cooked in water or milk, often served as a side dish.",5,25,"Russian","buckwheat groat",1,0
+"Pastry",3,"Pryaniki","Traditional Russian honey bread cookies spiced with ginger and cloves, often glazed with sugar icing.",20,25,"Russian","honey",1,0
+"Pastry",4,"Zefir","A type of soft confectionery made by whipping fruit and berry purée with sugar and egg whites, similar to marshmallows.",45,0,"Russian","apple",1,0
+"Cooking",2,"Olivier Salad","Also known as Russian Salad, this dish is a combination of diced potatoes, vegetables, eggs, and meat dressed with mayonnaise.",30,20,"Russian","potato",1,0
+"Cooking",2,"Shchi","A traditional Russian soup made with cabbage, meat, and various vegetables, known for its hearty and comforting qualities.",15,60,"Russian","onions",1,0

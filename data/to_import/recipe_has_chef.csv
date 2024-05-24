@@ -1,553 +1,896 @@
 "recipe_name","recipe_cuisine_name","chef_id"
-"Mish me midhje","Turkish",1
-"Mekitsa","Turkish",1
-"Zefir","Turkish",1
-"Mish me midhje","Turkish",13
-"Mekitsa","Turkish",13
-"Zefir","Turkish",13
-"Mish me midhje","Turkish",17
-"Mekitsa","Turkish",17
-"Zefir","Turkish",17
-"Mish me midhje","Turkish",32
-"Mekitsa","Turkish",32
-"Zefir","Turkish",32
-"Mish me midhje","Turkish",41
-"Mekitsa","Turkish",41
-"Zefir","Turkish",41
-"Mish me midhje","Turkish",46
-"Mekitsa","Turkish",46
-"Zefir","Turkish",46
-"Mish me midhje","Turkish",58
-"Mekitsa","Turkish",58
-"Zefir","Turkish",58
-"Mish me midhje","Turkish",59
-"Mekitsa","Turkish",59
-"Zefir","Turkish",59
-"Mish me midhje","Turkish",60
-"Mekitsa","Turkish",60
-"Zefir","Turkish",60
-"Mish me midhje","Turkish",74
-"Mekitsa","Turkish",74
-"Zefir","Turkish",74
-"Mish me midhje","Turkish",76
-"Mekitsa","Turkish",76
-"Zefir","Turkish",76
-"Mish me midhje","Turkish",78
-"Mekitsa","Turkish",78
-"Zefir","Turkish",78
-"Mish me midhje","Turkish",85
-"Mekitsa","Turkish",85
-"Zefir","Turkish",85
-"Mish me midhje","Turkish",89
-"Mekitsa","Turkish",89
-"Zefir","Turkish",89
-"Byrek me Spinaq","Japanese",2
-"Clam Chowder","Japanese",2
-"Borscht","Japanese",2
-"Byrek me Spinaq","Japanese",3
-"Clam Chowder","Japanese",3
-"Borscht","Japanese",3
-"Byrek me Spinaq","Japanese",4
-"Clam Chowder","Japanese",4
-"Borscht","Japanese",4
-"Byrek me Spinaq","Japanese",12
-"Clam Chowder","Japanese",12
-"Borscht","Japanese",12
-"Byrek me Spinaq","Japanese",20
-"Clam Chowder","Japanese",20
-"Borscht","Japanese",20
-"Byrek me Spinaq","Japanese",24
-"Clam Chowder","Japanese",24
-"Borscht","Japanese",24
-"Byrek me Spinaq","Japanese",30
-"Clam Chowder","Japanese",30
-"Borscht","Japanese",30
-"Byrek me Spinaq","Japanese",33
-"Clam Chowder","Japanese",33
-"Borscht","Japanese",33
-"Byrek me Spinaq","Japanese",34
-"Clam Chowder","Japanese",34
-"Borscht","Japanese",34
-"Byrek me Spinaq","Japanese",36
-"Clam Chowder","Japanese",36
-"Borscht","Japanese",36
-"Byrek me Spinaq","Japanese",49
-"Clam Chowder","Japanese",49
-"Borscht","Japanese",49
-"Byrek me Spinaq","Japanese",61
-"Clam Chowder","Japanese",61
-"Borscht","Japanese",61
-"Byrek me Spinaq","Japanese",74
-"Clam Chowder","Japanese",74
-"Borscht","Japanese",74
-"Byrek me Spinaq","Japanese",77
-"Clam Chowder","Japanese",77
-"Borscht","Japanese",77
-"Speca të mbushur","Italian",2
-"BLT Sandwich","Italian",2
-"Medovik","Italian",2
-"Speca të mbushur","Italian",3
-"BLT Sandwich","Italian",3
-"Medovik","Italian",3
-"Speca të mbushur","Italian",8
-"BLT Sandwich","Italian",8
-"Medovik","Italian",8
-"Speca të mbushur","Italian",9
-"BLT Sandwich","Italian",9
-"Medovik","Italian",9
-"Speca të mbushur","Italian",14
-"BLT Sandwich","Italian",14
-"Medovik","Italian",14
-"Speca të mbushur","Italian",22
-"BLT Sandwich","Italian",22
-"Medovik","Italian",22
-"Speca të mbushur","Italian",49
-"BLT Sandwich","Italian",49
-"Medovik","Italian",49
-"Speca të mbushur","Italian",53
-"BLT Sandwich","Italian",53
-"Medovik","Italian",53
-"Speca të mbushur","Italian",54
-"BLT Sandwich","Italian",54
-"Medovik","Italian",54
-"Speca të mbushur","Italian",80
-"BLT Sandwich","Italian",80
-"Medovik","Italian",80
-"Speca të mbushur","Italian",93
-"BLT Sandwich","Italian",93
-"Medovik","Italian",93
-"Macaroni and Cheese","Russian",4
-"Bulgarian Cheese Toast","Russian",4
-"Macaroni and Cheese","Russian",10
-"Bulgarian Cheese Toast","Russian",10
-"Macaroni and Cheese","Russian",11
-"Bulgarian Cheese Toast","Russian",11
-"Macaroni and Cheese","Russian",18
-"Bulgarian Cheese Toast","Russian",18
-"Macaroni and Cheese","Russian",38
-"Bulgarian Cheese Toast","Russian",38
-"Macaroni and Cheese","Russian",40
-"Bulgarian Cheese Toast","Russian",40
-"Macaroni and Cheese","Russian",41
-"Bulgarian Cheese Toast","Russian",41
-"Macaroni and Cheese","Russian",43
-"Bulgarian Cheese Toast","Russian",43
-"Macaroni and Cheese","Russian",57
-"Bulgarian Cheese Toast","Russian",57
-"Macaroni and Cheese","Russian",66
-"Bulgarian Cheese Toast","Russian",66
-"Macaroni and Cheese","Russian",67
-"Bulgarian Cheese Toast","Russian",67
-"Macaroni and Cheese","Russian",73
-"Bulgarian Cheese Toast","Russian",73
-"Macaroni and Cheese","Russian",80
-"Bulgarian Cheese Toast","Russian",80
-"Macaroni and Cheese","Russian",86
-"Bulgarian Cheese Toast","Russian",86
-"Macaroni and Cheese","Russian",94
-"Bulgarian Cheese Toast","Russian",94
-"Macaroni and Cheese","Russian",95
-"Bulgarian Cheese Toast","Russian",95
-"Macaroni and Cheese","Russian",98
-"Bulgarian Cheese Toast","Russian",98
-"Përime në zgare","Korean",5
-"Banitsa","Korean",5
-"Pryaniki","Korean",5
-"Përime në zgare","Korean",8
-"Banitsa","Korean",8
-"Pryaniki","Korean",8
-"Përime në zgare","Korean",15
-"Banitsa","Korean",15
-"Pryaniki","Korean",15
-"Përime në zgare","Korean",22
-"Banitsa","Korean",22
-"Pryaniki","Korean",22
-"Përime në zgare","Korean",25
-"Banitsa","Korean",25
-"Pryaniki","Korean",25
-"Përime në zgare","Korean",27
-"Banitsa","Korean",27
-"Pryaniki","Korean",27
-"Përime në zgare","Korean",29
-"Banitsa","Korean",29
-"Pryaniki","Korean",29
-"Përime në zgare","Korean",33
-"Banitsa","Korean",33
-"Pryaniki","Korean",33
-"Përime në zgare","Korean",44
-"Banitsa","Korean",44
-"Pryaniki","Korean",44
-"Përime në zgare","Korean",46
-"Banitsa","Korean",46
-"Pryaniki","Korean",46
-"Përime në zgare","Korean",49
-"Banitsa","Korean",49
-"Pryaniki","Korean",49
-"Përime në zgare","Korean",55
-"Banitsa","Korean",55
-"Pryaniki","Korean",55
-"Përime në zgare","Korean",56
-"Banitsa","Korean",56
-"Pryaniki","Korean",56
-"Përime në zgare","Korean",59
-"Banitsa","Korean",59
-"Pryaniki","Korean",59
-"Përime në zgare","Korean",66
-"Banitsa","Korean",66
-"Pryaniki","Korean",66
-"Përime në zgare","Korean",68
-"Banitsa","Korean",68
-"Pryaniki","Korean",68
-"Përime në zgare","Korean",81
-"Banitsa","Korean",81
-"Pryaniki","Korean",81
-"Përime në zgare","Korean",88
-"Banitsa","Korean",88
-"Pryaniki","Korean",88
-"Përime në zgare","Korean",89
-"Banitsa","Korean",89
-"Pryaniki","Korean",89
-"Fërgesë","Indian",5
-"Chocolate Chip Cookies","Indian",5
-"Beef Stroganoff","Indian",5
-"Fërgesë","Indian",6
-"Chocolate Chip Cookies","Indian",6
-"Beef Stroganoff","Indian",6
-"Fërgesë","Indian",10
-"Chocolate Chip Cookies","Indian",10
-"Beef Stroganoff","Indian",10
-"Fërgesë","Indian",19
-"Chocolate Chip Cookies","Indian",19
-"Beef Stroganoff","Indian",19
-"Fërgesë","Indian",42
-"Chocolate Chip Cookies","Indian",42
-"Beef Stroganoff","Indian",42
-"Fërgesë","Indian",50
-"Chocolate Chip Cookies","Indian",50
-"Beef Stroganoff","Indian",50
-"Fërgesë","Indian",53
-"Chocolate Chip Cookies","Indian",53
-"Beef Stroganoff","Indian",53
-"Fërgesë","Indian",55
-"Chocolate Chip Cookies","Indian",55
-"Beef Stroganoff","Indian",55
-"Fërgesë","Indian",67
-"Chocolate Chip Cookies","Indian",67
-"Beef Stroganoff","Indian",67
-"Fërgesë","Indian",69
-"Chocolate Chip Cookies","Indian",69
-"Beef Stroganoff","Indian",69
-"Fërgesë","Indian",70
-"Chocolate Chip Cookies","Indian",70
-"Beef Stroganoff","Indian",70
-"Fërgesë","Indian",81
-"Chocolate Chip Cookies","Indian",81
-"Beef Stroganoff","Indian",81
-"Fërgesë","Indian",83
-"Chocolate Chip Cookies","Indian",83
-"Beef Stroganoff","Indian",83
-"Fërgesë","Indian",84
-"Chocolate Chip Cookies","Indian",84
-"Beef Stroganoff","Indian",84
-"Tavë Kosi","Greek",6
-"Barbecue Ribs","Greek",6
-"Garash Cake","Greek",6
-"Tavë Kosi","Greek",8
-"Barbecue Ribs","Greek",8
-"Garash Cake","Greek",8
-"Tavë Kosi","Greek",10
-"Barbecue Ribs","Greek",10
-"Garash Cake","Greek",10
-"Tavë Kosi","Greek",24
-"Barbecue Ribs","Greek",24
-"Garash Cake","Greek",24
-"Tavë Kosi","Greek",28
-"Barbecue Ribs","Greek",28
-"Garash Cake","Greek",28
-"Tavë Kosi","Greek",37
-"Barbecue Ribs","Greek",37
-"Garash Cake","Greek",37
-"Tavë Kosi","Greek",58
-"Barbecue Ribs","Greek",58
-"Garash Cake","Greek",58
-"Tavë Kosi","Greek",60
-"Barbecue Ribs","Greek",60
-"Garash Cake","Greek",60
-"Tavë Kosi","Greek",76
-"Barbecue Ribs","Greek",76
-"Garash Cake","Greek",76
-"Tavë Kosi","Greek",79
-"Barbecue Ribs","Greek",79
-"Garash Cake","Greek",79
-"Tavë Kosi","Greek",86
-"Barbecue Ribs","Greek",86
-"Garash Cake","Greek",86
-"Tavë Kosi","Greek",91
-"Barbecue Ribs","Greek",91
-"Garash Cake","Greek",91
-"Tavë Kosi","Greek",92
-"Barbecue Ribs","Greek",92
-"Garash Cake","Greek",92
-"Tavë Kosi","Greek",99
-"Barbecue Ribs","Greek",99
-"Garash Cake","Greek",99
-"Cheeseburger","Albanian",6
-"Musaka","Albanian",6
-"Olivier Salad","Albanian",6
-"Cheeseburger","Albanian",7
-"Musaka","Albanian",7
-"Olivier Salad","Albanian",7
-"Cheeseburger","Albanian",19
-"Musaka","Albanian",19
-"Olivier Salad","Albanian",19
-"Cheeseburger","Albanian",20
-"Musaka","Albanian",20
-"Olivier Salad","Albanian",20
-"Cheeseburger","Albanian",25
-"Musaka","Albanian",25
-"Olivier Salad","Albanian",25
-"Cheeseburger","Albanian",30
-"Musaka","Albanian",30
-"Olivier Salad","Albanian",30
-"Cheeseburger","Albanian",38
-"Musaka","Albanian",38
-"Olivier Salad","Albanian",38
-"Cheeseburger","Albanian",42
-"Musaka","Albanian",42
-"Olivier Salad","Albanian",42
-"Cheeseburger","Albanian",45
-"Musaka","Albanian",45
-"Olivier Salad","Albanian",45
-"Cheeseburger","Albanian",52
-"Musaka","Albanian",52
-"Olivier Salad","Albanian",52
-"Cheeseburger","Albanian",68
-"Musaka","Albanian",68
-"Olivier Salad","Albanian",68
-"Cheeseburger","Albanian",72
-"Musaka","Albanian",72
-"Olivier Salad","Albanian",72
-"Cheeseburger","Albanian",73
-"Musaka","Albanian",73
-"Olivier Salad","Albanian",73
-"Cheeseburger","Albanian",90
-"Musaka","Albanian",90
-"Olivier Salad","Albanian",90
-"Cheeseburger","Albanian",97
-"Musaka","Albanian",97
-"Olivier Salad","Albanian",97
-"Bakllasarem","French",11
-"Pancakes","French",11
-"Sarmi","French",11
-"Bakllasarem","French",38
-"Pancakes","French",38
-"Sarmi","French",38
-"Bakllasarem","French",40
-"Pancakes","French",40
-"Sarmi","French",40
-"Bakllasarem","French",42
-"Pancakes","French",42
-"Sarmi","French",42
-"Bakllasarem","French",45
-"Pancakes","French",45
-"Sarmi","French",45
-"Bakllasarem","French",47
-"Pancakes","French",47
-"Sarmi","French",47
-"Bakllasarem","French",55
-"Pancakes","French",55
-"Sarmi","French",55
-"Bakllasarem","French",57
-"Pancakes","French",57
-"Sarmi","French",57
-"Bakllasarem","French",63
-"Pancakes","French",63
-"Sarmi","French",63
-"Bakllasarem","French",64
-"Pancakes","French",64
-"Sarmi","French",64
-"Bakllasarem","French",71
-"Pancakes","French",71
-"Sarmi","French",71
-"Bakllasarem","French",77
-"Pancakes","French",77
-"Sarmi","French",77
-"Bakllasarem","French",82
-"Pancakes","French",82
-"Sarmi","French",82
-"Bakllasarem","French",90
-"Pancakes","French",90
-"Sarmi","French",90
-"Bakllasarem","French",93
-"Pancakes","French",93
-"Sarmi","French",93
-"Bakllasarem","French",98
-"Pancakes","French",98
-"Sarmi","French",98
-"Apple Pie","American",14
-"Tarator","American",14
-"Shchi","American",14
-"Apple Pie","American",17
-"Tarator","American",17
-"Shchi","American",17
-"Apple Pie","American",18
-"Tarator","American",18
-"Shchi","American",18
-"Apple Pie","American",22
-"Tarator","American",22
-"Shchi","American",22
-"Apple Pie","American",24
-"Tarator","American",24
-"Shchi","American",24
-"Apple Pie","American",34
-"Tarator","American",34
-"Shchi","American",34
-"Apple Pie","American",39
-"Tarator","American",39
-"Shchi","American",39
-"Apple Pie","American",46
-"Tarator","American",46
-"Shchi","American",46
-"Apple Pie","American",51
-"Tarator","American",51
-"Shchi","American",51
-"Apple Pie","American",53
-"Tarator","American",53
-"Shchi","American",53
-"Apple Pie","American",54
-"Tarator","American",54
-"Shchi","American",54
-"Apple Pie","American",59
-"Tarator","American",59
-"Shchi","American",59
-"Apple Pie","American",60
-"Tarator","American",60
-"Shchi","American",60
-"Apple Pie","American",72
-"Tarator","American",72
-"Shchi","American",72
-"Apple Pie","American",74
-"Tarator","American",74
-"Shchi","American",74
-"Apple Pie","American",95
-"Tarator","American",95
-"Shchi","American",95
-"Apple Pie","American",99
-"Tarator","American",99
-"Shchi","American",99
-"Qifqi","German",16
-"Kavarma","German",16
-"Kasha","German",16
-"Qifqi","German",23
-"Kavarma","German",23
-"Kasha","German",23
-"Qifqi","German",44
-"Kavarma","German",44
-"Kasha","German",44
-"Qifqi","German",48
-"Kavarma","German",48
-"Kasha","German",48
-"Qifqi","German",56
-"Kavarma","German",56
-"Kasha","German",56
-"Qifqi","German",62
-"Kavarma","German",62
-"Kasha","German",62
-"Qifqi","German",73
-"Kavarma","German",73
-"Kasha","German",73
-"Qifqi","German",84
-"Kavarma","German",84
-"Kasha","German",84
-"Qifqi","German",97
-"Kavarma","German",97
-"Kasha","German",97
-"Jani me fasule","Chinese",16
-"Brownies","Chinese",16
-"Pelmeni","Chinese",16
-"Jani me fasule","Chinese",17
-"Brownies","Chinese",17
-"Pelmeni","Chinese",17
-"Jani me fasule","Chinese",19
-"Brownies","Chinese",19
-"Pelmeni","Chinese",19
-"Jani me fasule","Chinese",21
-"Brownies","Chinese",21
-"Pelmeni","Chinese",21
-"Jani me fasule","Chinese",31
-"Brownies","Chinese",31
-"Pelmeni","Chinese",31
-"Jani me fasule","Chinese",50
-"Brownies","Chinese",50
-"Pelmeni","Chinese",50
-"Jani me fasule","Chinese",58
-"Brownies","Chinese",58
-"Pelmeni","Chinese",58
-"Jani me fasule","Chinese",63
-"Brownies","Chinese",63
-"Pelmeni","Chinese",63
-"Jani me fasule","Chinese",75
-"Brownies","Chinese",75
-"Pelmeni","Chinese",75
-"Jani me fasule","Chinese",79
-"Brownies","Chinese",79
-"Pelmeni","Chinese",79
-"Jani me fasule","Chinese",81
-"Brownies","Chinese",81
-"Pelmeni","Chinese",81
-"Jani me fasule","Chinese",87
-"Brownies","Chinese",87
-"Pelmeni","Chinese",87
-"Jani me fasule","Chinese",90
-"Brownies","Chinese",90
-"Pelmeni","Chinese",90
-"Jani me fasule","Chinese",95
-"Brownies","Chinese",95
-"Pelmeni","Chinese",95
-"Shëndetli","Mexican",18
-"Shopska Salata","Mexican",18
-"Syrniki","Mexican",18
-"Shëndetli","Mexican",20
-"Shopska Salata","Mexican",20
-"Syrniki","Mexican",20
-"Shëndetli","Mexican",25
-"Shopska Salata","Mexican",25
-"Syrniki","Mexican",25
-"Shëndetli","Mexican",34
-"Shopska Salata","Mexican",34
-"Syrniki","Mexican",34
-"Shëndetli","Mexican",35
-"Shopska Salata","Mexican",35
-"Syrniki","Mexican",35
-"Shëndetli","Mexican",37
-"Shopska Salata","Mexican",37
-"Syrniki","Mexican",37
-"Shëndetli","Mexican",41
-"Shopska Salata","Mexican",41
-"Syrniki","Mexican",41
-"Shëndetli","Mexican",50
-"Shopska Salata","Mexican",50
-"Syrniki","Mexican",50
-"Shëndetli","Mexican",66
-"Shopska Salata","Mexican",66
-"Syrniki","Mexican",66
-"Shëndetli","Mexican",69
-"Shopska Salata","Mexican",69
-"Syrniki","Mexican",69
-"Shëndetli","Mexican",100
-"Shopska Salata","Mexican",100
-"Syrniki","Mexican",100
-"Fried Chicken","Bulgarian",26
+"Beshbarmak","Kazakh",1
+"Kazy","Kazakh",1
+"Kurt","Kazakh",1
+"Beshbarmak","Kazakh",12
+"Kazy","Kazakh",12
+"Kurt","Kazakh",12
+"Beshbarmak","Kazakh",52
+"Kazy","Kazakh",52
+"Kurt","Kazakh",52
+"Beshbarmak","Kazakh",57
+"Kazy","Kazakh",57
+"Kurt","Kazakh",57
+"Beshbarmak","Kazakh",80
+"Kazy","Kazakh",80
+"Kurt","Kazakh",80
+"Baklava","Greek",1
+"Greek Salad (Horiatiki)","Greek",1
+"Moussaka","Greek",1
+"Baklava","Greek",20
+"Greek Salad (Horiatiki)","Greek",20
+"Moussaka","Greek",20
+"Baklava","Greek",23
+"Greek Salad (Horiatiki)","Greek",23
+"Moussaka","Greek",23
+"Baklava","Greek",25
+"Greek Salad (Horiatiki)","Greek",25
+"Moussaka","Greek",25
+"Baklava","Greek",26
+"Greek Salad (Horiatiki)","Greek",26
+"Moussaka","Greek",26
+"Baklava","Greek",34
+"Greek Salad (Horiatiki)","Greek",34
+"Moussaka","Greek",34
+"Baklava","Greek",36
+"Greek Salad (Horiatiki)","Greek",36
+"Moussaka","Greek",36
+"Baklava","Greek",38
+"Greek Salad (Horiatiki)","Greek",38
+"Moussaka","Greek",38
+"Baklava","Greek",39
+"Greek Salad (Horiatiki)","Greek",39
+"Moussaka","Greek",39
+"Baklava","Greek",50
+"Greek Salad (Horiatiki)","Greek",50
+"Moussaka","Greek",50
+"Baklava","Greek",65
+"Greek Salad (Horiatiki)","Greek",65
+"Moussaka","Greek",65
+"Baklava","Greek",93
+"Greek Salad (Horiatiki)","Greek",93
+"Moussaka","Greek",93
+"Baklava","Greek",96
+"Greek Salad (Horiatiki)","Greek",96
+"Moussaka","Greek",96
+"Baklava","Greek",97
+"Greek Salad (Horiatiki)","Greek",97
+"Moussaka","Greek",97
+"Beef and Broccoli","Chinese",1
+"Egg Drop Soup","Chinese",1
+"Kung Pao Chicken","Chinese",1
+"Beef and Broccoli","Chinese",3
+"Egg Drop Soup","Chinese",3
+"Kung Pao Chicken","Chinese",3
+"Beef and Broccoli","Chinese",6
+"Egg Drop Soup","Chinese",6
+"Kung Pao Chicken","Chinese",6
+"Beef and Broccoli","Chinese",13
+"Egg Drop Soup","Chinese",13
+"Kung Pao Chicken","Chinese",13
+"Beef and Broccoli","Chinese",35
+"Egg Drop Soup","Chinese",35
+"Kung Pao Chicken","Chinese",35
+"Beef and Broccoli","Chinese",44
+"Egg Drop Soup","Chinese",44
+"Kung Pao Chicken","Chinese",44
+"Beef and Broccoli","Chinese",53
+"Egg Drop Soup","Chinese",53
+"Kung Pao Chicken","Chinese",53
+"Beef and Broccoli","Chinese",59
+"Egg Drop Soup","Chinese",59
+"Kung Pao Chicken","Chinese",59
+"Beef and Broccoli","Chinese",72
+"Egg Drop Soup","Chinese",72
+"Kung Pao Chicken","Chinese",72
+"Beef and Broccoli","Chinese",82
+"Egg Drop Soup","Chinese",82
+"Kung Pao Chicken","Chinese",82
+"Beef and Broccoli","Chinese",95
+"Egg Drop Soup","Chinese",95
+"Kung Pao Chicken","Chinese",95
+"Bibimbap","Korean",2
+"Hoddeok","Korean",2
+"Kimchi Jjigae","Korean",2
+"Bibimbap","Korean",7
+"Hoddeok","Korean",7
+"Kimchi Jjigae","Korean",7
+"Bibimbap","Korean",22
+"Hoddeok","Korean",22
+"Kimchi Jjigae","Korean",22
+"Bibimbap","Korean",25
+"Hoddeok","Korean",25
+"Kimchi Jjigae","Korean",25
+"Bibimbap","Korean",42
+"Hoddeok","Korean",42
+"Kimchi Jjigae","Korean",42
+"Bibimbap","Korean",60
+"Hoddeok","Korean",60
+"Kimchi Jjigae","Korean",60
+"Bibimbap","Korean",66
+"Hoddeok","Korean",66
+"Kimchi Jjigae","Korean",66
+"Bibimbap","Korean",74
+"Hoddeok","Korean",74
+"Kimchi Jjigae","Korean",74
+"Bibimbap","Korean",83
+"Hoddeok","Korean",83
+"Kimchi Jjigae","Korean",83
+"Baklava","Turkish",2
+"İskender Kebab","Turkish",2
+"Lahmacun","Turkish",2
+"Baklava","Turkish",28
+"İskender Kebab","Turkish",28
+"Lahmacun","Turkish",28
+"Baklava","Turkish",42
+"İskender Kebab","Turkish",42
+"Lahmacun","Turkish",42
+"Baklava","Turkish",61
+"İskender Kebab","Turkish",61
+"Lahmacun","Turkish",61
+"Baklava","Turkish",67
+"İskender Kebab","Turkish",67
+"Lahmacun","Turkish",67
+"Baklava","Turkish",68
+"İskender Kebab","Turkish",68
+"Lahmacun","Turkish",68
+"Baklava","Turkish",71
+"İskender Kebab","Turkish",71
+"Lahmacun","Turkish",71
+"Baklava","Turkish",76
+"İskender Kebab","Turkish",76
+"Lahmacun","Turkish",76
+"Baklava","Turkish",77
+"İskender Kebab","Turkish",77
+"Lahmacun","Turkish",77
+"Baklava","Turkish",79
+"İskender Kebab","Turkish",79
+"Lahmacun","Turkish",79
+"Baklava","Turkish",89
+"İskender Kebab","Turkish",89
+"Lahmacun","Turkish",89
+"Beef Stroganoff","Russian",2
+"Medovik","Russian",2
+"Borscht","Russian",2
+"Pelmeni","Russian",2
+"Syrniki","Russian",2
+"Kasha","Russian",2
+"Pryaniki","Russian",2
+"Zefir","Russian",2
+"Olivier Salad","Russian",2
+"Shchi","Russian",2
+"Beef Stroganoff","Russian",6
+"Medovik","Russian",6
+"Borscht","Russian",6
+"Pelmeni","Russian",6
+"Syrniki","Russian",6
+"Kasha","Russian",6
+"Pryaniki","Russian",6
+"Zefir","Russian",6
+"Olivier Salad","Russian",6
+"Shchi","Russian",6
+"Beef Stroganoff","Russian",9
+"Medovik","Russian",9
+"Borscht","Russian",9
+"Pelmeni","Russian",9
+"Syrniki","Russian",9
+"Kasha","Russian",9
+"Pryaniki","Russian",9
+"Zefir","Russian",9
+"Olivier Salad","Russian",9
+"Shchi","Russian",9
+"Beef Stroganoff","Russian",31
+"Medovik","Russian",31
+"Borscht","Russian",31
+"Pelmeni","Russian",31
+"Syrniki","Russian",31
+"Kasha","Russian",31
+"Pryaniki","Russian",31
+"Zefir","Russian",31
+"Olivier Salad","Russian",31
+"Shchi","Russian",31
+"Beef Stroganoff","Russian",34
+"Medovik","Russian",34
+"Borscht","Russian",34
+"Pelmeni","Russian",34
+"Syrniki","Russian",34
+"Kasha","Russian",34
+"Pryaniki","Russian",34
+"Zefir","Russian",34
+"Olivier Salad","Russian",34
+"Shchi","Russian",34
+"Beef Stroganoff","Russian",37
+"Medovik","Russian",37
+"Borscht","Russian",37
+"Pelmeni","Russian",37
+"Syrniki","Russian",37
+"Kasha","Russian",37
+"Pryaniki","Russian",37
+"Zefir","Russian",37
+"Olivier Salad","Russian",37
+"Shchi","Russian",37
+"Beef Stroganoff","Russian",47
+"Medovik","Russian",47
+"Borscht","Russian",47
+"Pelmeni","Russian",47
+"Syrniki","Russian",47
+"Kasha","Russian",47
+"Pryaniki","Russian",47
+"Zefir","Russian",47
+"Olivier Salad","Russian",47
+"Shchi","Russian",47
+"Beef Stroganoff","Russian",58
+"Medovik","Russian",58
+"Borscht","Russian",58
+"Pelmeni","Russian",58
+"Syrniki","Russian",58
+"Kasha","Russian",58
+"Pryaniki","Russian",58
+"Zefir","Russian",58
+"Olivier Salad","Russian",58
+"Shchi","Russian",58
+"Beef Stroganoff","Russian",67
+"Medovik","Russian",67
+"Borscht","Russian",67
+"Pelmeni","Russian",67
+"Syrniki","Russian",67
+"Kasha","Russian",67
+"Pryaniki","Russian",67
+"Zefir","Russian",67
+"Olivier Salad","Russian",67
+"Shchi","Russian",67
+"Beef Stroganoff","Russian",87
+"Medovik","Russian",87
+"Borscht","Russian",87
+"Pelmeni","Russian",87
+"Syrniki","Russian",87
+"Kasha","Russian",87
+"Pryaniki","Russian",87
+"Zefir","Russian",87
+"Olivier Salad","Russian",87
+"Shchi","Russian",87
+"Beef Stroganoff","Russian",97
+"Medovik","Russian",97
+"Borscht","Russian",97
+"Pelmeni","Russian",97
+"Syrniki","Russian",97
+"Kasha","Russian",97
+"Pryaniki","Russian",97
+"Zefir","Russian",97
+"Olivier Salad","Russian",97
+"Shchi","Russian",97
+"Beef Stroganoff","Russian",99
+"Medovik","Russian",99
+"Borscht","Russian",99
+"Pelmeni","Russian",99
+"Syrniki","Russian",99
+"Kasha","Russian",99
+"Pryaniki","Russian",99
+"Zefir","Russian",99
+"Olivier Salad","Russian",99
+"Shchi","Russian",99
+"Matcha Ice Cream","Japanese",3
+"Ramen","Japanese",3
+"Sushi Rolls (Maki Sushi)","Japanese",3
+"Matcha Ice Cream","Japanese",31
+"Ramen","Japanese",31
+"Sushi Rolls (Maki Sushi)","Japanese",31
+"Matcha Ice Cream","Japanese",46
+"Ramen","Japanese",46
+"Sushi Rolls (Maki Sushi)","Japanese",46
+"Matcha Ice Cream","Japanese",49
+"Ramen","Japanese",49
+"Sushi Rolls (Maki Sushi)","Japanese",49
+"Matcha Ice Cream","Japanese",56
+"Ramen","Japanese",56
+"Sushi Rolls (Maki Sushi)","Japanese",56
+"Matcha Ice Cream","Japanese",58
+"Ramen","Japanese",58
+"Sushi Rolls (Maki Sushi)","Japanese",58
+"Matcha Ice Cream","Japanese",68
+"Ramen","Japanese",68
+"Sushi Rolls (Maki Sushi)","Japanese",68
+"Matcha Ice Cream","Japanese",71
+"Ramen","Japanese",71
+"Sushi Rolls (Maki Sushi)","Japanese",71
+"Matcha Ice Cream","Japanese",92
+"Ramen","Japanese",92
+"Sushi Rolls (Maki Sushi)","Japanese",92
+"Matcha Ice Cream","Japanese",97
+"Ramen","Japanese",97
+"Sushi Rolls (Maki Sushi)","Japanese",97
+"Coq au Vin","French",4
+"Crème Brûlée","French",4
+"French Onion Soup","French",4
+"Coq au Vin","French",20
+"Crème Brûlée","French",20
+"French Onion Soup","French",20
+"Coq au Vin","French",22
+"Crème Brûlée","French",22
+"French Onion Soup","French",22
+"Coq au Vin","French",91
+"Crème Brûlée","French",91
+"French Onion Soup","French",91
+"Coq au Vin","French",92
+"Crème Brûlée","French",92
+"French Onion Soup","French",92
+"Coq au Vin","French",96
+"Crème Brûlée","French",96
+"French Onion Soup","French",96
+"Gutap","Turkmen",4
+"Palaw","Turkmen",4
+"Shurpa","Turkmen",4
+"Gutap","Turkmen",10
+"Palaw","Turkmen",10
+"Shurpa","Turkmen",10
+"Gutap","Turkmen",57
+"Palaw","Turkmen",57
+"Shurpa","Turkmen",57
+"Gutap","Turkmen",59
+"Palaw","Turkmen",59
+"Shurpa","Turkmen",59
+"Gutap","Turkmen",62
+"Palaw","Turkmen",62
+"Shurpa","Turkmen",62
+"Gutap","Turkmen",66
+"Palaw","Turkmen",66
+"Shurpa","Turkmen",66
+"Gutap","Turkmen",68
+"Palaw","Turkmen",68
+"Shurpa","Turkmen",68
+"Gutap","Turkmen",73
+"Palaw","Turkmen",73
+"Shurpa","Turkmen",73
+"Gutap","Turkmen",85
+"Palaw","Turkmen",85
+"Shurpa","Turkmen",85
+"Gutap","Turkmen",90
+"Palaw","Turkmen",90
+"Shurpa","Turkmen",90
+"Nyama Choma","Kenyan",5
+"Sukuma Wiki","Kenyan",5
+"Ugali","Kenyan",5
+"Nyama Choma","Kenyan",8
+"Sukuma Wiki","Kenyan",8
+"Ugali","Kenyan",8
+"Nyama Choma","Kenyan",9
+"Sukuma Wiki","Kenyan",9
+"Ugali","Kenyan",9
+"Nyama Choma","Kenyan",24
+"Sukuma Wiki","Kenyan",24
+"Ugali","Kenyan",24
+"Nyama Choma","Kenyan",41
+"Sukuma Wiki","Kenyan",41
+"Ugali","Kenyan",41
+"Nyama Choma","Kenyan",48
+"Sukuma Wiki","Kenyan",48
+"Ugali","Kenyan",48
+"Nyama Choma","Kenyan",54
+"Sukuma Wiki","Kenyan",54
+"Ugali","Kenyan",54
+"Nyama Choma","Kenyan",71
+"Sukuma Wiki","Kenyan",71
+"Ugali","Kenyan",71
+"Nyama Choma","Kenyan",77
+"Sukuma Wiki","Kenyan",77
+"Ugali","Kenyan",77
+"Nyama Choma","Kenyan",79
+"Sukuma Wiki","Kenyan",79
+"Ugali","Kenyan",79
+"Nyama Choma","Kenyan",81
+"Sukuma Wiki","Kenyan",81
+"Ugali","Kenyan",81
+"Nyama Choma","Kenyan",90
+"Sukuma Wiki","Kenyan",90
+"Ugali","Kenyan",90
+"Nyama Choma","Kenyan",99
+"Sukuma Wiki","Kenyan",99
+"Ugali","Kenyan",99
+"Osso Buco","Italian",11
+"Spaghetti Carbonara","Italian",11
+"Tiramisu","Italian",11
+"Osso Buco","Italian",14
+"Spaghetti Carbonara","Italian",14
+"Tiramisu","Italian",14
+"Osso Buco","Italian",17
+"Spaghetti Carbonara","Italian",17
+"Tiramisu","Italian",17
+"Osso Buco","Italian",18
+"Spaghetti Carbonara","Italian",18
+"Tiramisu","Italian",18
+"Osso Buco","Italian",32
+"Spaghetti Carbonara","Italian",32
+"Tiramisu","Italian",32
+"Osso Buco","Italian",49
+"Spaghetti Carbonara","Italian",49
+"Tiramisu","Italian",49
+"Osso Buco","Italian",61
+"Spaghetti Carbonara","Italian",61
+"Tiramisu","Italian",61
+"Osso Buco","Italian",83
+"Spaghetti Carbonara","Italian",83
+"Tiramisu","Italian",83
+"Tavë Kosi","Albanian",12
+"Bakllasarem","Albanian",12
+"Fërgesë","Albanian",12
+"Speca të mbushur","Albanian",12
+"Byrek me Spinaq","Albanian",12
+"Jani me fasule","Albanian",12
+"Shëndetli","Albanian",12
+"Qifqi","Albanian",12
+"Përime në zgare","Albanian",12
+"Mish me midhje","Albanian",12
+"Tavë Kosi","Albanian",23
+"Bakllasarem","Albanian",23
+"Fërgesë","Albanian",23
+"Speca të mbushur","Albanian",23
+"Byrek me Spinaq","Albanian",23
+"Jani me fasule","Albanian",23
+"Shëndetli","Albanian",23
+"Qifqi","Albanian",23
+"Përime në zgare","Albanian",23
+"Mish me midhje","Albanian",23
+"Tavë Kosi","Albanian",31
+"Bakllasarem","Albanian",31
+"Fërgesë","Albanian",31
+"Speca të mbushur","Albanian",31
+"Byrek me Spinaq","Albanian",31
+"Jani me fasule","Albanian",31
+"Shëndetli","Albanian",31
+"Qifqi","Albanian",31
+"Përime në zgare","Albanian",31
+"Mish me midhje","Albanian",31
+"Tavë Kosi","Albanian",33
+"Bakllasarem","Albanian",33
+"Fërgesë","Albanian",33
+"Speca të mbushur","Albanian",33
+"Byrek me Spinaq","Albanian",33
+"Jani me fasule","Albanian",33
+"Shëndetli","Albanian",33
+"Qifqi","Albanian",33
+"Përime në zgare","Albanian",33
+"Mish me midhje","Albanian",33
+"Tavë Kosi","Albanian",35
+"Bakllasarem","Albanian",35
+"Fërgesë","Albanian",35
+"Speca të mbushur","Albanian",35
+"Byrek me Spinaq","Albanian",35
+"Jani me fasule","Albanian",35
+"Shëndetli","Albanian",35
+"Qifqi","Albanian",35
+"Përime në zgare","Albanian",35
+"Mish me midhje","Albanian",35
+"Tavë Kosi","Albanian",39
+"Bakllasarem","Albanian",39
+"Fërgesë","Albanian",39
+"Speca të mbushur","Albanian",39
+"Byrek me Spinaq","Albanian",39
+"Jani me fasule","Albanian",39
+"Shëndetli","Albanian",39
+"Qifqi","Albanian",39
+"Përime në zgare","Albanian",39
+"Mish me midhje","Albanian",39
+"Tavë Kosi","Albanian",41
+"Bakllasarem","Albanian",41
+"Fërgesë","Albanian",41
+"Speca të mbushur","Albanian",41
+"Byrek me Spinaq","Albanian",41
+"Jani me fasule","Albanian",41
+"Shëndetli","Albanian",41
+"Qifqi","Albanian",41
+"Përime në zgare","Albanian",41
+"Mish me midhje","Albanian",41
+"Tavë Kosi","Albanian",48
+"Bakllasarem","Albanian",48
+"Fërgesë","Albanian",48
+"Speca të mbushur","Albanian",48
+"Byrek me Spinaq","Albanian",48
+"Jani me fasule","Albanian",48
+"Shëndetli","Albanian",48
+"Qifqi","Albanian",48
+"Përime në zgare","Albanian",48
+"Mish me midhje","Albanian",48
+"Tavë Kosi","Albanian",70
+"Bakllasarem","Albanian",70
+"Fërgesë","Albanian",70
+"Speca të mbushur","Albanian",70
+"Byrek me Spinaq","Albanian",70
+"Jani me fasule","Albanian",70
+"Shëndetli","Albanian",70
+"Qifqi","Albanian",70
+"Përime në zgare","Albanian",70
+"Mish me midhje","Albanian",70
+"Tavë Kosi","Albanian",76
+"Bakllasarem","Albanian",76
+"Fërgesë","Albanian",76
+"Speca të mbushur","Albanian",76
+"Byrek me Spinaq","Albanian",76
+"Jani me fasule","Albanian",76
+"Shëndetli","Albanian",76
+"Qifqi","Albanian",76
+"Përime në zgare","Albanian",76
+"Mish me midhje","Albanian",76
+"Tavë Kosi","Albanian",83
+"Bakllasarem","Albanian",83
+"Fërgesë","Albanian",83
+"Speca të mbushur","Albanian",83
+"Byrek me Spinaq","Albanian",83
+"Jani me fasule","Albanian",83
+"Shëndetli","Albanian",83
+"Qifqi","Albanian",83
+"Përime në zgare","Albanian",83
+"Mish me midhje","Albanian",83
+"Tavë Kosi","Albanian",84
+"Bakllasarem","Albanian",84
+"Fërgesë","Albanian",84
+"Speca të mbushur","Albanian",84
+"Byrek me Spinaq","Albanian",84
+"Jani me fasule","Albanian",84
+"Shëndetli","Albanian",84
+"Qifqi","Albanian",84
+"Përime në zgare","Albanian",84
+"Mish me midhje","Albanian",84
+"Tavë Kosi","Albanian",85
+"Bakllasarem","Albanian",85
+"Fërgesë","Albanian",85
+"Speca të mbushur","Albanian",85
+"Byrek me Spinaq","Albanian",85
+"Jani me fasule","Albanian",85
+"Shëndetli","Albanian",85
+"Qifqi","Albanian",85
+"Përime në zgare","Albanian",85
+"Mish me midhje","Albanian",85
+"Bara Brith","Welsh",13
+"Cawl","Welsh",13
+"Welsh Rarebit","Welsh",13
+"Bara Brith","Welsh",19
+"Cawl","Welsh",19
+"Welsh Rarebit","Welsh",19
+"Bara Brith","Welsh",27
+"Cawl","Welsh",27
+"Welsh Rarebit","Welsh",27
+"Bara Brith","Welsh",28
+"Cawl","Welsh",28
+"Welsh Rarebit","Welsh",28
+"Bara Brith","Welsh",33
+"Cawl","Welsh",33
+"Welsh Rarebit","Welsh",33
+"Bara Brith","Welsh",34
+"Cawl","Welsh",34
+"Welsh Rarebit","Welsh",34
+"Bara Brith","Welsh",84
+"Cawl","Welsh",84
+"Welsh Rarebit","Welsh",84
+"Bara Brith","Welsh",85
+"Cawl","Welsh",85
+"Welsh Rarebit","Welsh",85
+"Black Forest Cake","German",15
+"Pretzels","German",15
+"Sauerbraten","German",15
+"Black Forest Cake","German",24
+"Pretzels","German",24
+"Sauerbraten","German",24
+"Black Forest Cake","German",50
+"Pretzels","German",50
+"Sauerbraten","German",50
+"Black Forest Cake","German",56
+"Pretzels","German",56
+"Sauerbraten","German",56
+"Black Forest Cake","German",81
+"Pretzels","German",81
+"Sauerbraten","German",81
+"Black Forest Cake","German",86
+"Pretzels","German",86
+"Sauerbraten","German",86
+"Black Forest Cake","German",88
+"Pretzels","German",88
+"Sauerbraten","German",88
+"Black Forest Cake","German",96
+"Pretzels","German",96
+"Sauerbraten","German",96
+"Black Forest Cake","German",100
+"Pretzels","German",100
+"Sauerbraten","German",100
+"Shopska Salata","Bulgarian",16
+"Kavarma","Bulgarian",16
+"Banitsa","Bulgarian",16
+"Mekitsa","Bulgarian",16
+"Musaka","Bulgarian",16
+"Tarator","Bulgarian",16
+"Kadaif","Bulgarian",16
+"Bulgarian Cheese Toast","Bulgarian",16
+"Garash Cake","Bulgarian",16
+"Sarmi","Bulgarian",16
+"Shopska Salata","Bulgarian",26
+"Kavarma","Bulgarian",26
+"Banitsa","Bulgarian",26
+"Mekitsa","Bulgarian",26
+"Musaka","Bulgarian",26
+"Tarator","Bulgarian",26
 "Kadaif","Bulgarian",26
-"Fried Chicken","Bulgarian",45
+"Bulgarian Cheese Toast","Bulgarian",26
+"Garash Cake","Bulgarian",26
+"Sarmi","Bulgarian",26
+"Shopska Salata","Bulgarian",29
+"Kavarma","Bulgarian",29
+"Banitsa","Bulgarian",29
+"Mekitsa","Bulgarian",29
+"Musaka","Bulgarian",29
+"Tarator","Bulgarian",29
+"Kadaif","Bulgarian",29
+"Bulgarian Cheese Toast","Bulgarian",29
+"Garash Cake","Bulgarian",29
+"Sarmi","Bulgarian",29
+"Shopska Salata","Bulgarian",45
+"Kavarma","Bulgarian",45
+"Banitsa","Bulgarian",45
+"Mekitsa","Bulgarian",45
+"Musaka","Bulgarian",45
+"Tarator","Bulgarian",45
 "Kadaif","Bulgarian",45
-"Fried Chicken","Bulgarian",51
-"Kadaif","Bulgarian",51
-"Fried Chicken","Bulgarian",65
-"Kadaif","Bulgarian",65
-"Fried Chicken","Bulgarian",67
-"Kadaif","Bulgarian",67
-"Fried Chicken","Bulgarian",94
+"Bulgarian Cheese Toast","Bulgarian",45
+"Garash Cake","Bulgarian",45
+"Sarmi","Bulgarian",45
+"Shopska Salata","Bulgarian",53
+"Kavarma","Bulgarian",53
+"Banitsa","Bulgarian",53
+"Mekitsa","Bulgarian",53
+"Musaka","Bulgarian",53
+"Tarator","Bulgarian",53
+"Kadaif","Bulgarian",53
+"Bulgarian Cheese Toast","Bulgarian",53
+"Garash Cake","Bulgarian",53
+"Sarmi","Bulgarian",53
+"Shopska Salata","Bulgarian",55
+"Kavarma","Bulgarian",55
+"Banitsa","Bulgarian",55
+"Mekitsa","Bulgarian",55
+"Musaka","Bulgarian",55
+"Tarator","Bulgarian",55
+"Kadaif","Bulgarian",55
+"Bulgarian Cheese Toast","Bulgarian",55
+"Garash Cake","Bulgarian",55
+"Sarmi","Bulgarian",55
+"Shopska Salata","Bulgarian",82
+"Kavarma","Bulgarian",82
+"Banitsa","Bulgarian",82
+"Mekitsa","Bulgarian",82
+"Musaka","Bulgarian",82
+"Tarator","Bulgarian",82
+"Kadaif","Bulgarian",82
+"Bulgarian Cheese Toast","Bulgarian",82
+"Garash Cake","Bulgarian",82
+"Sarmi","Bulgarian",82
+"Shopska Salata","Bulgarian",93
+"Kavarma","Bulgarian",93
+"Banitsa","Bulgarian",93
+"Mekitsa","Bulgarian",93
+"Musaka","Bulgarian",93
+"Tarator","Bulgarian",93
+"Kadaif","Bulgarian",93
+"Bulgarian Cheese Toast","Bulgarian",93
+"Garash Cake","Bulgarian",93
+"Sarmi","Bulgarian",93
+"Shopska Salata","Bulgarian",94
+"Kavarma","Bulgarian",94
+"Banitsa","Bulgarian",94
+"Mekitsa","Bulgarian",94
+"Musaka","Bulgarian",94
+"Tarator","Bulgarian",94
 "Kadaif","Bulgarian",94
-"Fried Chicken","Bulgarian",96
-"Kadaif","Bulgarian",96
+"Bulgarian Cheese Toast","Bulgarian",94
+"Garash Cake","Bulgarian",94
+"Sarmi","Bulgarian",94
+"Chicken Biryani","Indian",16
+"Mango Lassi","Indian",16
+"Palak Paneer","Indian",16
+"Chicken Biryani","Indian",18
+"Mango Lassi","Indian",18
+"Palak Paneer","Indian",18
+"Chicken Biryani","Indian",27
+"Mango Lassi","Indian",27
+"Palak Paneer","Indian",27
+"Chicken Biryani","Indian",55
+"Mango Lassi","Indian",55
+"Palak Paneer","Indian",55
+"Chicken Biryani","Indian",61
+"Mango Lassi","Indian",61
+"Palak Paneer","Indian",61
+"Chicken Biryani","Indian",62
+"Mango Lassi","Indian",62
+"Palak Paneer","Indian",62
+"Chicken Biryani","Indian",84
+"Mango Lassi","Indian",84
+"Palak Paneer","Indian",84
+"Chiles en Nogada","Mexican",16
+"Flan","Mexican",16
+"Tacos al Pastor","Mexican",16
+"Chiles en Nogada","Mexican",21
+"Flan","Mexican",21
+"Tacos al Pastor","Mexican",21
+"Chiles en Nogada","Mexican",42
+"Flan","Mexican",42
+"Tacos al Pastor","Mexican",42
+"Chiles en Nogada","Mexican",43
+"Flan","Mexican",43
+"Tacos al Pastor","Mexican",43
+"Chiles en Nogada","Mexican",44
+"Flan","Mexican",44
+"Tacos al Pastor","Mexican",44
+"Chiles en Nogada","Mexican",48
+"Flan","Mexican",48
+"Tacos al Pastor","Mexican",48
+"Chiles en Nogada","Mexican",55
+"Flan","Mexican",55
+"Tacos al Pastor","Mexican",55
+"Chiles en Nogada","Mexican",63
+"Flan","Mexican",63
+"Tacos al Pastor","Mexican",63
+"Chiles en Nogada","Mexican",69
+"Flan","Mexican",69
+"Tacos al Pastor","Mexican",69
+"Chiles en Nogada","Mexican",70
+"Flan","Mexican",70
+"Tacos al Pastor","Mexican",70
+"Chiles en Nogada","Mexican",72
+"Flan","Mexican",72
+"Tacos al Pastor","Mexican",72
+"Chiles en Nogada","Mexican",75
+"Flan","Mexican",75
+"Tacos al Pastor","Mexican",75
+"Chiles en Nogada","Mexican",79
+"Flan","Mexican",79
+"Tacos al Pastor","Mexican",79
+"Chiles en Nogada","Mexican",80
+"Flan","Mexican",80
+"Tacos al Pastor","Mexican",80
+"Chiles en Nogada","Mexican",89
+"Flan","Mexican",89
+"Tacos al Pastor","Mexican",89
+"Chiles en Nogada","Mexican",91
+"Flan","Mexican",91
+"Tacos al Pastor","Mexican",91
+"Chiles en Nogada","Mexican",94
+"Flan","Mexican",94
+"Tacos al Pastor","Mexican",94
+"Chiles en Nogada","Mexican",98
+"Flan","Mexican",98
+"Tacos al Pastor","Mexican",98
+"Doro Wat","Ethiopian",17
+"Injera","Ethiopian",17
+"Kitfo","Ethiopian",17
+"Doro Wat","Ethiopian",22
+"Injera","Ethiopian",22
+"Kitfo","Ethiopian",22
+"Doro Wat","Ethiopian",27
+"Injera","Ethiopian",27
+"Kitfo","Ethiopian",27
+"Doro Wat","Ethiopian",40
+"Injera","Ethiopian",40
+"Kitfo","Ethiopian",40
+"Doro Wat","Ethiopian",67
+"Injera","Ethiopian",67
+"Kitfo","Ethiopian",67
+"Doro Wat","Ethiopian",78
+"Injera","Ethiopian",78
+"Kitfo","Ethiopian",78
+"Doro Wat","Ethiopian",87
+"Injera","Ethiopian",87
+"Kitfo","Ethiopian",87
+"Cheeseburger","American",17
+"Apple Pie","American",17
+"Fried Chicken","American",17
+"Macaroni and Cheese","American",17
+"Barbecue Ribs","American",17
+"Pancakes","American",17
+"Chocolate Chip Cookies","American",17
+"BLT Sandwich","American",17
+"Clam Chowder","American",17
+"Brownies","American",17
+"Cheeseburger","American",28
+"Apple Pie","American",28
+"Fried Chicken","American",28
+"Macaroni and Cheese","American",28
+"Barbecue Ribs","American",28
+"Pancakes","American",28
+"Chocolate Chip Cookies","American",28
+"BLT Sandwich","American",28
+"Clam Chowder","American",28
+"Brownies","American",28
+"Cheeseburger","American",50
+"Apple Pie","American",50
+"Fried Chicken","American",50
+"Macaroni and Cheese","American",50
+"Barbecue Ribs","American",50
+"Pancakes","American",50
+"Chocolate Chip Cookies","American",50
+"BLT Sandwich","American",50
+"Clam Chowder","American",50
+"Brownies","American",50
+"Cheeseburger","American",54
+"Apple Pie","American",54
+"Fried Chicken","American",54
+"Macaroni and Cheese","American",54
+"Barbecue Ribs","American",54
+"Pancakes","American",54
+"Chocolate Chip Cookies","American",54
+"BLT Sandwich","American",54
+"Clam Chowder","American",54
+"Brownies","American",54
+"Cheeseburger","American",56
+"Apple Pie","American",56
+"Fried Chicken","American",56
+"Macaroni and Cheese","American",56
+"Barbecue Ribs","American",56
+"Pancakes","American",56
+"Chocolate Chip Cookies","American",56
+"BLT Sandwich","American",56
+"Clam Chowder","American",56
+"Brownies","American",56
+"Cheeseburger","American",60
+"Apple Pie","American",60
+"Fried Chicken","American",60
+"Macaroni and Cheese","American",60
+"Barbecue Ribs","American",60
+"Pancakes","American",60
+"Chocolate Chip Cookies","American",60
+"BLT Sandwich","American",60
+"Clam Chowder","American",60
+"Brownies","American",60
+"Cheeseburger","American",64
+"Apple Pie","American",64
+"Fried Chicken","American",64
+"Macaroni and Cheese","American",64
+"Barbecue Ribs","American",64
+"Pancakes","American",64
+"Chocolate Chip Cookies","American",64
+"BLT Sandwich","American",64
+"Clam Chowder","American",64
+"Brownies","American",64
+"Cheeseburger","American",77
+"Apple Pie","American",77
+"Fried Chicken","American",77
+"Macaroni and Cheese","American",77
+"Barbecue Ribs","American",77
+"Pancakes","American",77
+"Chocolate Chip Cookies","American",77
+"BLT Sandwich","American",77
+"Clam Chowder","American",77
+"Brownies","American",77
+"Cheeseburger","American",99
+"Apple Pie","American",99
+"Fried Chicken","American",99
+"Macaroni and Cheese","American",99
+"Barbecue Ribs","American",99
+"Pancakes","American",99
+"Chocolate Chip Cookies","American",99
+"BLT Sandwich","American",99
+"Clam Chowder","American",99
+"Brownies","American",99
+"Ghapama","Armenian",19
+"Harissa","Armenian",19
+"Lahmajoun","Armenian",19
+"Ghapama","Armenian",30
+"Harissa","Armenian",30
+"Lahmajoun","Armenian",30
+"Ghapama","Armenian",39
+"Harissa","Armenian",39
+"Lahmajoun","Armenian",39
+"Ghapama","Armenian",41
+"Harissa","Armenian",41
+"Lahmajoun","Armenian",41
+"Ghapama","Armenian",51
+"Harissa","Armenian",51
+"Lahmajoun","Armenian",51
+"Ghapama","Armenian",87
+"Harissa","Armenian",87
+"Lahmajoun","Armenian",87
+"Ghapama","Armenian",89
+"Harissa","Armenian",89
+"Lahmajoun","Armenian",89
+"Ghapama","Armenian",91
+"Harissa","Armenian",91
+"Lahmajoun","Armenian",91
+"Ghapama","Armenian",92
+"Harissa","Armenian",92
+"Lahmajoun","Armenian",92
