@@ -127,7 +127,8 @@ SELECT c.id, count(*) as appearances
 				FROM episode_has_recipe ehr2 
 				GROUP BY ehr2.recipe_cuisine_name, ehr2.episode_year
 				HAVING (ehr2.recipe_cuisine_name <> ehr1.recipe_cuisine_name) AND (ehr2.episode_year = ehr1.episode_year + 1 OR ehr2.episode_year = ehr1.episode_year - 1)
-        ) AND appearances >= 3;
+        ) AND appearances >= 3
+	    	ORDER BY appearances;
         
 	-- 3.11
     SELECT g.judge_chef_id, g.participant_chef_id, g.total_grade
