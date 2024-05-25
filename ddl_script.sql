@@ -344,6 +344,12 @@ CREATE TABLE IF NOT EXISTS `mydb`.`food_info` (
     ON UPDATE CASCADE)
 ENGINE = InnoDB;
 
+CREATE VIEW RecipeCaloriesPerPortion AS
+	SELECT r.name, r.cuisine_name, SUM((rhi.quantity / 100.0) * i.cal_per_100) / r.portions AS calories_per_portion
+		FROM recipe_has_ingredient rhi
+			INNER JOIN ingredient i ON rhi.ingredient_name = i.name
+			INNER JOIN recipe r ON (rhi.recipe_name = r.name AND rhi.recipe_cuisine_name = r.cuisine_name)
+		GROUP BY r.name, r.cuisine_name;
 
 -- -----------------------------------------------------
 -- Table `mydb`.`chef`
