@@ -1,6 +1,7 @@
 -- 3.1
-SELECT avg(grade), g.participant_chef_id
+SELECT avg(grade), c.first_name, c.last_name, g.participant_chef_id
 	FROM grading g 
+		INNER JOIN chef c ON c.id = g.participant_chef_id
 	GROUP BY g.participant_chef_id;
 
 SELECT avg(grade), ehr.recipe_cuisine_name
@@ -15,7 +16,7 @@ DELIMITER //
 
 CREATE PROCEDURE `get_cuisine`(IN mycuisine VARCHAR(128))
 BEGIN
-    SELECT c.id, mycuisine
+    SELECT c.id, c.first_name, c.last_name, mycuisine
     FROM chef c
     INNER JOIN chef_has_cuisine chc ON c.id = chc.chef_id
     WHERE chc.cuisine_name = mycuisine;
@@ -27,7 +28,7 @@ DELIMITER //
 
 CREATE PROCEDURE `get_year`(IN my_year INT)
 BEGIN
-    SELECT c.id, c.first_name, c.last_name, my_year
+    SELECT DISTINCT c.id, c.first_name, c.last_name, my_year
     FROM chef c 
     INNER JOIN episode_has_recipe ehr ON c.id = ehr.chef_id
     WHERE ehr.episode_year = my_year;
@@ -59,7 +60,7 @@ SELECT c.id, c.first_name, c.last_name, c.age, COUNT(*) AS max_recipe_count
 	);
 
 -- 3.4
-SELECT id
+SELECT id, first_name, last_name
 	FROM chef 
     WHERE id NOT IN 
 		(SELECT c.id 
@@ -67,8 +68,9 @@ SELECT id
 				INNER JOIN episode_judges ej ON ej.chef_id = c.id);
 
 -- 3.5
-SELECT ej.chef_id, count(*) as appearances
+SELECT ej.chef_id, c.first_name, c.last_name, count(*) as appearances
 	FROM episode_judges ej
+		INNER JOIN chef c ON c.id = ej.chef_id
 	GROUP BY ej.chef_id, ej.episode_year
 	HAVING appearances = ANY
 		(SELECT count(*) 
@@ -87,7 +89,7 @@ SELECT LEAST(rhl1.label_name, rhl2.label_name) AS label_name1, GREATEST(rhl1.lab
         limit 3;
 
 -- 3.7
-SELECT c.id, count(*) as appearances
+SELECT c.id, c.first_name, c.last_name, count(*) as appearances
 	FROM chef c
 		INNER JOIN episode_has_recipe ehr ON ehr.chef_id = c.id
     GROUP BY c.id
@@ -112,13 +114,14 @@ SELECT c.id, count(*) as appearances
     limit 1;
     
     -- 3.9
-    SELECT avg(carbohydrate)
+    SELECT avg(carbohydrate), ehr.episode_year
 	FROM food_info fi
 		INNER JOIN recipe r ON (r.name = fi.recipe_name AND r.cuisine_name = fi.recipe_cuisine_name)
         INNER JOIN episode_has_recipe ehr ON (ehr.recipe_name = r.name AND ehr.recipe_cuisine_name = r.cuisine_name)
-        GROUP BY ehr.episode_year;
+        GROUP BY ehr.episode_year
+        ORDER BY ehr.episode_year;
 	
-    -- 3.10 (;)
+    -- 3.10 
     SELECT DISTINCT ehr1.recipe_cuisine_name, count(*) as appearances
 		FROM episode_has_recipe ehr1
 		GROUP BY ehr1.recipe_cuisine_name, ehr1.episode_year
@@ -131,14 +134,20 @@ SELECT c.id, count(*) as appearances
 	    	ORDER BY appearances;
         
 	-- 3.11
-    SELECT g.judge_chef_id, g.participant_chef_id, g.total_grade
+    SELECT g.judge_chef_id, g.f1, g.l1, g.participant_chef_id, g.f2, g.l2, g.total_grade
 		FROM (
 			SELECT 
-				g.judge_chef_id, 
-				g.participant_chef_id, 
+				g.judge_chef_id,
+                c1.first_name as f1,
+                c1.last_name as l1,
+				g.participant_chef_id,
+                c2.first_name as f2,
+                c2.last_name as l2,
 				SUM(g.grade) AS total_grade,
 				ROW_NUMBER() OVER (PARTITION BY g.judge_chef_id ORDER BY SUM(g.grade) DESC) AS rn
 					FROM grading g
+						INNER JOIN chef c1 ON c1.id = g.judge_chef_id
+                        INNER JOIN chef c2 ON c2.id = g.participant_chef_id
 					GROUP BY g.judge_chef_id, g.participant_chef_id
 		) g
 		WHERE g.rn = 1
@@ -193,4 +202,3 @@ SELECT s1.episode_id, s1.episode_year, (s1.episode_chef_rank + s2.episode_judge_
 				INNER JOIN recipe r ON (r.name = rhi.recipe_name AND r.cuisine_name = rhi.recipe_cuisine_name)
                 INNER JOIN episode_has_recipe ehr ON (ehr.recipe_name = r.name AND ehr.recipe_cuisine_name = r.cuisine_name)
 		);
-
